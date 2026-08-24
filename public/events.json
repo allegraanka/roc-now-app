@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-08-24T23:09:54.942Z",
+  "timezone": "America/New_York",
+  "day": "Monday",
+  "date": "2026-08-24",
+  "count": 4,
+  "events": [
+    {
+      "id": "2c758978e9db8c0b",
+      "title": "$3 Cans at Lux",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-08-24T21:00:00.000Z",
+      "endTime": "2026-08-25T03:00:00.000Z",
+      "weekday": "Monday",
+      "source": "live",
+      "description": "Stub duplicate of the Monday recurring special."
+    },
+    {
+      "id": "e1dd7fe9d08354e0",
+      "title": "Garage Rock: The Retro Jets",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-08-25T01:00:00.000Z",
+      "endTime": "2026-08-25T04:00:00.000Z",
+      "weekday": "Monday",
+      "source": "live",
+      "description": "Monroe Ave's favorite dive-stage bill."
+    },
+    {
+      "id": "c218794e29743f84",
+      "title": "Industry Night",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.15155,
+        "lng": -77.59548
+      },
+      "startTime": "2026-08-25T01:00:00.000Z",
+      "endTime": "2026-08-25T04:00:00.000Z",
+      "weekday": "Monday",
+      "source": "recurring",
+      "description": "Service-industry pours and a late jukebox."
+    },
+    {
+      "id": "b375ad6e1f27eaf9",
+      "title": "Soul & Funk Dance Night",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-08-25T01:30:00.000Z",
+      "endTime": "2026-08-25T05:00:00.000Z",
+      "weekday": "Monday",
+      "source": "live",
+      "description": "DJs spinning 60s-80s vinyl after the last frame."
+    }
+  ]
+}

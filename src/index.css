@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@source "../index.html";
+@source "./**/*.{js,jsx}";
+
+@theme {
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-mono);
+}
+
+#root {
+  min-height: 100svh;
+}
