@@ -403,16 +403,6 @@ function wallClockToDate(year, month, day, hour, minute) {
   return new Date(utc)
 }
 
-function ymdInRochester(date) {
-  const parts = formatParts(date, {
-    timeZone: TIMEZONE,
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-  })
-  return `${parts.year}-${parts.month}-${parts.day}`
-}
-
 function cleanText(value) {
   return String(value ?? '')
     .replace(/<!\[CDATA\[|\]\]>/g, '')
@@ -563,11 +553,6 @@ function itemIsToday(item, calendar) {
   const blob = `${title} ${description}`
   if (dateRangeIncludesToday(blob, calendar)) return true
 
-  const instant = item.isoDate ? new Date(item.isoDate) : item.pubDate ? new Date(item.pubDate) : null
-  if (instant && !Number.isNaN(instant.getTime()) && ymdInRochester(instant) === calendar.ymd) {
-    return true
-  }
-
   const pattern =
     /\b(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?\s+(\d{1,2})\b/gi
   for (const match of blob.matchAll(pattern)) {
@@ -649,13 +634,18 @@ async function ingestLittleTheatre(feed, calendar) {
   }
 
   for (const extraUrl of feed.extraUrls ?? []) {
-    const specials = await fetchRss(extraUrl)
-    for (const item of specials.items ?? []) {
-      const mapped = mapRssItem(item, feed, calendar)
-      if (mapped) {
-        mapped.category = categorize(mapped.title, mapped.description, mapped.category)
-        events.push(mapped)
+    try {
+      const specials = await fetchRss(extraUrl)
+      for (const item of specials.items ?? []) {
+        const mapped = mapRssItem(item, feed, calendar)
+        if (mapped) {
+          mapped.category = categorize(mapped.title, mapped.description, mapped.category)
+          events.push(mapped)
+        }
       }
+    } catch (error) {
+      const reason = error instanceof Error ? error.message : String(error)
+      console.warn(`Little Theatre extra feed failed: ${reason}`)
     }
   }
 
