@@ -2,8 +2,12 @@ name: Scrape events
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: scrape-events-${{ github.ref_name }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -13,12 +17,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
 
       - name: Install dependencies
@@ -34,7 +41,8 @@ jobs:
           git add public/events.json
           if git diff --staged --quiet; then
             echo "No changes to public/events.json"
-          else
-            git commit -m "chore: update public/events.json"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update public/events.json"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
