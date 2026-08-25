@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-08-25T02:55:27.213Z",
+  "generatedAt": "2026-08-25T04:35:51.428Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-08-24",
-  "count": 4,
+  "day": "Tuesday",
+  "date": "2026-08-25",
+  "count": 5,
   "events": [
+    {
+      "id": "d1311e1716dfdd8a",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14092,
+        "lng": -77.58471
+      },
+      "startTime": "2026-08-25T20:00:00.000Z",
+      "endTime": "2026-08-26T03:00:00.000Z",
+      "weekday": "Tuesday",
+      "source": "recurring",
+      "description": "Two-dollar drafts until they kick you out."
+    },
     {
       "id": "2c758978e9db8c0b",
       "title": "$3 Cans at Lux",
@@ -15,11 +31,27 @@
         "lat": 43.14624,
         "lng": -77.60555
       },
-      "startTime": "2026-08-24T21:00:00.000Z",
-      "endTime": "2026-08-25T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-08-25T21:00:00.000Z",
+      "endTime": "2026-08-26T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "live",
       "description": "Stub duplicate of the Monday recurring special."
+    },
+    {
+      "id": "10b074c6c7c50ade",
+      "title": "Trivia Tuesday",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.15155,
+        "lng": -77.59548
+      },
+      "startTime": "2026-08-25T23:00:00.000Z",
+      "endTime": "2026-08-26T01:30:00.000Z",
+      "weekday": "Tuesday",
+      "source": "recurring",
+      "description": "Pub quiz in the front room. Teams of six."
     },
     {
       "id": "e1dd7fe9d08354e0",
@@ -31,27 +63,11 @@
         "lat": 43.1500857,
         "lng": -77.6001883
       },
-      "startTime": "2026-08-25T01:00:00.000Z",
-      "endTime": "2026-08-25T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-08-26T01:00:00.000Z",
+      "endTime": "2026-08-26T04:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "live",
       "description": "Monroe Ave's favorite dive-stage bill."
-    },
-    {
-      "id": "c218794e29743f84",
-      "title": "Industry Night",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-08-25T01:00:00.000Z",
-      "endTime": "2026-08-25T04:00:00.000Z",
-      "weekday": "Monday",
-      "source": "recurring",
-      "description": "Service-industry pours and a late jukebox."
     },
     {
       "id": "b375ad6e1f27eaf9",
@@ -63,9 +79,9 @@
         "lat": 43.1504626,
         "lng": -77.5614512
       },
-      "startTime": "2026-08-25T01:30:00.000Z",
-      "endTime": "2026-08-25T05:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-08-26T01:30:00.000Z",
+      "endTime": "2026-08-26T05:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "live",
       "description": "DJs spinning 60s-80s vinyl after the last frame."
     }
