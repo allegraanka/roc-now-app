@@ -1,45 +1,135 @@
 {
-  "generatedAt": "2026-08-26T03:30:56.988Z",
+  "generatedAt": "2026-08-26T04:30:52.392Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-08-25",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-08-26",
+  "count": 7,
   "events": [
     {
-      "id": "490272d4e4733e22",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "0746a858abc5b39e",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-08-25T20:00:00.000Z",
-      "endTime": "2026-08-26T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-08-26T20:00:00.000Z",
+      "endTime": "2026-08-27T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "6812cdd4a0a67e4f",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "55b9791d78cab8ae",
+      "title": "The Odyssey",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-08-25T23:00:00.000Z",
-      "endTime": "2026-08-26T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-08-26T22:00:00.000Z",
+      "endTime": "2026-08-27T00:52:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/odyssey/",
+      "description": "OPENS THURSDAY, JULY 16 | Christopher Nolan’s next film, The Odyssey, is a mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland, Robert Pattinson, Lupita Nyong'o, Zendaya, and Charlize Theron."
+    },
+    {
+      "id": "50470aeb40ad9f63",
+      "title": "The Big Cheese",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-26T22:15:00.000Z",
+      "endTime": "2026-08-26T23:15:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-big-cheese/",
+      "description": "OPENS AUGUST 7 | ONE WEEK ONLY! | An underdog team of American cheesemongers competes for first place at France's Mondial du Fromage, the Olympics of cheese. Sara Joe Wolansky’s supremely witty and entertaining directorial debut is an instant artisanal classic."
+    },
+    {
+      "id": "0d66b748307cb589",
+      "title": "Hot Spot",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-26T22:30:00.000Z",
+      "endTime": "2026-08-27T00:10:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hot-spot/",
+      "description": "OPENS AUGUST 21 | In the late 21st century, an investigator and a member of a feared religious sect are brought together by a murder in a refugee camp. A new vision of the future from director Agnieszka Smoczynska (“The Lure”)."
+    },
+    {
+      "id": "723f5933f38061ce",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-26T22:45:00.000Z",
+      "endTime": "2026-08-27T00:31:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/camp-miasma/",
+      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+    },
+    {
+      "id": "9fb0bcd95aaa93bf",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-26T23:00:00.000Z",
+      "endTime": "2026-08-27T00:46:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "38b49c877fba4f6b",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-08-27T01:00:00.000Z",
+      "endTime": "2026-08-27T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
