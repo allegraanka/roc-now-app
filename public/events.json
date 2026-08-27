@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-26T23:51:54.896Z",
+  "generatedAt": "2026-08-27T05:49:18.855Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-08-26",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-08-27",
+  "count": 8,
   "events": [
     {
-      "id": "0746a858abc5b39e",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "2db211f1c0fc1659",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-08-26T20:00:00.000Z",
-      "endTime": "2026-08-27T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-08-27T22:00:00.000Z",
+      "endTime": "2026-08-28T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "55b9791d78cab8ae",
+      "id": "e4eee72e0519801f",
       "title": "The Odyssey",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,69 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-08-26T22:00:00.000Z",
-      "endTime": "2026-08-27T00:52:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-08-27T22:00:00.000Z",
+      "endTime": "2026-08-28T00:52:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/odyssey/",
       "description": "OPENS THURSDAY, JULY 16 | Christopher Nolan’s next film, The Odyssey, is a mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland, Robert Pattinson, Lupita Nyong'o, Zendaya, and Charlize Theron."
     },
     {
-      "id": "50470aeb40ad9f63",
-      "title": "The Big Cheese",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-08-26T22:15:00.000Z",
-      "endTime": "2026-08-26T23:15:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-big-cheese/",
-      "description": "OPENS AUGUST 7 | ONE WEEK ONLY! | An underdog team of American cheesemongers competes for first place at France's Mondial du Fromage, the Olympics of cheese. Sara Joe Wolansky’s supremely witty and entertaining directorial debut is an instant artisanal classic."
-    },
-    {
-      "id": "0d66b748307cb589",
-      "title": "Hot Spot",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-08-26T22:30:00.000Z",
-      "endTime": "2026-08-27T00:10:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/hot-spot/",
-      "description": "OPENS AUGUST 21 | In the late 21st century, an investigator and a member of a feared religious sect are brought together by a murder in a refugee camp. A new vision of the future from director Agnieszka Smoczynska (“The Lure”)."
-    },
-    {
-      "id": "723f5933f38061ce",
-      "title": "Teenage Sex and Death at Camp Miasma",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-08-26T22:45:00.000Z",
-      "endTime": "2026-08-27T00:31:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/camp-miasma/",
-      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
-    },
-    {
-      "id": "9fb0bcd95aaa93bf",
+      "id": "6aa9d33d5478374c",
       "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,30 +52,102 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-08-26T23:00:00.000Z",
-      "endTime": "2026-08-27T00:46:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-08-27T22:15:00.000Z",
+      "endTime": "2026-08-28T00:01:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "38b49c877fba4f6b",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
+      "id": "65c87b46db86342e",
+      "title": "Hot Spot",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-08-27T01:00:00.000Z",
-      "endTime": "2026-08-27T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-08-27T22:30:00.000Z",
+      "endTime": "2026-08-28T00:10:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hot-spot/",
+      "description": "OPENS AUGUST 21 | In the late 21st century, an investigator and a member of a feared religious sect are brought together by a murder in a refugee camp. A new vision of the future from director Agnieszka Smoczynska (“The Lure”)."
+    },
+    {
+      "id": "c547da4e19aa3701",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-27T22:45:00.000Z",
+      "endTime": "2026-08-28T00:31:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/camp-miasma/",
+      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+    },
+    {
+      "id": "7cd24eb606f7e6c5",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-08-27T23:00:00.000Z",
+      "endTime": "2026-08-28T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "4d412abe59018eba",
+      "title": "Summer Wars – Aug. 27",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-08-27T23:30:00.000Z",
+      "endTime": "2026-08-28T01:30:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/summer-wars/",
+      "description": "WORLD OF ANIMATION | Thursday, August 27 at 7:30pm | A student tries to stop a rogue AI program in OZ, a digital world, while pretending to be the fiancé of his friend. A timeless epic that explores life in the digital age from Academy Award-nominated director Mamoru Hosoda. New 4K restoration."
+    },
+    {
+      "id": "0086984e45a7f5c0",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-08-28T02:00:00.000Z",
+      "endTime": "2026-08-28T06:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
