@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T19:00:29.081Z",
+  "generatedAt": "2026-08-29T21:50:08.420Z",
   "timezone": "America/New_York",
   "day": "Saturday",
   "date": "2026-08-29",
-  "count": 21,
+  "count": 20,
   "events": [
     {
       "id": "7cd0daa9402567b4",
@@ -256,24 +256,6 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/camp-miasma/",
       "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
-    },
-    {
-      "id": "a49696ab35ed889e",
-      "title": "Dave Alhart “As Long As I Have Music” – Aug. 29",
-      "venue": "The Little",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Live Music",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-08-29T23:00:00.000Z",
-      "endTime": "2026-08-30T01:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/dave-alhart-as-long-as-i-have-music-aug-29/",
-      "description": "An event taking place at The Little. | Ticketing not run by The Little, so Little discounts / member benefits do not apply to this event."
     },
     {
       "id": "11e9eb9b3679e423",
