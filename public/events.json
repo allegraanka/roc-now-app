@@ -1,45 +1,135 @@
 {
-  "generatedAt": "2026-09-02T01:14:49.168Z",
+  "generatedAt": "2026-09-02T06:02:55.696Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-09-01",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-09-02",
+  "count": 7,
   "events": [
     {
-      "id": "f8a152557cb3c94f",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "7d1c697e5722d975",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-09-01T20:00:00.000Z",
-      "endTime": "2026-09-02T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-02T20:00:00.000Z",
+      "endTime": "2026-09-03T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "147b9df9d2acef25",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "76e6f625d55d87af",
+      "title": "The Rivals of Amziah King",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-09-01T23:00:00.000Z",
-      "endTime": "2026-09-02T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-02T22:00:00.000Z",
+      "endTime": "2026-09-03T00:10:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-rivals-of-amziah-king/",
+      "description": "OPENS AUGUST 14 | Amziah King (Matthew McConaughey), beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri (Angelina LookingGlass) after many years apart, and fends off threats to his honey business. A contemporary western from the director of “The Vast of Night.”"
+    },
+    {
+      "id": "be331d64efd120e6",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-02T22:15:00.000Z",
+      "endTime": "2026-09-03T00:01:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "0b3cadf2bd2b0f7f",
+      "title": "Union County",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-02T22:30:00.000Z",
+      "endTime": "2026-09-03T00:07:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/union-county/",
+      "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
+    },
+    {
+      "id": "d186f3809857689c",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-02T22:45:00.000Z",
+      "endTime": "2026-09-03T00:31:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/camp-miasma/",
+      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+    },
+    {
+      "id": "68122e51144c377f",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-02T23:00:00.000Z",
+      "endTime": "2026-09-03T00:43:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "037cd04c2f1919e5",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-09-03T01:00:00.000Z",
+      "endTime": "2026-09-03T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
