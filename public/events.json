@@ -1,66 +1,30 @@
 {
-  "generatedAt": "2026-09-03T02:06:27.131Z",
+  "generatedAt": "2026-09-03T07:16:51.898Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-09-02",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-09-03",
+  "count": 8,
   "events": [
     {
-      "id": "7d1c697e5722d975",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "afeb5713d24cbdc3",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-02T20:00:00.000Z",
-      "endTime": "2026-09-03T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-03T22:00:00.000Z",
+      "endTime": "2026-09-04T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "76e6f625d55d87af",
-      "title": "The Rivals of Amziah King",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-02T22:00:00.000Z",
-      "endTime": "2026-09-03T00:10:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-rivals-of-amziah-king/",
-      "description": "OPENS AUGUST 14 | Amziah King (Matthew McConaughey), beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri (Angelina LookingGlass) after many years apart, and fends off threats to his honey business. A contemporary western from the director of “The Vast of Night.”"
-    },
-    {
-      "id": "be331d64efd120e6",
-      "title": "Tony",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-02T22:15:00.000Z",
-      "endTime": "2026-09-03T00:01:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/tony-2026/",
-      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
-    },
-    {
-      "id": "0b3cadf2bd2b0f7f",
+      "id": "6c1797c77c44846c",
       "title": "Union County",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,16 +34,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-02T22:30:00.000Z",
-      "endTime": "2026-09-03T00:07:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-03T22:00:00.000Z",
+      "endTime": "2026-09-03T23:37:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/union-county/",
       "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
     },
     {
-      "id": "d186f3809857689c",
-      "title": "Teenage Sex and Death at Camp Miasma",
+      "id": "a4ffbfb3f96650ad",
+      "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -88,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-02T22:45:00.000Z",
-      "endTime": "2026-09-03T00:31:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-03T22:15:00.000Z",
+      "endTime": "2026-09-04T00:01:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/camp-miasma/",
-      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "68122e51144c377f",
+      "id": "bfb30297e4bb0d8c",
       "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,30 +70,84 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-02T23:00:00.000Z",
-      "endTime": "2026-09-03T00:43:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-03T22:30:00.000Z",
+      "endTime": "2026-09-04T00:13:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/coyote-vs-acme/",
       "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
     },
     {
-      "id": "037cd04c2f1919e5",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
+      "id": "6da6db6b67e72342",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-09-03T01:00:00.000Z",
-      "endTime": "2026-09-03T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-03T22:45:00.000Z",
+      "endTime": "2026-09-04T00:31:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/camp-miasma/",
+      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+    },
+    {
+      "id": "b0c57f1b512fd717",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-09-03T23:00:00.000Z",
+      "endTime": "2026-09-04T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "de2194a0c0f45b9d",
+      "title": "The Dark Crystal – Sept. 3",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-03T23:00:00.000Z",
+      "endTime": "2026-09-04T01:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-dark-crystal/",
+      "description": "FOAM, FELT & FROGS | Thursday, September 3 at 7:00pm | On another planet in the distant past, the last of the Gelfling race embarks on a quest to find the missing shard of a magical crystal and to restore order to his world against the evil Skeksis. The no-human-all-puppet cult classic, directed by Jim Henson and Frank Oz."
+    },
+    {
+      "id": "ef064de1de1b1907",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-09-04T02:00:00.000Z",
+      "endTime": "2026-09-04T06:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
