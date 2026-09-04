@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T19:13:08.756Z",
+  "generatedAt": "2026-09-04T21:36:51.544Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-09-04",
-  "count": 18,
+  "count": 15,
   "events": [
     {
       "id": "e56c82c4daa91260",
@@ -76,24 +76,6 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/union-county/",
       "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
-    },
-    {
-      "id": "d6409afadd103ba1",
-      "title": "It Ends",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-04T19:30:00.000Z",
-      "endTime": "2026-09-04T20:59:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/it-ends/",
-      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
     },
     {
       "id": "1e79633a2fdebd53",
@@ -186,24 +168,6 @@
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
     },
     {
-      "id": "263e42aa435b124b",
-      "title": "It Ends",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-04T23:00:00.000Z",
-      "endTime": "2026-09-05T00:29:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/it-ends/",
-      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
-    },
-    {
       "id": "dcaeaa2a5ed0b719",
       "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
@@ -274,24 +238,6 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/filipinana/",
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
-    },
-    {
-      "id": "0c19abda127bf8fd",
-      "title": "It Ends",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-05T01:10:00.000Z",
-      "endTime": "2026-09-05T02:39:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/it-ends/",
-      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
     },
     {
       "id": "1d2d01ce5fed09cb",
