@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-09-05T02:03:34.660Z",
+  "generatedAt": "2026-09-05T07:00:19.109Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-09-04",
-  "count": 15,
+  "day": "Saturday",
+  "date": "2026-09-05",
+  "count": 19,
   "events": [
     {
-      "id": "e56c82c4daa91260",
+      "id": "052d9a056273e5b9",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-09-05T15:00:00.000Z",
+      "endTime": "2026-09-05T19:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "Lanes, coffee, and a bloody mary."
+    },
+    {
+      "id": "fcc41fe7b33e5fea",
       "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -16,15 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T18:30:00.000Z",
-      "endTime": "2026-09-04T20:13:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T15:30:00.000Z",
+      "endTime": "2026-09-05T17:13:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/coyote-vs-acme/",
       "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
     },
     {
-      "id": "39b69c260720b3ce",
+      "id": "9614814dee23e736",
       "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T18:45:00.000Z",
-      "endTime": "2026-09-04T20:31:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T15:45:00.000Z",
+      "endTime": "2026-09-05T17:31:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "d935f158b5d11a40",
+      "id": "c4fcf408ea4af1d5",
       "title": "Filipiñana",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T19:00:00.000Z",
-      "endTime": "2026-09-04T20:40:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T16:00:00.000Z",
+      "endTime": "2026-09-05T17:40:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/filipinana/",
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
     },
     {
-      "id": "4124a0b042c26bdf",
+      "id": "b28f60916ce6cfa9",
       "title": "Union County",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,33 +88,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T19:15:00.000Z",
-      "endTime": "2026-09-04T20:52:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T16:15:00.000Z",
+      "endTime": "2026-09-05T17:52:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/union-county/",
       "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
     },
     {
-      "id": "1e79633a2fdebd53",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "a6673cc3be7d7e96",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14682,
+        "lng": -77.60347
       },
-      "startTime": "2026-09-04T20:00:00.000Z",
-      "endTime": "2026-09-04T23:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T18:00:00.000Z",
+      "endTime": "2026-09-06T02:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "South Ave patio cans before the weekend crush."
+      "description": "One-off casks and a packed Gregory St bar."
     },
     {
-      "id": "1ab46deb73126aea",
+      "id": "f658bd42ce35b154",
       "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,15 +124,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T22:00:00.000Z",
-      "endTime": "2026-09-04T23:43:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T18:00:00.000Z",
+      "endTime": "2026-09-05T19:43:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/coyote-vs-acme/",
       "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
     },
     {
-      "id": "3cc515d6121e58f3",
+      "id": "7016349c2effa4e6",
       "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -124,33 +142,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T22:15:00.000Z",
-      "endTime": "2026-09-05T00:01:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T18:15:00.000Z",
+      "endTime": "2026-09-05T20:01:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "7f7d8527f3b780c1",
-      "title": "Union County",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-04T22:30:00.000Z",
-      "endTime": "2026-09-05T00:07:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/union-county/",
-      "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
-    },
-    {
-      "id": "b3301437267e58d1",
+      "id": "0bbfdb3ca791de4e",
       "title": "Filipiñana",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,51 +160,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-04T22:45:00.000Z",
-      "endTime": "2026-09-05T00:25:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T18:30:00.000Z",
+      "endTime": "2026-09-05T20:10:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/filipinana/",
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
     },
     {
-      "id": "dcaeaa2a5ed0b719",
-      "title": "Coyote vs. Acme",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-05T00:30:00.000Z",
-      "endTime": "2026-09-05T02:13:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/coyote-vs-acme/",
-      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
-    },
-    {
-      "id": "c77345e0bf50b3fd",
-      "title": "Tony",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-05T00:40:00.000Z",
-      "endTime": "2026-09-05T02:26:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/tony-2026/",
-      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
-    },
-    {
-      "id": "3eab42315af5b7b3",
+      "id": "3975ea1d3cd6b763",
       "title": "Teenage Sex and Death at Camp Miasma",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +178,51 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-05T00:50:00.000Z",
-      "endTime": "2026-09-05T02:36:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T18:45:00.000Z",
+      "endTime": "2026-09-05T20:31:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/camp-miasma/",
       "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
     },
     {
-      "id": "014677149a9db5fc",
+      "id": "54894f5fb5e87ab0",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-05T22:00:00.000Z",
+      "endTime": "2026-09-05T23:43:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "f1f893249c6fc7c1",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-05T22:15:00.000Z",
+      "endTime": "2026-09-06T00:01:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "2bcce13aea0044e9",
       "title": "Filipiñana",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,16 +232,106 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-05T01:00:00.000Z",
-      "endTime": "2026-09-05T02:40:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-05T22:30:00.000Z",
+      "endTime": "2026-09-06T00:10:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/filipinana/",
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
     },
     {
-      "id": "1d2d01ce5fed09cb",
-      "title": "Darkwave Dance Night",
+      "id": "a1b68a179fdf1e2a",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-05T22:45:00.000Z",
+      "endTime": "2026-09-06T00:31:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/camp-miasma/",
+      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+    },
+    {
+      "id": "4fc18c1dd5997fd3",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-06T00:30:00.000Z",
+      "endTime": "2026-09-06T02:13:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "14305d5b62e44b1f",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-06T00:40:00.000Z",
+      "endTime": "2026-09-06T02:26:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "604c12856aa85bd5",
+      "title": "Filipiñana",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-06T00:50:00.000Z",
+      "endTime": "2026-09-06T02:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/filipinana/",
+      "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
+    },
+    {
+      "id": "a3ad848f460c4adc",
+      "title": "Union County",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-06T01:10:00.000Z",
+      "endTime": "2026-09-06T02:47:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/union-county/",
+      "description": "OPENS AUGUST 28 | Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio. With Will Poulter and Noah Centineo."
+    },
+    {
+      "id": "840f2b0b1b600813",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -250,30 +340,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-09-05T02:00:00.000Z",
-      "endTime": "2026-09-05T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-06T02:00:00.000Z",
+      "endTime": "2026-09-06T06:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "ee1da38a01f466ce",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-09-05T02:00:00.000Z",
-      "endTime": "2026-09-05T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
