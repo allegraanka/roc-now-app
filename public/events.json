@@ -1,31 +1,49 @@
 {
-  "generatedAt": "2026-09-08T00:48:52.158Z",
+  "generatedAt": "2026-09-08T05:27:59.713Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-09-07",
+  "day": "Tuesday",
+  "date": "2026-09-08",
   "count": 3,
   "events": [
     {
-      "id": "4a46bc9f821ed324",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "cf21da56b66acb68",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-09-07T21:00:00.000Z",
-      "endTime": "2026-09-08T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-08T20:00:00.000Z",
+      "endTime": "2026-09-09T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "de37084cabf95670",
-      "title": "Coyote vs. Acme",
+      "id": "bc446fec31fb1335",
+      "title": "Trivia Tuesday",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.15155,
+        "lng": -77.59548
+      },
+      "startTime": "2026-09-08T23:00:00.000Z",
+      "endTime": "2026-09-09T01:30:00.000Z",
+      "weekday": "Tuesday",
+      "source": "recurring",
+      "link": "",
+      "description": "Pub quiz in the front room. Teams of six."
+    },
+    {
+      "id": "d1250a668c152472",
+      "title": "The VelociPastor 2 (w/ Q&A) – Sept. 8 | SOLD OUT",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -34,30 +52,12 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-07T22:30:00.000Z",
-      "endTime": "2026-09-08T00:13:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-08T23:30:00.000Z",
+      "endTime": "2026-09-09T01:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/coyote-vs-acme/",
-      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
-    },
-    {
-      "id": "7b561fbda9d86c6b",
-      "title": "Industry Night",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-09-08T01:00:00.000Z",
-      "endTime": "2026-09-08T04:00:00.000Z",
-      "weekday": "Monday",
-      "source": "recurring",
-      "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "link": "https://thelittle.org/velocipastor2/",
+      "description": "SPECIAL EVENT | Tuesday, September 8 at 7:30pm | In this sequel to the micro-budget hit \"The VelociPastor,\" Doug — the priest who can turn into a dinosaur — and Carol — his hooker-doctor-lawyer girlfriend — travel to Milan, where they have to solve a series of murders committed by a masked aggressor at an Italian Fertility Festival. Plus a live, in-person Q&A with the filmmakers!"
     }
   ]
 }
