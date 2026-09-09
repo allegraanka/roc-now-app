@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T15:35:30.201Z",
+  "generatedAt": "2026-09-09T18:56:32.423Z",
   "timezone": "America/New_York",
   "day": "Wednesday",
   "date": "2026-09-09",
-  "count": 4,
+  "count": 6,
   "events": [
     {
       "id": "44e34d39443dcf70",
@@ -40,6 +40,42 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/filipinana/",
       "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
+    },
+    {
+      "id": "19178e839c3d9d74",
+      "title": "Hope",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-09T22:15:00.000Z",
+      "endTime": "2026-09-10T00:55:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hope-2026/",
+      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "6f1ebfcf0fa92fbf",
+      "title": "It Ends",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-09T22:30:00.000Z",
+      "endTime": "2026-09-09T23:59:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/it-ends/",
+      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
     },
     {
       "id": "e1c96b8054325d11",
