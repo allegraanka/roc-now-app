@@ -1,48 +1,30 @@
 {
-  "generatedAt": "2026-09-10T01:14:00.866Z",
+  "generatedAt": "2026-09-10T06:11:31.645Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-09-09",
-  "count": 6,
+  "day": "Thursday",
+  "date": "2026-09-10",
+  "count": 8,
   "events": [
     {
-      "id": "44e34d39443dcf70",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "8135f2bccc8a3bbc",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-09T20:00:00.000Z",
-      "endTime": "2026-09-10T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-10T22:00:00.000Z",
+      "endTime": "2026-09-11T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "a29c318dae074c38",
-      "title": "Filipiñana",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-09T22:00:00.000Z",
-      "endTime": "2026-09-09T23:40:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/filipinana/",
-      "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
-    },
-    {
-      "id": "19178e839c3d9d74",
+      "id": "d8994e5832115a7f",
       "title": "Hope",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +34,51 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-09T22:15:00.000Z",
-      "endTime": "2026-09-10T00:55:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-10T22:00:00.000Z",
+      "endTime": "2026-09-11T00:40:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/hope-2026/",
       "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
     },
     {
-      "id": "6f1ebfcf0fa92fbf",
+      "id": "19eb8429745cb0d5",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-10T22:15:00.000Z",
+      "endTime": "2026-09-11T00:01:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "2fa25017017c0310",
+      "title": "Filipiñana",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-10T22:30:00.000Z",
+      "endTime": "2026-09-11T00:10:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/filipinana/",
+      "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
+    },
+    {
+      "id": "0aac4ee98ece8f20",
       "title": "It Ends",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,16 +88,34 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-09T22:30:00.000Z",
-      "endTime": "2026-09-09T23:59:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-10T22:45:00.000Z",
+      "endTime": "2026-09-11T00:14:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/it-ends/",
       "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
     },
     {
-      "id": "e1c96b8054325d11",
-      "title": "Teenage Sex and Death at Camp Miasma",
+      "id": "9cf1e972087b4280",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-09-10T23:00:00.000Z",
+      "endTime": "2026-09-11T01:30:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "6897e903da5e57ee",
+      "title": "Barbara Forever – Sept. 10 & 12",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -88,30 +124,30 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-09T22:45:00.000Z",
-      "endTime": "2026-09-10T00:31:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-10T23:00:00.000Z",
+      "endTime": "2026-09-11T01:00:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/camp-miasma/",
-      "description": "OPENS AUG. 21 | From director Jane Schoenbrun (I Saw The TV Glow). After years of sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, the two fall into a blood-soaked world of desire, fear, and delirium."
+      "link": "https://thelittle.org/barbara-forever/",
+      "description": "ONE TAKE DOCUMENTARY SERIES | Thursday, September 10 and Saturday, September 12 | An expansive, immersive exploration of the life, work, and ongoing cultural impact of filmmaker Barbara Hammer – a pioneering lesbian artist who lived boldly, created urgently, and transformed cinema through her singular vision."
     },
     {
-      "id": "fc199a44f8cc4ad1",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "4e33c26a2864a878",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.16135,
+        "lng": -77.61052
       },
-      "startTime": "2026-09-10T01:00:00.000Z",
-      "endTime": "2026-09-10T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-11T02:00:00.000Z",
+      "endTime": "2026-09-11T06:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
