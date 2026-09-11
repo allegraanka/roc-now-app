@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T11:36:58.883Z",
+  "generatedAt": "2026-09-11T15:32:31.737Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-09-11",
-  "count": 10,
+  "count": 14,
   "events": [
     {
       "id": "fd6d5c61f45c8ccb",
@@ -22,6 +22,42 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/hope-2026/",
       "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "404e1d729da3aa42",
+      "title": "Dreams in Nightmares",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-11T18:45:00.000Z",
+      "endTime": "2026-09-11T20:53:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/dreams-in-nightmarres/",
+      "description": "OPENS SEPTEMBER 11 | After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid, in Shatara Michelle Ford's film about three queer Black femmes."
+    },
+    {
+      "id": "8b4483a3dccea552",
+      "title": "American Doctor",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-11T19:00:00.000Z",
+      "endTime": "2026-09-11T20:33:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
       "id": "dc00a6c4559eb7e8",
@@ -60,6 +96,24 @@
       "description": "South Ave patio cans before the weekend crush."
     },
     {
+      "id": "e64a6ed896f6dc1f",
+      "title": "Dreams in Nightmares",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-11T22:00:00.000Z",
+      "endTime": "2026-09-12T00:08:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/dreams-in-nightmarres/",
+      "description": "OPENS SEPTEMBER 11 | After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid, in Shatara Michelle Ford's film about three queer Black femmes."
+    },
+    {
       "id": "af8f6fbd6026e522",
       "title": "Tony",
       "venue": "The Little Theatre",
@@ -76,6 +130,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "06f68b933c34e40e",
+      "title": "American Doctor",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-11T22:30:00.000Z",
+      "endTime": "2026-09-12T00:03:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
       "id": "0af69ce349d5b180",
