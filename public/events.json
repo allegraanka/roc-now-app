@@ -1,117 +1,63 @@
 {
-  "generatedAt": "2026-09-15T01:04:32.987Z",
+  "generatedAt": "2026-09-15T06:18:33.563Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-09-14",
-  "count": 6,
+  "day": "Tuesday",
+  "date": "2026-09-15",
+  "count": 3,
   "events": [
     {
-      "id": "4bef9914c66a3a61",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "c8fa7fbd02e39d79",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-09-14T21:00:00.000Z",
-      "endTime": "2026-09-15T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-15T20:00:00.000Z",
+      "endTime": "2026-09-16T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "6f1b43c431235a3b",
-      "title": "American Doctor",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-14T22:00:00.000Z",
-      "endTime": "2026-09-14T23:33:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/american-doctor/",
-      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
-    },
-    {
-      "id": "213789a26437fad7",
-      "title": "Tony",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-14T22:15:00.000Z",
-      "endTime": "2026-09-15T00:01:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/tony-2026/",
-      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
-    },
-    {
-      "id": "1cf573111a2440e6",
-      "title": "Hope",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-14T22:30:00.000Z",
-      "endTime": "2026-09-15T01:10:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/hope-2026/",
-      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
-    },
-    {
-      "id": "2d441ab133cccf77",
-      "title": "It Ends",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-14T22:45:00.000Z",
-      "endTime": "2026-09-15T00:14:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/it-ends/",
-      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
-    },
-    {
-      "id": "dd572a26b28f6713",
-      "title": "Industry Night",
+      "id": "8d3961ae5e3cf48d",
+      "title": "Trivia Tuesday",
       "venue": "The Old Toad",
       "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.15155,
         "lng": -77.59548
       },
-      "startTime": "2026-09-15T01:00:00.000Z",
-      "endTime": "2026-09-15T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-15T23:00:00.000Z",
+      "endTime": "2026-09-16T01:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "description": "Pub quiz in the front room. Teams of six."
+    },
+    {
+      "id": "7403406696c6b54a",
+      "title": "Rochester Fringe Festival 2026 – Sept. 15-26",
+      "venue": "The Little",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-15T23:00:00.000Z",
+      "endTime": "2026-09-16T01:00:00.000Z",
+      "weekday": "Tuesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/rochester-fringe-festival-2026/",
+      "description": "As part of Fringe, RIT presents FREE performances and events at The Little, created by faculty, staff, and students. | Ticketing not run by The Little. Little discounts and member benefits do not apply to this event."
     }
   ]
 }
