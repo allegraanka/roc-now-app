@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T22:51:32.496Z",
+  "generatedAt": "2026-09-15T01:04:32.987Z",
   "timezone": "America/New_York",
   "day": "Monday",
   "date": "2026-09-14",
-  "count": 7,
+  "count": 6,
   "events": [
     {
       "id": "4bef9914c66a3a61",
@@ -94,24 +94,6 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/it-ends/",
       "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
-    },
-    {
-      "id": "feb1de3d0be7d5f3",
-      "title": "Paris is Burning – Sept. 14",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-14T23:30:00.000Z",
-      "endTime": "2026-09-15T01:30:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/paris-is-burning/",
-      "description": "STAFF PICKS | Monday, September 14 at 7:30pm | A chronicle of New York's drag scene in the 1980s, focusing on balls, voguing and the ambitions and dreams of those who gave the era its warmth and vitality."
     },
     {
       "id": "dd572a26b28f6713",
