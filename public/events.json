@@ -1,50 +1,32 @@
 {
-  "generatedAt": "2026-09-16T00:53:49.627Z",
+  "generatedAt": "2026-09-16T05:29:33.744Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-09-15",
-  "count": 3,
+  "day": "Wednesday",
+  "date": "2026-09-16",
+  "count": 7,
   "events": [
     {
-      "id": "c8fa7fbd02e39d79",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "74b165136649087b",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-09-15T20:00:00.000Z",
-      "endTime": "2026-09-16T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-16T20:00:00.000Z",
+      "endTime": "2026-09-17T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "8d3961ae5e3cf48d",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-09-15T23:00:00.000Z",
-      "endTime": "2026-09-16T01:30:00.000Z",
-      "weekday": "Tuesday",
-      "source": "recurring",
-      "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
-    },
-    {
-      "id": "7403406696c6b54a",
-      "title": "Rochester Fringe Festival 2026 – Sept. 15-26",
-      "venue": "The Little",
+      "id": "c07ab59dfd1878d1",
+      "title": "Hope",
+      "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
       "category": "Movies",
@@ -52,12 +34,102 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-15T23:00:00.000Z",
-      "endTime": "2026-09-16T01:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-16T22:00:00.000Z",
+      "endTime": "2026-09-17T00:40:00.000Z",
+      "weekday": "Wednesday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/rochester-fringe-festival-2026/",
-      "description": "As part of Fringe, RIT presents FREE performances and events at The Little, created by faculty, staff, and students. | Ticketing not run by The Little. Little discounts and member benefits do not apply to this event."
+      "link": "https://thelittle.org/hope-2026/",
+      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "7d9f6dbddf3f27da",
+      "title": "Filipiñana",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-16T22:15:00.000Z",
+      "endTime": "2026-09-16T23:55:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/filipinana/",
+      "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
+    },
+    {
+      "id": "a7ec9c0c439d8a95",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-16T22:30:00.000Z",
+      "endTime": "2026-09-17T00:13:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "25c387babeca923a",
+      "title": "It Ends",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-16T22:45:00.000Z",
+      "endTime": "2026-09-17T00:14:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/it-ends/",
+      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
+    },
+    {
+      "id": "961de5325d6e2fba",
+      "title": "O Brother, Where Art Thou? (35mm) – Sept. 12 & 16",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-16T23:00:00.000Z",
+      "endTime": "2026-09-17T01:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/o-brother-where-art-thou/",
+      "description": "35MM FILM | Saturday, September 12 and Wednesday, September 16 | In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them. The Coen Brothers' adaptation of The Odyssey... with bluegrass!"
+    },
+    {
+      "id": "da7d30b5aed6c6c2",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-09-17T01:00:00.000Z",
+      "endTime": "2026-09-17T04:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "recurring",
+      "link": "",
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
