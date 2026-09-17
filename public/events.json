@@ -1,30 +1,48 @@
 {
-  "generatedAt": "2026-09-17T03:38:05.987Z",
+  "generatedAt": "2026-09-17T09:01:24.763Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-09-16",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-09-17",
+  "count": 8,
   "events": [
     {
-      "id": "74b165136649087b",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "6d37373620b89407",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-16T20:00:00.000Z",
-      "endTime": "2026-09-17T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-17T22:00:00.000Z",
+      "endTime": "2026-09-18T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "c07ab59dfd1878d1",
+      "id": "78ad489b9fb7c5f0",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-17T22:00:00.000Z",
+      "endTime": "2026-09-17T23:46:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "afbae2fbc7e0f70d",
       "title": "Hope",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,16 +52,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-16T22:00:00.000Z",
-      "endTime": "2026-09-17T00:40:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-17T22:15:00.000Z",
+      "endTime": "2026-09-18T00:55:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/hope-2026/",
       "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
     },
     {
-      "id": "7d9f6dbddf3f27da",
-      "title": "Filipiñana",
+      "id": "bcdbea6c4bc8b2c8",
+      "title": "American Doctor",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -52,33 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-16T22:15:00.000Z",
-      "endTime": "2026-09-16T23:55:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-17T22:30:00.000Z",
+      "endTime": "2026-09-18T00:03:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/filipinana/",
-      "description": "OPENS SEPTEMBER 4 | Seventeen-year-old Isabel’s job — at an exclusive country club in her native Philippines — turns dark as she uncovers violence beneath the club's facade and discovers a disturbing connection from the past."
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
-      "id": "a7ec9c0c439d8a95",
-      "title": "Coyote vs. Acme",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-16T22:30:00.000Z",
-      "endTime": "2026-09-17T00:13:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/coyote-vs-acme/",
-      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
-    },
-    {
-      "id": "25c387babeca923a",
+      "id": "8854461c535e4edf",
       "title": "It Ends",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,16 +88,34 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-16T22:45:00.000Z",
-      "endTime": "2026-09-17T00:14:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-17T22:45:00.000Z",
+      "endTime": "2026-09-18T00:14:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/it-ends/",
       "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
     },
     {
-      "id": "961de5325d6e2fba",
-      "title": "O Brother, Where Art Thou? (35mm) – Sept. 12 & 16",
+      "id": "105aaf69fa89faf4",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-09-17T23:00:00.000Z",
+      "endTime": "2026-09-18T01:30:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "d36d327d0163d13c",
+      "title": "Dreams in Nightmares",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,30 +124,30 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-16T23:00:00.000Z",
-      "endTime": "2026-09-17T01:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-17T23:00:00.000Z",
+      "endTime": "2026-09-18T01:08:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/o-brother-where-art-thou/",
-      "description": "35MM FILM | Saturday, September 12 and Wednesday, September 16 | In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them. The Coen Brothers' adaptation of The Odyssey... with bluegrass!"
+      "link": "https://thelittle.org/dreams-in-nightmarres/",
+      "description": "OPENS SEPTEMBER 11 | After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid, in Shatara Michelle Ford's film about three queer Black femmes."
     },
     {
-      "id": "da7d30b5aed6c6c2",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "e3c47bbd8b2ba99d",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.16135,
+        "lng": -77.61052
       },
-      "startTime": "2026-09-17T01:00:00.000Z",
-      "endTime": "2026-09-17T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-18T02:00:00.000Z",
+      "endTime": "2026-09-18T06:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
