@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-09-18T12:30:03.797Z",
+  "generatedAt": "2026-09-18T16:38:59.320Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-09-18",
-  "count": 9,
+  "count": 15,
   "events": [
+    {
+      "id": "2fe7d5fd9f315cbd",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-18T18:30:00.000Z",
+      "endTime": "2026-09-18T20:06:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+    },
     {
       "id": "764973541b701bfc",
       "title": "Tony",
@@ -42,6 +60,24 @@
       "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
+      "id": "bff4e9ee5629cd0c",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-18T19:15:00.000Z",
+      "endTime": "2026-09-18T20:35:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
+    },
+    {
       "id": "5c12da9658c1f118",
       "title": "Happy Hour Cans",
       "venue": "Lux Lounge",
@@ -60,6 +96,24 @@
       "description": "South Ave patio cans before the weekend crush."
     },
     {
+      "id": "b56d6ea5aa0412e4",
+      "title": "The Samurai and the Prisoner",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-18T22:00:00.000Z",
+      "endTime": "2026-09-19T00:27:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
+      "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
+    },
+    {
       "id": "5303128c75f087fa",
       "title": "American Doctor",
       "venue": "The Little Theatre",
@@ -76,6 +130,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/american-doctor/",
       "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
+    },
+    {
+      "id": "bc900a16d2b5db54",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-18T22:15:00.000Z",
+      "endTime": "2026-09-18T23:35:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
       "id": "313483ce25c9953c",
@@ -112,6 +184,42 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/hope-2026/",
       "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "981607afa4a43195",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T00:30:00.000Z",
+      "endTime": "2026-09-19T01:50:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
+    },
+    {
+      "id": "ca2016d57872ef4d",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T01:00:00.000Z",
+      "endTime": "2026-09-19T02:36:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
     },
     {
       "id": "3ddee6821b271d48",
