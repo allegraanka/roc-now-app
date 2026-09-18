@@ -1,30 +1,12 @@
 {
-  "generatedAt": "2026-09-18T02:14:47.933Z",
+  "generatedAt": "2026-09-18T07:30:51.678Z",
   "timezone": "America/New_York",
-  "day": "Thursday",
-  "date": "2026-09-17",
-  "count": 8,
+  "day": "Friday",
+  "date": "2026-09-18",
+  "count": 9,
   "events": [
     {
-      "id": "6d37373620b89407",
-      "title": "League Night Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
-      "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
-      },
-      "startTime": "2026-09-17T22:00:00.000Z",
-      "endTime": "2026-09-18T02:00:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Walk-up lanes and pinsetter racket."
-    },
-    {
-      "id": "78ad489b9fb7c5f0",
+      "id": "764973541b701bfc",
       "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,33 +16,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-17T22:00:00.000Z",
-      "endTime": "2026-09-17T23:46:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-09-18T18:45:00.000Z",
+      "endTime": "2026-09-18T20:31:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "afbae2fbc7e0f70d",
-      "title": "Hope",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-17T22:15:00.000Z",
-      "endTime": "2026-09-18T00:55:00.000Z",
-      "weekday": "Thursday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/hope-2026/",
-      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
-    },
-    {
-      "id": "bcdbea6c4bc8b2c8",
+      "id": "14c026b93d10386a",
       "title": "American Doctor",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,52 +34,34 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-17T22:30:00.000Z",
-      "endTime": "2026-09-18T00:03:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-09-18T19:00:00.000Z",
+      "endTime": "2026-09-18T20:33:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/american-doctor/",
       "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
-      "id": "8854461c535e4edf",
-      "title": "It Ends",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-17T22:45:00.000Z",
-      "endTime": "2026-09-18T00:14:00.000Z",
-      "weekday": "Thursday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/it-ends/",
-      "description": "OPENS SEPTEMBER 4 | Out for a late-night drive, friends turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Crammed inside a jeep with miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it. Winner of the Audience Award for Best Feature Film at the 2025 Anomaly Film Festival."
-    },
-    {
-      "id": "105aaf69fa89faf4",
-      "title": "Trash Plate Trivia at Dragonfly",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "5c12da9658c1f118",
+      "title": "Happy Hour Cans",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
       "neighborhood": "",
-      "category": "trivia",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.14624,
+        "lng": -77.60555
       },
-      "startTime": "2026-09-17T23:00:00.000Z",
-      "endTime": "2026-09-18T01:30:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-09-18T20:00:00.000Z",
+      "endTime": "2026-09-18T23:00:00.000Z",
+      "weekday": "Friday",
       "source": "recurring",
       "link": "",
-      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+      "description": "South Ave patio cans before the weekend crush."
     },
     {
-      "id": "d36d327d0163d13c",
-      "title": "Dreams in Nightmares",
+      "id": "5303128c75f087fa",
+      "title": "American Doctor",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -124,30 +70,102 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-17T23:00:00.000Z",
-      "endTime": "2026-09-18T01:08:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-09-18T22:15:00.000Z",
+      "endTime": "2026-09-18T23:48:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/dreams-in-nightmarres/",
-      "description": "OPENS SEPTEMBER 11 | After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid, in Shatara Michelle Ford's film about three queer Black femmes."
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
-      "id": "e3c47bbd8b2ba99d",
-      "title": "AngstLAB, $3 cover, drink specials all night",
+      "id": "313483ce25c9953c",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-18T22:45:00.000Z",
+      "endTime": "2026-09-19T00:28:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "6b7db2393f9b8950",
+      "title": "Hope",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T00:20:00.000Z",
+      "endTime": "2026-09-19T03:00:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hope-2026/",
+      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "3ddee6821b271d48",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T01:10:00.000Z",
+      "endTime": "2026-09-19T02:56:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "16aef6bc924c5b77",
+      "title": "Darkwave Dance Night",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "live-music",
       "coordinates": {
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-09-18T02:00:00.000Z",
-      "endTime": "2026-09-18T06:00:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-09-19T02:00:00.000Z",
+      "endTime": "2026-09-19T06:00:00.000Z",
+      "weekday": "Friday",
       "source": "recurring",
       "link": "",
-      "description": "Goth/industrial night. Cheap wells until last call."
+      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
+    },
+    {
+      "id": "5e36381cb4769fd0",
+      "title": "Friday Night DJ",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-09-19T02:00:00.000Z",
+      "endTime": "2026-09-19T06:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "Sweaty floor, cheap covers, last call late."
     }
   ]
 }
