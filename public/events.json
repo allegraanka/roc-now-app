@@ -1,102 +1,30 @@
 {
-  "generatedAt": "2026-09-19T02:17:33.699Z",
+  "generatedAt": "2026-09-19T07:26:30.009Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-09-18",
-  "count": 15,
+  "day": "Saturday",
+  "date": "2026-09-19",
+  "count": 19,
   "events": [
     {
-      "id": "2fe7d5fd9f315cbd",
-      "title": "Late Fame",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-18T18:30:00.000Z",
-      "endTime": "2026-09-18T20:06:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
-    },
-    {
-      "id": "764973541b701bfc",
-      "title": "Tony",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-18T18:45:00.000Z",
-      "endTime": "2026-09-18T20:31:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/tony-2026/",
-      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
-    },
-    {
-      "id": "14c026b93d10386a",
-      "title": "American Doctor",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-18T19:00:00.000Z",
-      "endTime": "2026-09-18T20:33:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/american-doctor/",
-      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
-    },
-    {
-      "id": "bff4e9ee5629cd0c",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-18T19:15:00.000Z",
-      "endTime": "2026-09-18T20:35:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
-      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
-    },
-    {
-      "id": "5c12da9658c1f118",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "7c932a648c87a9ac",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-18T20:00:00.000Z",
-      "endTime": "2026-09-18T23:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T15:00:00.000Z",
+      "endTime": "2026-09-19T19:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "South Ave patio cans before the weekend crush."
+      "description": "Lanes, coffee, and a bloody mary."
     },
     {
-      "id": "b56d6ea5aa0412e4",
+      "id": "b10f6797d58818cf",
       "title": "The Samurai and the Prisoner",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,15 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-18T22:00:00.000Z",
-      "endTime": "2026-09-19T00:27:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T15:45:00.000Z",
+      "endTime": "2026-09-19T18:12:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
       "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
     },
     {
-      "id": "5303128c75f087fa",
+      "id": "87287a31d1de65d5",
       "title": "American Doctor",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -124,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-18T22:15:00.000Z",
-      "endTime": "2026-09-18T23:48:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T16:00:00.000Z",
+      "endTime": "2026-09-19T17:33:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/american-doctor/",
       "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
-      "id": "bc900a16d2b5db54",
+      "id": "d85f1b17abe5da18",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,15 +70,51 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-18T22:15:00.000Z",
-      "endTime": "2026-09-18T23:35:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T16:15:00.000Z",
+      "endTime": "2026-09-19T17:35:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/shaun-the-sheep-mossy/",
       "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "313483ce25c9953c",
+      "id": "8120ea8ed927c626",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14682,
+        "lng": -77.60347
+      },
+      "startTime": "2026-09-19T18:00:00.000Z",
+      "endTime": "2026-09-20T02:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "One-off casks and a packed Gregory St bar."
+    },
+    {
+      "id": "3d13cfe131898516",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T18:30:00.000Z",
+      "endTime": "2026-09-19T19:50:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
+    },
+    {
+      "id": "9a433ea9b18b21f0",
       "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,16 +124,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-18T22:45:00.000Z",
-      "endTime": "2026-09-19T00:28:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T18:45:00.000Z",
+      "endTime": "2026-09-19T20:28:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/coyote-vs-acme/",
       "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
     },
     {
-      "id": "6b7db2393f9b8950",
-      "title": "Hope",
+      "id": "9878ab2a8ae83fb7",
+      "title": "American Doctor",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -178,15 +142,51 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-19T00:20:00.000Z",
-      "endTime": "2026-09-19T03:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T19:00:00.000Z",
+      "endTime": "2026-09-19T20:33:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/hope-2026/",
-      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     {
-      "id": "981607afa4a43195",
+      "id": "8744f8280aa0e6c5",
+      "title": "The Samurai and the Prisoner",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T19:15:00.000Z",
+      "endTime": "2026-09-19T21:42:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
+      "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
+    },
+    {
+      "id": "c653b37177272046",
+      "title": "American Doctor",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T22:00:00.000Z",
+      "endTime": "2026-09-19T23:33:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/american-doctor/",
+      "description": "OPENS SEPTEMBER 11 | When three American doctors - one with Palestinian heritage, one Jewish, and one Parsi - enter Gaza to save lives, they find themselves caught between medicine and politics, risking everything to expose the truth."
+    },
+    {
+      "id": "0133c0e8e7edb662",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -196,15 +196,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-19T00:30:00.000Z",
-      "endTime": "2026-09-19T01:50:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T22:15:00.000Z",
+      "endTime": "2026-09-19T23:35:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/shaun-the-sheep-mossy/",
       "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "ca2016d57872ef4d",
+      "id": "8d355248a3b220d3",
       "title": "Late Fame",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +214,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-19T01:00:00.000Z",
-      "endTime": "2026-09-19T02:36:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T22:30:00.000Z",
+      "endTime": "2026-09-20T00:06:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/late-fame/",
       "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
     },
     {
-      "id": "3ddee6821b271d48",
+      "id": "ea82b84e0d5b9560",
       "title": "Tony",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,16 +232,106 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-19T01:10:00.000Z",
-      "endTime": "2026-09-19T02:56:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-19T22:45:00.000Z",
+      "endTime": "2026-09-20T00:31:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/tony-2026/",
       "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
     },
     {
-      "id": "16aef6bc924c5b77",
-      "title": "Darkwave Dance Night",
+      "id": "3b3dd6d8935fa199",
+      "title": "The Work in Progress – Sept. 19 & 20",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-19T23:00:00.000Z",
+      "endTime": "2026-09-20T01:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-work-in-progress/",
+      "description": "SPECIAL SCREENINGS | Saturday, September 19 & Sunday, September 20 | A searching portrait of America at a moment of profound uncertainty, and a hopeful exploration of what we owe one another as our country faces unprecedented challenges. Inspired by Robert Reich’s curiosity and humanity, it is a testament to the power of listening, civic engagement, and the belief that our shared future is still ours to shape."
+    },
+    {
+      "id": "0d2dfcc5c2766eb2",
+      "title": "Hope",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-20T00:20:00.000Z",
+      "endTime": "2026-09-20T03:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hope-2026/",
+      "description": "OPENS SEPTEMBER 9 | A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before. From writer/director Na Hong-jin."
+    },
+    {
+      "id": "c42599a96095417d",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-20T00:30:00.000Z",
+      "endTime": "2026-09-20T01:50:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
+    },
+    {
+      "id": "0bbedeef84110c87",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-20T00:50:00.000Z",
+      "endTime": "2026-09-20T02:26:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+    },
+    {
+      "id": "ab262fde01eac27f",
+      "title": "Coyote vs. Acme",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-20T01:10:00.000Z",
+      "endTime": "2026-09-20T02:53:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
+    },
+    {
+      "id": "7ecf61ca973ca9eb",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -250,30 +340,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-09-19T02:00:00.000Z",
-      "endTime": "2026-09-19T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-20T02:00:00.000Z",
+      "endTime": "2026-09-20T06:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "5e36381cb4769fd0",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-09-19T02:00:00.000Z",
-      "endTime": "2026-09-19T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
