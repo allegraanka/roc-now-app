@@ -1,135 +1,45 @@
 {
-  "generatedAt": "2026-09-22T02:28:03.466Z",
+  "generatedAt": "2026-09-22T07:52:15.328Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-09-21",
-  "count": 7,
+  "day": "Tuesday",
+  "date": "2026-09-22",
+  "count": 2,
   "events": [
     {
-      "id": "c5b86a1d132ff456",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "ea9fc29144f2c81a",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-09-21T21:00:00.000Z",
-      "endTime": "2026-09-22T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-22T20:00:00.000Z",
+      "endTime": "2026-09-23T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "0b1875c9cee7499f",
-      "title": "The Samurai and the Prisoner",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-21T22:00:00.000Z",
-      "endTime": "2026-09-22T00:27:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
-      "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
-    },
-    {
-      "id": "98366436f0b37e7f",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-21T22:15:00.000Z",
-      "endTime": "2026-09-21T23:35:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
-      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
-    },
-    {
-      "id": "99df8c5ffbc43c10",
-      "title": "Late Fame",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-21T22:30:00.000Z",
-      "endTime": "2026-09-22T00:06:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
-    },
-    {
-      "id": "637ccd77d78906ec",
-      "title": "Coyote vs. Acme",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-21T22:45:00.000Z",
-      "endTime": "2026-09-22T00:28:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/coyote-vs-acme/",
-      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
-    },
-    {
-      "id": "ea80a12cad56c27f",
-      "title": "Everybody’s Work – Sept. 21",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-21T23:00:00.000Z",
-      "endTime": "2026-09-22T01:00:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/everybodyswork-bcs/",
-      "description": "BLACK CINEMA SERIES | Monday, September 21 at 7:00pm | There’s a hidden disease plaguing healthcare in the United States: systemic racism. Through the lens of fearless nurses, this documentary exposes the biases that dictate disparate healthcare outcomes based on skin color and the negative impact it has on both patients and the nurses who provide care."
-    },
-    {
-      "id": "61d94db295b23390",
-      "title": "Industry Night",
+      "id": "f82a693df577271f",
+      "title": "Trivia Tuesday",
       "venue": "The Old Toad",
       "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.15155,
         "lng": -77.59548
       },
-      "startTime": "2026-09-22T01:00:00.000Z",
-      "endTime": "2026-09-22T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-22T23:00:00.000Z",
+      "endTime": "2026-09-23T01:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "description": "Pub quiz in the front room. Teams of six."
     }
   ]
 }
