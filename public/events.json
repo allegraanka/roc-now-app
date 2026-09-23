@@ -1,45 +1,117 @@
 {
-  "generatedAt": "2026-09-23T01:35:31.128Z",
+  "generatedAt": "2026-09-23T06:59:46.788Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-09-22",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-09-23",
+  "count": 6,
   "events": [
     {
-      "id": "ea9fc29144f2c81a",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "b94c4ea039fb78d2",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-09-22T20:00:00.000Z",
-      "endTime": "2026-09-23T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-23T20:00:00.000Z",
+      "endTime": "2026-09-24T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "f82a693df577271f",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "e23b345cb99d7fb9",
+      "title": "The Samurai and the Prisoner",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-09-22T23:00:00.000Z",
-      "endTime": "2026-09-23T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-23T22:00:00.000Z",
+      "endTime": "2026-09-24T00:27:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
+      "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
+    },
+    {
+      "id": "fe12e77a081f4e19",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-23T22:15:00.000Z",
+      "endTime": "2026-09-23T23:35:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
+    },
+    {
+      "id": "99b996e719f618c8",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-23T22:30:00.000Z",
+      "endTime": "2026-09-24T00:06:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+    },
+    {
+      "id": "f22df479d3bc8273",
+      "title": "Tony",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-23T22:45:00.000Z",
+      "endTime": "2026-09-24T00:31:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/tony-2026/",
+      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+    },
+    {
+      "id": "2128bedd856dd247",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-09-24T01:00:00.000Z",
+      "endTime": "2026-09-24T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
