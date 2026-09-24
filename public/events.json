@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-09-24T01:32:15.048Z",
+  "generatedAt": "2026-09-24T06:57:04.140Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-09-23",
-  "count": 6,
+  "day": "Thursday",
+  "date": "2026-09-24",
+  "count": 7,
   "events": [
     {
-      "id": "b94c4ea039fb78d2",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "e0b23adfa4457d51",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-23T20:00:00.000Z",
-      "endTime": "2026-09-24T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T22:00:00.000Z",
+      "endTime": "2026-09-25T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "e23b345cb99d7fb9",
+      "id": "381677b7d6ef9877",
       "title": "The Samurai and the Prisoner",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-23T22:00:00.000Z",
-      "endTime": "2026-09-24T00:27:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T22:00:00.000Z",
+      "endTime": "2026-09-25T00:27:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-samurai-and-the-prisoner/",
       "description": "OPENS SEPTEMBER 18 | Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth."
     },
     {
-      "id": "fe12e77a081f4e19",
+      "id": "88a5d5c7f9ca09d0",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-23T22:15:00.000Z",
-      "endTime": "2026-09-23T23:35:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T22:15:00.000Z",
+      "endTime": "2026-09-24T23:35:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/shaun-the-sheep-mossy/",
       "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "99b996e719f618c8",
+      "id": "75abc41120848968",
       "title": "Late Fame",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,16 +70,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-23T22:30:00.000Z",
-      "endTime": "2026-09-24T00:06:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T22:30:00.000Z",
+      "endTime": "2026-09-25T00:06:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/late-fame/",
       "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
     },
     {
-      "id": "f22df479d3bc8273",
-      "title": "Tony",
+      "id": "9be68cdf28598c1b",
+      "title": "Coyote vs. Acme",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -88,30 +88,48 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-23T22:45:00.000Z",
-      "endTime": "2026-09-24T00:31:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T22:45:00.000Z",
+      "endTime": "2026-09-25T00:28:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/tony-2026/",
-      "description": "OPENS AUGUST 21 | A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life. Directed by Matt Johnson (Nirvanna The Band The Show The Movie), starring Dominic Sesia (The Holdovers), and Antonio Banderas."
+      "link": "https://thelittle.org/coyote-vs-acme/",
+      "description": "OPENS AUGUST 28 | After enduring years of catastrophic product failures at the hands of ACME, Inc., a tenacious, unemployed coyote uncovers a corporate cover-up and spearheads an unhinged battle against the multinational conglomerate that’s been blowing him up in the name of profit. Also, there’s a roadrunner. And dynamite."
     },
     {
-      "id": "2128bedd856dd247",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "13a06b24c19dfae4",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "trivia",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-09-24T01:00:00.000Z",
-      "endTime": "2026-09-24T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-09-24T23:00:00.000Z",
+      "endTime": "2026-09-25T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "6ac2e7a802e0de6a",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-09-25T02:00:00.000Z",
+      "endTime": "2026-09-25T06:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
