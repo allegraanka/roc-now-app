@@ -1,102 +1,30 @@
 {
-  "generatedAt": "2026-09-26T00:16:22.240Z",
+  "generatedAt": "2026-09-26T05:13:42.421Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-09-25",
-  "count": 15,
+  "day": "Saturday",
+  "date": "2026-09-26",
+  "count": 17,
   "events": [
     {
-      "id": "3551e7f960982737",
-      "title": "Ha-Chan, Shake Your Booty!",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-25T18:30:00.000Z",
-      "endTime": "2026-09-25T20:32:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
-      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
-    },
-    {
-      "id": "506d4b3e96b49d05",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-25T18:45:00.000Z",
-      "endTime": "2026-09-25T20:35:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "b3f96800f6b196af",
-      "title": "Late Fame",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-25T19:00:00.000Z",
-      "endTime": "2026-09-25T20:36:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
-    },
-    {
-      "id": "8b7a67e38809d72f",
-      "title": "You Had to Be There",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Comedy",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-25T19:15:00.000Z",
-      "endTime": "2026-09-25T20:53:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-had-to-be-there/",
-      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
-    },
-    {
-      "id": "b94608fb2f8c9a1c",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "ddf98f2680ac9134",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-09-25T20:00:00.000Z",
-      "endTime": "2026-09-25T23:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T15:00:00.000Z",
+      "endTime": "2026-09-26T19:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "South Ave patio cans before the weekend crush."
+      "description": "Lanes, coffee, and a bloody mary."
     },
     {
-      "id": "0d9979aea3840263",
+      "id": "80849b07decdadc9",
       "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,15 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-25T22:00:00.000Z",
-      "endTime": "2026-09-26T00:02:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T15:30:00.000Z",
+      "endTime": "2026-09-26T17:32:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
     },
     {
-      "id": "fb59b4e4c67e8da7",
+      "id": "178304bea4c8c7d1",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -124,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-25T22:15:00.000Z",
-      "endTime": "2026-09-26T00:05:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T15:45:00.000Z",
+      "endTime": "2026-09-26T17:35:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "1787d3835739dbfe",
+      "id": "0fcce9ab859fef91",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,15 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-25T22:30:00.000Z",
-      "endTime": "2026-09-25T23:50:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T16:00:00.000Z",
+      "endTime": "2026-09-26T17:20:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/shaun-the-sheep-mossy/",
       "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "cf003380f7ff9c7d",
+      "id": "3c914e61b9c4da4e",
       "title": "You Had to Be There",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,33 +88,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-25T22:45:00.000Z",
-      "endTime": "2026-09-26T00:23:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T16:15:00.000Z",
+      "endTime": "2026-09-26T17:53:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-had-to-be-there/",
       "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
     },
     {
-      "id": "3806bb57417c8796",
-      "title": "Late Fame",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
+      "id": "a53b7603297411d2",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
+      "neighborhood": "",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
+        "lat": 43.14682,
+        "lng": -77.60347
       },
-      "startTime": "2026-09-26T00:30:00.000Z",
-      "endTime": "2026-09-26T02:06:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+      "startTime": "2026-09-26T18:00:00.000Z",
+      "endTime": "2026-09-27T02:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "One-off casks and a packed Gregory St bar."
     },
     {
-      "id": "7bbc03e595b2ff96",
+      "id": "9c76e6540d6c1587",
       "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -196,15 +124,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-26T00:40:00.000Z",
-      "endTime": "2026-09-26T02:42:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T18:30:00.000Z",
+      "endTime": "2026-09-26T20:32:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
     },
     {
-      "id": "313559738b9606ad",
+      "id": "2bce4a8450299a0d",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +142,87 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-26T00:50:00.000Z",
-      "endTime": "2026-09-26T02:40:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T18:45:00.000Z",
+      "endTime": "2026-09-26T20:35:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "a4ad53a11e6f2dfe",
+      "id": "3a7fc5d430c0ec80",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-26T19:00:00.000Z",
+      "endTime": "2026-09-26T20:36:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+    },
+    {
+      "id": "b423a8984bd68cf2",
+      "title": "9 to 5 – Sept. 26",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-26T19:15:00.000Z",
+      "endTime": "2026-09-26T21:15:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/9to5-dolly/",
+      "description": "SPECIAL SCREENINGS | Saturday, September 26 at 3:15pm and 7:30pm | The classic workplace satire, starring Dolly Parton Jane Fonda, and Lily Tomlin. Three secretaries turn the tables on their obnoxious boss."
+    },
+    {
+      "id": "aae3fcce8064cdcd",
+      "title": "Ha-Chan, Shake Your Booty!",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-26T22:00:00.000Z",
+      "endTime": "2026-09-27T00:02:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
+      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "30a8dbf053cc336e",
+      "title": "Primetime",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-26T22:15:00.000Z",
+      "endTime": "2026-09-27T00:05:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/primetime/",
+      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "43e44f2164cbbda9",
       "title": "You Had to Be There",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,16 +232,70 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-26T01:00:00.000Z",
-      "endTime": "2026-09-26T02:38:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-26T22:45:00.000Z",
+      "endTime": "2026-09-27T00:23:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-had-to-be-there/",
       "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
     },
     {
-      "id": "37d0e83b1e4ecbb1",
-      "title": "Darkwave Dance Night",
+      "id": "91c0fda52df7cfec",
+      "title": "Ha-Chan, Shake Your Booty!",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-27T00:40:00.000Z",
+      "endTime": "2026-09-27T02:42:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
+      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "83114ee596f99fe4",
+      "title": "Primetime",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-27T00:50:00.000Z",
+      "endTime": "2026-09-27T02:40:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/primetime/",
+      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "4bac6b2bb900357e",
+      "title": "You Had to Be There",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Comedy",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-27T01:00:00.000Z",
+      "endTime": "2026-09-27T02:38:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-had-to-be-there/",
+      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
+    },
+    {
+      "id": "8216d807f1f9e810",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -250,30 +304,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-09-26T02:00:00.000Z",
-      "endTime": "2026-09-26T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-09-27T02:00:00.000Z",
+      "endTime": "2026-09-27T06:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "c6364d1a7bc6fbeb",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-09-26T02:00:00.000Z",
-      "endTime": "2026-09-26T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
