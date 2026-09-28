@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-09-28T01:54:32.332Z",
+  "generatedAt": "2026-09-28T07:59:04.165Z",
   "timezone": "America/New_York",
-  "day": "Sunday",
-  "date": "2026-09-27",
-  "count": 10,
+  "day": "Monday",
+  "date": "2026-09-28",
+  "count": 7,
   "events": [
     {
-      "id": "848845b90f6c4812",
+      "id": "1e3b807268903d8a",
+      "title": "$3 Cans at Lux",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-09-28T21:00:00.000Z",
+      "endTime": "2026-09-29T03:00:00.000Z",
+      "weekday": "Monday",
+      "source": "recurring",
+      "link": "",
+      "description": "Tallboys three bucks all night in the South Wedge."
+    },
+    {
+      "id": "29ae05a488de8a09",
       "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -16,33 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-27T15:00:00.000Z",
-      "endTime": "2026-09-27T17:02:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-28T22:00:00.000Z",
+      "endTime": "2026-09-29T00:02:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
     },
     {
-      "id": "ef22e8866c433246",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-27T15:15:00.000Z",
-      "endTime": "2026-09-27T17:05:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "cc113320adf37b13",
+      "id": "69d6b996c9f3a429",
       "title": "You Had to Be There",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-27T15:30:00.000Z",
-      "endTime": "2026-09-27T17:08:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-28T22:15:00.000Z",
+      "endTime": "2026-09-28T23:53:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-had-to-be-there/",
       "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
     },
     {
-      "id": "63f11c3c8e0d974e",
+      "id": "e3d3ea20a1e1cf57",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,69 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-27T15:45:00.000Z",
-      "endTime": "2026-09-27T17:05:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-28T22:30:00.000Z",
+      "endTime": "2026-09-28T23:50:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/shaun-the-sheep-mossy/",
       "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "c76053a4167a2499",
-      "title": "Funday Funday",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
-      "neighborhood": "",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
-      },
-      "startTime": "2026-09-27T16:00:00.000Z",
-      "endTime": "2026-09-28T00:00:00.000Z",
-      "weekday": "Sunday",
-      "source": "recurring",
-      "link": "",
-      "description": "Day-drink cans and a lazy South Ave patio."
-    },
-    {
-      "id": "6ac8004d54af6504",
-      "title": "Ha-Chan, Shake Your Booty!",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-27T17:40:00.000Z",
-      "endTime": "2026-09-27T19:42:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
-      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
-    },
-    {
-      "id": "948b21e952f575be",
-      "title": "You Had to Be There",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Comedy",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-27T17:50:00.000Z",
-      "endTime": "2026-09-27T19:28:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-had-to-be-there/",
-      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
-    },
-    {
-      "id": "9091266373d391be",
+      "id": "55de32c7435459cd",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,16 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-27T18:00:00.000Z",
-      "endTime": "2026-09-27T19:50:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-28T22:45:00.000Z",
+      "endTime": "2026-09-29T00:35:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "476b41b8228e7170",
-      "title": "Late Fame",
+      "id": "76d9574b6b2d7714",
+      "title": "Queer Chinese American & Canadian Voices – Sept. 28",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -160,30 +106,30 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-27T18:10:00.000Z",
-      "endTime": "2026-09-27T19:46:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-28T23:30:00.000Z",
+      "endTime": "2026-09-29T01:30:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+      "link": "https://thelittle.org/queer-chinese-shortsprogram/",
+      "description": "SPECIAL EVENT | Monday, September 28 at 7:30pm | A showcase of four short films by filmmakers Jess X. Snow (Canada) and Janet Chen Ma (USA), followed by a live, virtual Q&A with the filmmakers."
     },
     {
-      "id": "ff69ad16a50745cd",
-      "title": "Sunday Funday Trivia",
-      "venue": "Tap & Mallet",
-      "address": "381 Gregory St",
+      "id": "1644cc5d5604b476",
+      "title": "Industry Night",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "trivia",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.14682,
-        "lng": -77.60347
+        "lat": 43.15155,
+        "lng": -77.59548
       },
-      "startTime": "2026-09-27T20:00:00.000Z",
-      "endTime": "2026-09-27T22:30:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-09-29T01:00:00.000Z",
+      "endTime": "2026-09-29T04:00:00.000Z",
+      "weekday": "Monday",
       "source": "recurring",
       "link": "",
-      "description": "Low-stakes quiz and pub pies."
+      "description": "Service-industry pours and a late jukebox."
     }
   ]
 }
