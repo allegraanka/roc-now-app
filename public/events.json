@@ -1,135 +1,63 @@
 {
-  "generatedAt": "2026-09-29T02:07:18.335Z",
+  "generatedAt": "2026-09-29T08:47:38.963Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-09-28",
-  "count": 7,
+  "day": "Tuesday",
+  "date": "2026-09-29",
+  "count": 3,
   "events": [
     {
-      "id": "1e3b807268903d8a",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "e0cf91ac1ced5a7b",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-09-28T21:00:00.000Z",
-      "endTime": "2026-09-29T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-29T20:00:00.000Z",
+      "endTime": "2026-09-30T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "29ae05a488de8a09",
-      "title": "Ha-Chan, Shake Your Booty!",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-28T22:00:00.000Z",
-      "endTime": "2026-09-29T00:02:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
-      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
-    },
-    {
-      "id": "69d6b996c9f3a429",
-      "title": "You Had to Be There",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Comedy",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-28T22:15:00.000Z",
-      "endTime": "2026-09-28T23:53:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-had-to-be-there/",
-      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
-    },
-    {
-      "id": "e3d3ea20a1e1cf57",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-28T22:30:00.000Z",
-      "endTime": "2026-09-28T23:50:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
-      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
-    },
-    {
-      "id": "55de32c7435459cd",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-28T22:45:00.000Z",
-      "endTime": "2026-09-29T00:35:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "76d9574b6b2d7714",
-      "title": "Queer Chinese American & Canadian Voices – Sept. 28",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-09-28T23:30:00.000Z",
-      "endTime": "2026-09-29T01:30:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/queer-chinese-shortsprogram/",
-      "description": "SPECIAL EVENT | Monday, September 28 at 7:30pm | A showcase of four short films by filmmakers Jess X. Snow (Canada) and Janet Chen Ma (USA), followed by a live, virtual Q&A with the filmmakers."
-    },
-    {
-      "id": "1644cc5d5604b476",
-      "title": "Industry Night",
+      "id": "c503c2c236773062",
+      "title": "Trivia Tuesday",
       "venue": "The Old Toad",
       "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.15155,
         "lng": -77.59548
       },
-      "startTime": "2026-09-29T01:00:00.000Z",
-      "endTime": "2026-09-29T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-09-29T23:00:00.000Z",
+      "endTime": "2026-09-30T01:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "description": "Pub quiz in the front room. Teams of six."
+    },
+    {
+      "id": "20327e0e374a59fb",
+      "title": "The Flying Ace – Sept. 29",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-29T23:00:00.000Z",
+      "endTime": "2026-09-30T01:00:00.000Z",
+      "weekday": "Tuesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-flying-ace/",
+      "description": "SILENT MOVIE DAY | Tuesday, September 29 at 7:00pm | When a war hero returns to his former job as a railroad company detective, he must capture a gang of railroad thieves and recover $25,000 of company cash. A 1926 black-and-white silent drama with an all-Black cast."
     }
   ]
 }
