@@ -1,49 +1,31 @@
 {
-  "generatedAt": "2026-09-30T03:03:20.424Z",
+  "generatedAt": "2026-09-30T09:52:30.156Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-09-29",
-  "count": 3,
+  "day": "Wednesday",
+  "date": "2026-09-30",
+  "count": 7,
   "events": [
     {
-      "id": "e0cf91ac1ced5a7b",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "13f6324a4b1a79c6",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-09-29T20:00:00.000Z",
-      "endTime": "2026-09-30T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-30T20:00:00.000Z",
+      "endTime": "2026-10-01T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "c503c2c236773062",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-09-29T23:00:00.000Z",
-      "endTime": "2026-09-30T01:30:00.000Z",
-      "weekday": "Tuesday",
-      "source": "recurring",
-      "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
-    },
-    {
-      "id": "20327e0e374a59fb",
-      "title": "The Flying Ace – Sept. 29",
+      "id": "85f5d0de030f8916",
+      "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -52,12 +34,102 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-29T23:00:00.000Z",
-      "endTime": "2026-09-30T01:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-09-30T22:00:00.000Z",
+      "endTime": "2026-10-01T00:02:00.000Z",
+      "weekday": "Wednesday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-flying-ace/",
-      "description": "SILENT MOVIE DAY | Tuesday, September 29 at 7:00pm | When a war hero returns to his former job as a railroad company detective, he must capture a gang of railroad thieves and recover $25,000 of company cash. A 1926 black-and-white silent drama with an all-Black cast."
+      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
+      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "ccad9ba94ef6e4d1",
+      "title": "You Had to Be There",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Comedy",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-30T22:15:00.000Z",
+      "endTime": "2026-09-30T23:53:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-had-to-be-there/",
+      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
+    },
+    {
+      "id": "3ac2f099b62e9d6e",
+      "title": "Late Fame",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-30T22:30:00.000Z",
+      "endTime": "2026-10-01T00:06:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/late-fame/",
+      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+    },
+    {
+      "id": "44a4426111a87830",
+      "title": "Primetime",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-30T22:45:00.000Z",
+      "endTime": "2026-10-01T00:35:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/primetime/",
+      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "5aa5c58a926752dd",
+      "title": "FLX Film Festival “Best of the Fest” – Sept. 30",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-09-30T23:00:00.000Z",
+      "endTime": "2026-10-01T01:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/flxfilmfest-bestoffest2026/",
+      "description": "SPECIAL EVENT | Wednesday, September 30 | A selection of the best short films from the 2026 Finger Lakes Film Festival. This unique collection of films crosses genre lines, from horror to comedy, experimental animation to documentary, and examines what it means to be human through stories about hobbies, gender, disability, and more. A Q&A with filmmakers will follow the screening."
+    },
+    {
+      "id": "0a249eec4c8412b0",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-01T01:00:00.000Z",
+      "endTime": "2026-10-01T04:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "recurring",
+      "link": "",
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
