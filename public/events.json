@@ -1,30 +1,84 @@
 {
-  "generatedAt": "2026-10-01T00:16:04.185Z",
+  "generatedAt": "2026-10-01T06:14:20.998Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-09-30",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-10-01",
+  "count": 11,
   "events": [
     {
-      "id": "13f6324a4b1a79c6",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
-      "neighborhood": "",
-      "category": "food-special",
+      "id": "885d379e0ba10c7e",
+      "title": "Members Artwork Drop Off Final Day",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1551,
+        "lng": -77.5982
       },
-      "startTime": "2026-09-30T20:00:00.000Z",
-      "endTime": "2026-10-01T02:00:00.000Z",
-      "weekday": "Wednesday",
-      "source": "recurring",
-      "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "startTime": "2026-10-01T21:00:00.000Z",
+      "endTime": "2026-10-01T23:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-final-day/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Final Day appeared first on Rochester Contemporary Art Center (RoCo)."
     },
     {
-      "id": "85f5d0de030f8916",
+      "id": "f7e9fbf0d0b33236",
+      "title": "Members Artwork Drop Off Day 2",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
+      "coordinates": {
+        "lat": 43.1551,
+        "lng": -77.5982
+      },
+      "startTime": "2026-10-01T21:00:00.000Z",
+      "endTime": "2026-10-01T23:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-day-2/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 2 appeared first on Rochester Contemporary Art Center (RoCo)."
+    },
+    {
+      "id": "5b7f6259903a6da0",
+      "title": "Members Artwork Drop Off Day 1",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
+      "coordinates": {
+        "lat": 43.1551,
+        "lng": -77.5982
+      },
+      "startTime": "2026-10-01T21:00:00.000Z",
+      "endTime": "2026-10-01T23:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 1 appeared first on Rochester Contemporary Art Center (RoCo)."
+    },
+    {
+      "id": "7ec1bedd3208b21b",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-10-01T22:00:00.000Z",
+      "endTime": "2026-10-02T02:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Walk-up lanes and pinsetter racket."
+    },
+    {
+      "id": "43bb6049cfe12928",
       "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +88,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-30T22:00:00.000Z",
-      "endTime": "2026-10-01T00:02:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-01T22:00:00.000Z",
+      "endTime": "2026-10-02T00:02:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
     },
     {
-      "id": "ccad9ba94ef6e4d1",
+      "id": "dec5bcd8e7603260",
       "title": "You Had to Be There",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,16 +106,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-30T22:15:00.000Z",
-      "endTime": "2026-09-30T23:53:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-01T22:15:00.000Z",
+      "endTime": "2026-10-01T23:53:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-had-to-be-there/",
       "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
     },
     {
-      "id": "3ac2f099b62e9d6e",
-      "title": "Late Fame",
+      "id": "8d93737f248a5d13",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -70,15 +124,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-30T22:30:00.000Z",
-      "endTime": "2026-10-01T00:06:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-01T22:30:00.000Z",
+      "endTime": "2026-10-01T23:50:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/late-fame/",
-      "description": "OPENS SEPTEMBER 18 | Willem Dafoe plays a one-time poet who now works at the post office - until his work from decades ago is rediscovered by a group of avant-garde young artists who want to adopt him as their muse...or mascot."
+      "link": "https://thelittle.org/shaun-the-sheep-mossy/",
+      "description": "OPENS SEPTEMBER 18 | On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with mad science experiments, but things go wrong when a wild beast appears in the woods."
     },
     {
-      "id": "44a4426111a87830",
+      "id": "b9460669ceb15643",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,16 +142,34 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-30T22:45:00.000Z",
-      "endTime": "2026-10-01T00:35:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-01T22:45:00.000Z",
+      "endTime": "2026-10-02T00:35:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "5aa5c58a926752dd",
-      "title": "FLX Film Festival “Best of the Fest” – Sept. 30",
+      "id": "4ff60caa7ceb6897",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-10-01T23:00:00.000Z",
+      "endTime": "2026-10-02T01:30:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "e7b4a513672c9309",
+      "title": "Special Needs Revolt! – Oct. 1",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,30 +178,30 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-09-30T23:00:00.000Z",
-      "endTime": "2026-10-01T01:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-01T23:30:00.000Z",
+      "endTime": "2026-10-02T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/flxfilmfest-bestoffest2026/",
-      "description": "SPECIAL EVENT | Wednesday, September 30 | A selection of the best short films from the 2026 Finger Lakes Film Festival. This unique collection of films crosses genre lines, from horror to comedy, experimental animation to documentary, and examines what it means to be human through stories about hobbies, gender, disability, and more. A Q&A with filmmakers will follow the screening."
+      "link": "https://thelittle.org/special-needs-revolt/",
+      "description": "SPECIAL SCREENING | Thursday, October 1 at 7:30pm | In a future dystopia, a man with Down syndrome joins a rebellion against America's cruel dictator who has put all people with disabilities back into institutions. It's up to Billy and his rebels to save America and end Kruger's reign of terror! Includes a Q&A with local filmmaker Adrian Esposito."
     },
     {
-      "id": "0a249eec4c8412b0",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "e28b3e1328fc0c1d",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.16135,
+        "lng": -77.61052
       },
-      "startTime": "2026-10-01T01:00:00.000Z",
-      "endTime": "2026-10-01T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-02T02:00:00.000Z",
+      "endTime": "2026-10-02T06:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
