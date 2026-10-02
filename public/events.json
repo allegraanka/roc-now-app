@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T15:11:50.730Z",
+  "generatedAt": "2026-10-02T20:01:24.076Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-10-02",
-  "count": 10,
+  "count": 16,
   "events": [
     {
       "id": "b11a61249bb7d605",
@@ -22,6 +22,42 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "9a491a5ffea0c67d",
+      "title": "Digger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-02T18:45:00.000Z",
+      "endTime": "2026-10-02T20:53:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/digger/",
+      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
+    },
+    {
+      "id": "3772eea12672f1ac",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-02T19:00:00.000Z",
+      "endTime": "2026-10-02T20:42:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
       "id": "c37cba196f1203cf",
@@ -60,6 +96,24 @@
       "description": "South Ave patio cans before the weekend crush."
     },
     {
+      "id": "4f7d73871775c5b7",
+      "title": "Digger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-02T22:00:00.000Z",
+      "endTime": "2026-10-03T00:08:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/digger/",
+      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
+    },
+    {
       "id": "5122c1c108cde795",
       "title": "You Had to Be There",
       "venue": "The Little Theatre",
@@ -76,6 +130,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-had-to-be-there/",
       "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
+    },
+    {
+      "id": "c7882cc8d43b0282",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-02T22:30:00.000Z",
+      "endTime": "2026-10-03T00:12:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
       "id": "9e589228f8469d42",
@@ -130,6 +202,42 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "5aacd41f315a9c89",
+      "title": "Digger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-03T00:40:00.000Z",
+      "endTime": "2026-10-03T02:48:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/digger/",
+      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
+    },
+    {
+      "id": "ec330b28da5ef68e",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-03T01:00:00.000Z",
+      "endTime": "2026-10-03T02:42:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
       "id": "520e30a83e40abff",
