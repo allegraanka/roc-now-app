@@ -1,49 +1,13 @@
 {
-  "generatedAt": "2026-10-05T02:10:37.913Z",
+  "generatedAt": "2026-10-05T09:18:59.368Z",
   "timezone": "America/New_York",
-  "day": "Sunday",
-  "date": "2026-10-04",
-  "count": 16,
+  "day": "Monday",
+  "date": "2026-10-05",
+  "count": 7,
   "events": [
     {
-      "id": "26ca2ae4ff2d2bbd",
-      "title": "Digger",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T15:30:00.000Z",
-      "endTime": "2026-10-04T17:38:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/digger/",
-      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
-    },
-    {
-      "id": "c4553239536698a3",
-      "title": "You Had to Be There",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Comedy",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T15:45:00.000Z",
-      "endTime": "2026-10-04T17:23:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-had-to-be-there/",
-      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
-    },
-    {
-      "id": "cbcd80f48cf15a54",
-      "title": "Funday Funday",
+      "id": "a92d11b3c31886cf",
+      "title": "$3 Cans at Lux",
       "venue": "Lux Lounge",
       "address": "666 South Ave",
       "neighborhood": "",
@@ -52,51 +16,15 @@
         "lat": 43.14624,
         "lng": -77.60555
       },
-      "startTime": "2026-10-04T16:00:00.000Z",
-      "endTime": "2026-10-05T00:00:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-10-05T21:00:00.000Z",
+      "endTime": "2026-10-06T03:00:00.000Z",
+      "weekday": "Monday",
       "source": "recurring",
       "link": "",
-      "description": "Day-drink cans and a lazy South Ave patio."
+      "description": "Tallboys three bucks all night in the South Wedge."
     },
     {
-      "id": "b3f2c1a1c3691584",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T16:15:00.000Z",
-      "endTime": "2026-10-04T18:05:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "cd8796dfcc1adf05",
-      "title": "The History of Concrete",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T16:30:00.000Z",
-      "endTime": "2026-10-04T18:12:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-history-of-concrete/",
-      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
-    },
-    {
-      "id": "40c23dd68bda2baf",
+      "id": "d6101aa6d5ec8c40",
       "title": "Digger",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,51 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-04T18:45:00.000Z",
-      "endTime": "2026-10-04T20:53:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-10-05T22:00:00.000Z",
+      "endTime": "2026-10-06T00:08:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/digger/",
       "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
     },
     {
-      "id": "8eb4241a8ffdf170",
-      "title": "The History of Concrete",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T19:00:00.000Z",
-      "endTime": "2026-10-04T20:42:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-history-of-concrete/",
-      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
-    },
-    {
-      "id": "abebe5548ca515a5",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T19:15:00.000Z",
-      "endTime": "2026-10-04T21:05:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "c267cb8b151c61ac",
+      "id": "c6e37ac06feafd84",
       "title": "Ha-Chan, Shake Your Booty!",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,105 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-04T19:30:00.000Z",
-      "endTime": "2026-10-04T21:32:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-10-05T22:15:00.000Z",
+      "endTime": "2026-10-06T00:17:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/ha-chan-shake-your-booty/",
       "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
     },
     {
-      "id": "16cb3959b2b5c1d9",
-      "title": "Sunday Funday Trivia",
-      "venue": "Tap & Mallet",
-      "address": "381 Gregory St",
-      "neighborhood": "",
-      "category": "trivia",
-      "coordinates": {
-        "lat": 43.14682,
-        "lng": -77.60347
-      },
-      "startTime": "2026-10-04T20:00:00.000Z",
-      "endTime": "2026-10-04T22:30:00.000Z",
-      "weekday": "Sunday",
-      "source": "recurring",
-      "link": "",
-      "description": "Low-stakes quiz and pub pies."
-    },
-    {
-      "id": "02f8bd240fc94772",
-      "title": "Troll 2 (VHS) + Best Worst Movie | Double Feature – Oct. 4",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T22:00:00.000Z",
-      "endTime": "2026-10-05T00:00:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/troll2-bestworstmovie/",
-      "description": "SPOOKY SEASON | Sunday, October 4 at 6:00pm | Screening on an original VHS tape, \"Troll 2\" follows vacationing family discovers that the entire town they're visiting is inhabited by goblins, disguised as humans, who plan to eat them. FOLLOWED BY the documentary \"Best Worst Movie\" exploring the surprising cultural legacy and cult following of the infamous \"Troll 2.\" ONE TICKET FOR BOTH!"
-    },
-    {
-      "id": "16d57163f3cee9cc",
-      "title": "Digger",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T22:15:00.000Z",
-      "endTime": "2026-10-05T00:23:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/digger/",
-      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
-    },
-    {
-      "id": "e63063294cd86543",
-      "title": "You Had to Be There",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Comedy",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T22:30:00.000Z",
-      "endTime": "2026-10-05T00:08:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-had-to-be-there/",
-      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
-    },
-    {
-      "id": "1ca8b62c1ff085e7",
-      "title": "Primetime",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-04T22:45:00.000Z",
-      "endTime": "2026-10-05T00:35:00.000Z",
-      "weekday": "Sunday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/primetime/",
-      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
-    },
-    {
-      "id": "193378fa2baa0ebc",
+      "id": "9ae329f81234942d",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -268,16 +70,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-04T23:00:00.000Z",
-      "endTime": "2026-10-05T00:42:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-10-05T22:30:00.000Z",
+      "endTime": "2026-10-06T00:12:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "941a8026b23b92c8",
-      "title": "Black Zombie – Oct. 3 & 4",
+      "id": "cdc894379a543f47",
+      "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -286,12 +88,48 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-04T23:00:00.000Z",
-      "endTime": "2026-10-05T01:00:00.000Z",
-      "weekday": "Sunday",
+      "startTime": "2026-10-05T22:45:00.000Z",
+      "endTime": "2026-10-06T00:35:00.000Z",
+      "weekday": "Monday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/black-zombie/",
-      "description": "SPOOKY SEASON x LIMITED RUN | Saturday, October 3 and Sunday, October 4 | Part cultural reckoning, part horror remix, Black Zombie exposes how the zombie figure born from enslavement, spiritual belief, and resistance was transformed into one of pop culture’s most profitable monsters."
+      "link": "https://thelittle.org/primetime/",
+      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "e347cb3f1d5e627b",
+      "title": "A Girl Walks Home Alone at Night – Oct. 5",
+      "venue": "Night – Oct",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-05T23:30:00.000Z",
+      "endTime": "2026-10-06T01:30:00.000Z",
+      "weekday": "Monday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/girl-walks-home/",
+      "description": "SPOOKY SEASON | Monday, Oct. 5 at 7:30pm | Residents of a worn-down Iranian city encounter a skateboarding vampire (Sheila Vand) who preys on men who disrespect women."
+    },
+    {
+      "id": "5a1c04d16ad3f276",
+      "title": "Industry Night",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.15155,
+        "lng": -77.59548
+      },
+      "startTime": "2026-10-06T01:00:00.000Z",
+      "endTime": "2026-10-06T04:00:00.000Z",
+      "weekday": "Monday",
+      "source": "recurring",
+      "link": "",
+      "description": "Service-industry pours and a late jukebox."
     }
   ]
 }
