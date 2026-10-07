@@ -1,45 +1,63 @@
 {
-  "generatedAt": "2026-10-07T02:32:42.878Z",
+  "generatedAt": "2026-10-07T09:32:24.659Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-10-06",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-10-07",
+  "count": 3,
   "events": [
     {
-      "id": "03b1c2e161548a48",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "077ff7e02e841551",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-10-06T20:00:00.000Z",
-      "endTime": "2026-10-07T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-07T20:00:00.000Z",
+      "endTime": "2026-10-08T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "d7a892e51f9d74de",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "37fe79ee4c4138a1",
+      "title": "The Orphanage – Oct. 7",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-10-06T23:00:00.000Z",
-      "endTime": "2026-10-07T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-07T23:30:00.000Z",
+      "endTime": "2026-10-08T01:30:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-orphanage/",
+      "description": "SPOOKY SEASON | Wednesday, October 7 at 7:30pm | A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend."
+    },
+    {
+      "id": "a4acd6dc439c5551",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-08T01:00:00.000Z",
+      "endTime": "2026-10-08T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
