@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-08T02:07:14.819Z",
+  "generatedAt": "2026-10-08T09:13:10.951Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-10-07",
-  "count": 3,
+  "day": "Thursday",
+  "date": "2026-10-08",
+  "count": 10,
   "events": [
     {
-      "id": "077ff7e02e841551",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "f58d55b0bee632bf",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-10-07T20:00:00.000Z",
-      "endTime": "2026-10-08T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-08T22:00:00.000Z",
+      "endTime": "2026-10-09T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "37fe79ee4c4138a1",
-      "title": "The Orphanage – Oct. 7",
+      "id": "f6a6217642e2fb9c",
+      "title": "Digger",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -34,30 +34,156 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-07T23:30:00.000Z",
-      "endTime": "2026-10-08T01:30:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-08T22:00:00.000Z",
+      "endTime": "2026-10-09T00:08:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-orphanage/",
-      "description": "SPOOKY SEASON | Wednesday, October 7 at 7:30pm | A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend."
+      "link": "https://thelittle.org/digger/",
+      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
     },
     {
-      "id": "a4acd6dc439c5551",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
+      "id": "405b42d6c15a9772",
+      "title": "Ha-Chan, Shake Your Booty!",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-10-08T01:00:00.000Z",
-      "endTime": "2026-10-08T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-08T22:15:00.000Z",
+      "endTime": "2026-10-09T00:17:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/ha-chan-shake-your-booty/",
+      "description": "OPENS SEPT. 25 | Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly."
+    },
+    {
+      "id": "1da64c923d1ebb99",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-08T22:30:00.000Z",
+      "endTime": "2026-10-09T00:12:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
+    },
+    {
+      "id": "fdad047e9896a603",
+      "title": "Primetime",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-08T22:45:00.000Z",
+      "endTime": "2026-10-09T00:35:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/primetime/",
+      "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "9b54ed55cb9fbf5b",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-10-08T23:00:00.000Z",
+      "endTime": "2026-10-09T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "5cb81063a7c3a70f",
+      "title": "You Had to Be There",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Comedy",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-08T23:00:00.000Z",
+      "endTime": "2026-10-09T00:38:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-had-to-be-there/",
+      "description": "OPENS SEPTEMBER 25 | A documentary about the legendary 1972 Toronto production of the musical about the life of Jesus, which launched many illustrious careers and ignited a comedy revolution."
+    },
+    {
+      "id": "3842141dcc727cd9",
+      "title": "The Village (at GCV&M) – Oct. 8",
+      "venue": "GCV&M) – Oct",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-08T23:00:00.000Z",
+      "endTime": "2026-10-09T01:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/thevillage-gcvm/",
+      "description": "SPOOKY SEASON x M. NIGHT SHYAMALAN | Thursday, October 8 at 7:00pm | The population of a small, isolated countryside village believes that their alliance with the mysterious creatures that inhabit the surrounding forest is coming to an end. Presented with our friends at Genesee Country Village and Museum, on-site in Mumford!"
+    },
+    {
+      "id": "e504d6063580657d",
+      "title": "ImageOut LGBTQ+ Fall Film Festival 2026 – Oct. 8-18",
+      "venue": "The Little",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-08T23:00:00.000Z",
+      "endTime": "2026-10-09T01:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/imageout-fall2026/",
+      "description": "An event taking place at The Little. | Ticketing not run by The Little, so Little discounts / member benefits do not apply to this event."
+    },
+    {
+      "id": "58797a1af132fcf1",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-10-09T02:00:00.000Z",
+      "endTime": "2026-10-09T06:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
