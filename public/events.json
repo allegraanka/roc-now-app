@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-09T08:10:52.090Z",
+  "generatedAt": "2026-10-09T15:24:19.679Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-10-09",
-  "count": 9,
+  "count": 15,
   "events": [
+    {
+      "id": "a76af00c8b529d29",
+      "title": "The Social Reckoning",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-09T18:30:00.000Z",
+      "endTime": "2026-10-09T21:00:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
+    },
     {
       "id": "2e82299100886288",
       "title": "Primetime",
@@ -22,6 +40,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "1d93f07459e1ee8a",
+      "title": "Never After Dark",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-09T19:00:00.000Z",
+      "endTime": "2026-10-09T20:45:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/never-after-dark/",
+      "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
       "id": "19ca427d03ec567c",
@@ -60,6 +96,24 @@
       "description": "South Ave patio cans before the weekend crush."
     },
     {
+      "id": "7e4006dc396d6480",
+      "title": "The Social Reckoning",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-09T22:00:00.000Z",
+      "endTime": "2026-10-10T00:30:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
+    },
+    {
       "id": "3ad1a312b565c7f4",
       "title": "Digger",
       "venue": "The Little Theatre",
@@ -76,6 +130,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/digger/",
       "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
+    },
+    {
+      "id": "ea1cabc9cc7c48f1",
+      "title": "Never After Dark",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-09T22:30:00.000Z",
+      "endTime": "2026-10-10T00:15:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/never-after-dark/",
+      "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
       "id": "a356f5593936d7aa",
@@ -96,6 +168,24 @@
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
+      "id": "02e6657b195ae31d",
+      "title": "The Social Reckoning",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-10T00:40:00.000Z",
+      "endTime": "2026-10-10T03:10:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
+    },
+    {
       "id": "b3591e015ef4c701",
       "title": "Primetime",
       "venue": "The Little Theatre",
@@ -112,6 +202,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
+    },
+    {
+      "id": "a9bdae74c0ffa823",
+      "title": "Never After Dark",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-10T01:10:00.000Z",
+      "endTime": "2026-10-10T02:55:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/never-after-dark/",
+      "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
       "id": "ba888fce6f02f5e3",
