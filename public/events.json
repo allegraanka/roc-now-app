@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-10-10T00:07:57.328Z",
+  "generatedAt": "2026-10-10T06:06:35.135Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-10-09",
-  "count": 15,
+  "day": "Saturday",
+  "date": "2026-10-10",
+  "count": 21,
   "events": [
     {
-      "id": "a76af00c8b529d29",
+      "id": "486cec053d759bab",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-10-10T15:00:00.000Z",
+      "endTime": "2026-10-10T19:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "Lanes, coffee, and a bloody mary."
+    },
+    {
+      "id": "1f9427c1b39a5d05",
       "title": "The Social Reckoning",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -16,15 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T18:30:00.000Z",
-      "endTime": "2026-10-09T21:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T15:30:00.000Z",
+      "endTime": "2026-10-10T18:00:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/social-reckoning/",
       "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
     },
     {
-      "id": "2e82299100886288",
+      "id": "354058c970dae585",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T18:45:00.000Z",
-      "endTime": "2026-10-09T20:35:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T15:45:00.000Z",
+      "endTime": "2026-10-10T17:35:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "1d93f07459e1ee8a",
+      "id": "784eddbcd8a61043",
       "title": "Never After Dark",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T19:00:00.000Z",
-      "endTime": "2026-10-09T20:45:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T16:00:00.000Z",
+      "endTime": "2026-10-10T17:45:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/never-after-dark/",
       "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
-      "id": "19ca427d03ec567c",
+      "id": "52bf07781564a3c2",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,33 +88,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T19:15:00.000Z",
-      "endTime": "2026-10-09T20:57:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T16:15:00.000Z",
+      "endTime": "2026-10-10T17:57:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "6c55cb1cdc5161d7",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "c6f9a671280e73a3",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14682,
+        "lng": -77.60347
       },
-      "startTime": "2026-10-09T20:00:00.000Z",
-      "endTime": "2026-10-09T23:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T18:00:00.000Z",
+      "endTime": "2026-10-11T02:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "South Ave patio cans before the weekend crush."
+      "description": "One-off casks and a packed Gregory St bar."
     },
     {
-      "id": "7e4006dc396d6480",
+      "id": "be3df07d6d9072f4",
       "title": "The Social Reckoning",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,15 +124,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T22:00:00.000Z",
-      "endTime": "2026-10-10T00:30:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T18:30:00.000Z",
+      "endTime": "2026-10-10T21:00:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/social-reckoning/",
       "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
     },
     {
-      "id": "3ad1a312b565c7f4",
+      "id": "3ed5f36ff0abb23d",
       "title": "Digger",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -124,15 +142,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T22:15:00.000Z",
-      "endTime": "2026-10-10T00:23:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T18:45:00.000Z",
+      "endTime": "2026-10-10T20:53:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/digger/",
       "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
     },
     {
-      "id": "ea1cabc9cc7c48f1",
+      "id": "f597415d4dbbe7eb",
       "title": "Never After Dark",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,15 +160,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T22:30:00.000Z",
-      "endTime": "2026-10-10T00:15:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T19:00:00.000Z",
+      "endTime": "2026-10-10T20:45:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/never-after-dark/",
       "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
-      "id": "a356f5593936d7aa",
+      "id": "cc8a21ac5b554634",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,15 +178,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-09T22:45:00.000Z",
-      "endTime": "2026-10-10T00:27:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T19:15:00.000Z",
+      "endTime": "2026-10-10T20:57:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "02e6657b195ae31d",
+      "id": "4360a0dad5da7a5c",
+      "title": "Dear Lara – Oct. 10",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Live Music",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-10T19:30:00.000Z",
+      "endTime": "2026-10-10T21:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/dear-lara/",
+      "description": "WXXI CLASSICAL PRESENTS | Saturday, October 10 at 3:30pm | When violinist Lara St. John goes public about her own assault as a child at an elite music school she uncovers a global pattern of abuse in the classical music world and joins fellow survivors to confront an entrenched culture of silence."
+    },
+    {
+      "id": "b0b7b5ba8b3a03bf",
       "title": "The Social Reckoning",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -178,15 +214,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-10T00:40:00.000Z",
-      "endTime": "2026-10-10T03:10:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T22:00:00.000Z",
+      "endTime": "2026-10-11T00:30:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/social-reckoning/",
       "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
     },
     {
-      "id": "b3591e015ef4c701",
+      "id": "e4460d1bed1a1bf1",
       "title": "Primetime",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -196,15 +232,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-10T01:00:00.000Z",
-      "endTime": "2026-10-10T02:50:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T22:15:00.000Z",
+      "endTime": "2026-10-11T00:05:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/primetime/",
       "description": "OPENS SEPTEMBER 25 | In 2006, \"To Catch a Predator\" host Chris Hansen (Robert Pattinson) sets out to make television history."
     },
     {
-      "id": "a9bdae74c0ffa823",
+      "id": "7efcff64fa05deb8",
       "title": "Never After Dark",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +250,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-10T01:10:00.000Z",
-      "endTime": "2026-10-10T02:55:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T22:30:00.000Z",
+      "endTime": "2026-10-11T00:15:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/never-after-dark/",
       "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
     },
     {
-      "id": "ba888fce6f02f5e3",
+      "id": "c2d2b581e322dc5e",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,16 +268,106 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-10T01:20:00.000Z",
-      "endTime": "2026-10-10T03:02:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-10T22:45:00.000Z",
+      "endTime": "2026-10-11T00:27:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "b751fcb4d34e4e4f",
-      "title": "Darkwave Dance Night",
+      "id": "2ce43a3090fca269",
+      "title": "Possession – Oct. 10",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-10T23:30:00.000Z",
+      "endTime": "2026-10-11T01:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/possession/",
+      "description": "SPOOKY SEASON | Saturday, October 10 at 7:30pm | A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister. Starring Sam Neill and Isabelle Adjani."
+    },
+    {
+      "id": "2418a075370dcf82",
+      "title": "Digger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-11T00:40:00.000Z",
+      "endTime": "2026-10-11T02:48:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/digger/",
+      "description": "OPENS OCTOBER 2 | From Alejandro G. Iñárritu (The Revenant, Birdman): The most powerful man in the world (Tom Cruise) embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything."
+    },
+    {
+      "id": "223bb1914896df58",
+      "title": "The Social Reckoning",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-11T00:40:00.000Z",
+      "endTime": "2026-10-11T03:10:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
+    },
+    {
+      "id": "e5c88b85dc3a07ef",
+      "title": "Never After Dark",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-11T01:10:00.000Z",
+      "endTime": "2026-10-11T02:55:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/never-after-dark/",
+      "description": "OPENS OCTOBER 9 | A medium helping lost souls cross over faces a powerful entity in an isolated house. Dark secrets emerge during her mission, transforming her spiritual work into a desperate struggle for survival."
+    },
+    {
+      "id": "6960fd3003bc7ae0",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-11T01:20:00.000Z",
+      "endTime": "2026-10-11T03:02:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
+    },
+    {
+      "id": "a451ae1390269c63",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -250,30 +376,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-10-10T02:00:00.000Z",
-      "endTime": "2026-10-10T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-11T02:00:00.000Z",
+      "endTime": "2026-10-11T06:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "a514ec254421fae6",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-10-10T02:00:00.000Z",
-      "endTime": "2026-10-10T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
