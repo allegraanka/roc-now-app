@@ -1,45 +1,63 @@
 {
-  "generatedAt": "2026-10-14T01:17:49.709Z",
+  "generatedAt": "2026-10-14T06:21:08.106Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-10-13",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-10-14",
+  "count": 3,
   "events": [
     {
-      "id": "5b2ac122ec066801",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "5a2003bad9903127",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-10-13T20:00:00.000Z",
-      "endTime": "2026-10-14T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-14T20:00:00.000Z",
+      "endTime": "2026-10-15T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "40954aec62976720",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "b049087d2f64954f",
+      "title": "Sense & Sensibility: Early Access Movie Party – Oct. 14",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-10-13T23:00:00.000Z",
-      "endTime": "2026-10-14T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-14T23:00:00.000Z",
+      "endTime": "2026-10-15T01:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/sensesensibility-earlyaccess/",
+      "description": "SPECIAL SCREENING | Wednesday, October 14 at 7:00pm | A story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles. Based on Jane Austen’s iconic masterpiece."
+    },
+    {
+      "id": "3288d87916b241c0",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-15T01:00:00.000Z",
+      "endTime": "2026-10-15T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
