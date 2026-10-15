@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T12:57:28.003Z",
+  "generatedAt": "2026-10-15T17:34:32.794Z",
   "timezone": "America/New_York",
   "day": "Thursday",
   "date": "2026-10-15",
-  "count": 6,
+  "count": 7,
   "events": [
     {
       "id": "721bf77188b7273c",
@@ -94,6 +94,24 @@
       "source": "recurring",
       "link": "",
       "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "ee984343b9338e59",
+      "title": "Sense and Sensibility",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-15T23:00:00.000Z",
+      "endTime": "2026-10-16T01:11:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/sense-and-sensibility/",
+      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
       "id": "c4779d159f188827",
