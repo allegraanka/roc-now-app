@@ -1,30 +1,12 @@
 {
-  "generatedAt": "2026-10-18T01:17:37.477Z",
+  "generatedAt": "2026-10-18T06:10:36.002Z",
   "timezone": "America/New_York",
-  "day": "Saturday",
-  "date": "2026-10-17",
-  "count": 20,
+  "day": "Sunday",
+  "date": "2026-10-18",
+  "count": 14,
   "events": [
     {
-      "id": "1a930b3f5b7cf421",
-      "title": "Saturday Brunch Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
-      "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
-      },
-      "startTime": "2026-10-17T15:00:00.000Z",
-      "endTime": "2026-10-17T19:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "Lanes, coffee, and a bloody mary."
-    },
-    {
-      "id": "bba19ca687332324",
+      "id": "aa6811ce91456c70",
       "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +16,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T15:30:00.000Z",
-      "endTime": "2026-10-17T17:41:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T15:30:00.000Z",
+      "endTime": "2026-10-18T17:41:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "6f686d1c25a8351d",
+      "id": "28af5fb751b40c73",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +34,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T15:45:00.000Z",
-      "endTime": "2026-10-17T17:27:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T15:45:00.000Z",
+      "endTime": "2026-10-18T17:27:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "724afeb5825ca7b0",
+      "id": "1cd888a0e08c9bcd",
+      "title": "Funday Funday",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-10-18T16:00:00.000Z",
+      "endTime": "2026-10-19T00:00:00.000Z",
+      "weekday": "Sunday",
+      "source": "recurring",
+      "link": "",
+      "description": "Day-drink cans and a lazy South Ave patio."
+    },
+    {
+      "id": "db26503c6f2353ef",
       "title": "The Devils (1971) – Oct. 16-22",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,15 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T16:00:00.000Z",
-      "endTime": "2026-10-17T17:51:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T16:00:00.000Z",
+      "endTime": "2026-10-18T17:51:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-devils-1971/",
       "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
     },
     {
-      "id": "c9ecf51cdb27b6b2",
+      "id": "aab9136ac8358f99",
       "title": "The Social Reckoning",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,16 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T16:15:00.000Z",
-      "endTime": "2026-10-17T18:45:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T16:15:00.000Z",
+      "endTime": "2026-10-18T18:45:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/social-reckoning/",
       "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
     },
     {
-      "id": "39a54466dcac8c8e",
-      "title": "The Little’s 97th Birthday Party! (Members Only!) – Oct. 17, 2026",
+      "id": "425065e4706f82ad",
+      "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,33 +106,87 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T17:45:00.000Z",
-      "endTime": "2026-10-17T19:45:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T18:30:00.000Z",
+      "endTime": "2026-10-18T20:41:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/birthday2026/",
-      "description": "FOR LITTLE MEMBERS ONLY! | Saturday, October 17 at 1:45pm and 5:00pm | Free preview screening of \"The Eyes of Ghana,\" free birthday cake, and free popcorn! Members, come celebrate with us!"
+      "link": "https://thelittle.org/sense-and-sensibility/",
+      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "f182451437bcff57",
-      "title": "South Wedge Cask Night",
+      "id": "6509d7ad4772ae62",
+      "title": "The Social Reckoning",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-18T18:45:00.000Z",
+      "endTime": "2026-10-18T21:15:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
+    },
+    {
+      "id": "b878f4be4dd29364",
+      "title": "The Devils (1971) – Oct. 16-22",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-18T19:00:00.000Z",
+      "endTime": "2026-10-18T20:51:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-devils-1971/",
+      "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
+    },
+    {
+      "id": "68a1bec039763425",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-18T19:45:00.000Z",
+      "endTime": "2026-10-18T22:39:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "82e8517a94e4ab5b",
+      "title": "Sunday Funday Trivia",
       "venue": "Tap & Mallet",
       "address": "381 Gregory St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.14682,
         "lng": -77.60347
       },
-      "startTime": "2026-10-17T18:00:00.000Z",
-      "endTime": "2026-10-18T02:00:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T20:00:00.000Z",
+      "endTime": "2026-10-18T22:30:00.000Z",
+      "weekday": "Sunday",
       "source": "recurring",
       "link": "",
-      "description": "One-off casks and a packed Gregory St bar."
+      "description": "Low-stakes quiz and pub pies."
     },
     {
-      "id": "0d454b966109f467",
+      "id": "907ebd000d7e5501",
       "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,15 +196,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T18:30:00.000Z",
-      "endTime": "2026-10-17T20:41:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T22:00:00.000Z",
+      "endTime": "2026-10-19T00:11:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "6e1d04d4edbe607f",
+      "id": "8a37c21a3827dfc7",
       "title": "The History of Concrete",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,15 +214,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T18:45:00.000Z",
-      "endTime": "2026-10-17T20:27:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T22:15:00.000Z",
+      "endTime": "2026-10-18T23:57:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-history-of-concrete/",
       "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
-      "id": "52c35159f8325130",
+      "id": "59fe06cc3d8f1173",
       "title": "The Devils (1971) – Oct. 16-22",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -178,15 +232,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T19:00:00.000Z",
-      "endTime": "2026-10-17T20:51:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T22:45:00.000Z",
+      "endTime": "2026-10-19T00:36:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-devils-1971/",
       "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
     },
     {
-      "id": "838169bb902a9016",
+      "id": "d2f25591d09afc74",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -196,174 +250,12 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-17T19:45:00.000Z",
-      "endTime": "2026-10-17T22:39:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-10-18T23:30:00.000Z",
+      "endTime": "2026-10-19T02:24:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "43ec8672fe58a611",
-      "title": "Sense and Sensibility",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-17T22:00:00.000Z",
-      "endTime": "2026-10-18T00:11:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/sense-and-sensibility/",
-      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
-    },
-    {
-      "id": "75ba227c040d9e7c",
-      "title": "The Social Reckoning",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-17T22:15:00.000Z",
-      "endTime": "2026-10-18T00:45:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/social-reckoning/",
-      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
-    },
-    {
-      "id": "b646b61149277a35",
-      "title": "The Devils (1971) – Oct. 16-22",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-17T22:45:00.000Z",
-      "endTime": "2026-10-18T00:36:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-devils-1971/",
-      "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
-    },
-    {
-      "id": "40b50801e1bfd96e",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-17T23:30:00.000Z",
-      "endTime": "2026-10-18T02:24:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "ce67768b65e69cf1",
-      "title": "Popcorn (1991) – Oct. 17",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-18T00:00:00.000Z",
-      "endTime": "2026-10-18T02:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/popcorn-1991/",
-      "description": "SPOOKY SEASON | Saturday, October 17 at 8:00pm | Projected on 35mm film | A master of disguise deranged killer begins killing off the college students who are organizing a horror-movie marathon in an abandoned theater."
-    },
-    {
-      "id": "a6c70024a4a34fa2",
-      "title": "The History of Concrete",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-18T00:50:00.000Z",
-      "endTime": "2026-10-18T02:32:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-history-of-concrete/",
-      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
-    },
-    {
-      "id": "35b7ad88262ba708",
-      "title": "Sense and Sensibility",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-18T01:00:00.000Z",
-      "endTime": "2026-10-18T03:11:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/sense-and-sensibility/",
-      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
-    },
-    {
-      "id": "e33069c1c0d41d5c",
-      "title": "The Devils (1971) – Oct. 16-22",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-18T01:10:00.000Z",
-      "endTime": "2026-10-18T03:01:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-devils-1971/",
-      "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
-    },
-    {
-      "id": "74444bf8ba1d5e19",
-      "title": "Industrial Saturday",
-      "venue": "Vertex",
-      "address": "169 N Chestnut St",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.16135,
-        "lng": -77.61052
-      },
-      "startTime": "2026-10-18T02:00:00.000Z",
-      "endTime": "2026-10-18T06:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
