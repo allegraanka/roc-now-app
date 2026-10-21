@@ -1,45 +1,117 @@
 {
-  "generatedAt": "2026-10-21T01:08:32.838Z",
+  "generatedAt": "2026-10-21T06:11:50.748Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-10-20",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-10-21",
+  "count": 6,
   "events": [
     {
-      "id": "f68218031bf765bf",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "fc176a2aeb713095",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-10-20T20:00:00.000Z",
-      "endTime": "2026-10-21T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-21T20:00:00.000Z",
+      "endTime": "2026-10-22T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "f697bdf10505409d",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "4b8c2eb516a70adc",
+      "title": "Sense and Sensibility",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-10-20T23:00:00.000Z",
-      "endTime": "2026-10-21T01:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-21T22:00:00.000Z",
+      "endTime": "2026-10-22T00:11:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/sense-and-sensibility/",
+      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
+    },
+    {
+      "id": "89565a1b6ea43dae",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-21T22:30:00.000Z",
+      "endTime": "2026-10-22T01:24:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "73edfbc61c42e1af",
+      "title": "The Devils (1971) – Oct. 16-22",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-21T23:00:00.000Z",
+      "endTime": "2026-10-22T00:51:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-devils-1971/",
+      "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
+    },
+    {
+      "id": "9e27fce363a4e9f7",
+      "title": "The Oldest Person in the World – Oct. 21 & 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-21T23:00:00.000Z",
+      "endTime": "2026-10-22T01:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-oldest-person-in-the-world/",
+      "description": "ONE TAKE DOCUMENTARY SERIES | Wednesday, October 21 and Saturday, October 24 | A ten-year worldwide exploration tracks successive holders of the oldest living person title. A study of longevity transforms into reflection on time's flow, fate's unpredictability, and the joy of human existence."
+    },
+    {
+      "id": "cf72f8d1585735f7",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-22T01:00:00.000Z",
+      "endTime": "2026-10-22T04:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
