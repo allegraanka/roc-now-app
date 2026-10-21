@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T12:06:32.572Z",
+  "generatedAt": "2026-10-21T17:26:55.285Z",
   "timezone": "America/New_York",
   "day": "Wednesday",
   "date": "2026-10-21",
-  "count": 6,
+  "count": 7,
   "events": [
     {
       "id": "fc176a2aeb713095",
@@ -40,6 +40,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
+    },
+    {
+      "id": "db9b1d807dcbecab",
+      "title": "The History of Concrete",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-21T22:15:00.000Z",
+      "endTime": "2026-10-21T23:57:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-history-of-concrete/",
+      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
     },
     {
       "id": "89565a1b6ea43dae",
