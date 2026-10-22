@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-22T02:30:48.477Z",
+  "generatedAt": "2026-10-22T08:07:01.652Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-10-21",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-10-22",
+  "count": 8,
   "events": [
     {
-      "id": "fc176a2aeb713095",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "3f9f4fbc17cc4cb0",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-10-21T20:00:00.000Z",
-      "endTime": "2026-10-22T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T22:00:00.000Z",
+      "endTime": "2026-10-23T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "4b8c2eb516a70adc",
+      "id": "b8069a82359a84a2",
       "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,16 +34,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-21T22:00:00.000Z",
-      "endTime": "2026-10-22T00:11:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T22:00:00.000Z",
+      "endTime": "2026-10-23T00:11:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "db9b1d807dcbecab",
-      "title": "The History of Concrete",
+      "id": "4dab1f9c7769b135",
+      "title": "The Social Reckoning",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -52,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-21T22:15:00.000Z",
-      "endTime": "2026-10-21T23:57:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T22:15:00.000Z",
+      "endTime": "2026-10-23T00:45:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-history-of-concrete/",
-      "description": "OPENS OCTOBER 2 | Filmmaker Jon Wilson applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete. A surreal, hysterical, and relatable film about America's favorite building material."
+      "link": "https://thelittle.org/social-reckoning/",
+      "description": "OPENS OCTOBER 9 | Sixteen years on from The Social Network, writer-director Aaron Sorkin catches up with Facebook founder Mark Zuckerberg (Jeremy Strong) as he attempts to deal with a whistleblowing data scientist (Mikey Madison) and a pesky journalist (Jeremy Allen White)."
     },
     {
-      "id": "89565a1b6ea43dae",
+      "id": "3908e33ba1b76ee1",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,15 +70,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-21T22:30:00.000Z",
-      "endTime": "2026-10-22T01:24:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T22:30:00.000Z",
+      "endTime": "2026-10-23T01:24:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "73edfbc61c42e1af",
+      "id": "15e4336855aaf43a",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.1475546,
+        "lng": -77.5764396
+      },
+      "startTime": "2026-10-22T23:00:00.000Z",
+      "endTime": "2026-10-23T01:30:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "cd7214cec9a4a9da",
       "title": "The Devils (1971) – Oct. 16-22",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,48 +106,48 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-21T23:00:00.000Z",
-      "endTime": "2026-10-22T00:51:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T23:00:00.000Z",
+      "endTime": "2026-10-23T00:51:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-devils-1971/",
       "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
     },
     {
-      "id": "9e27fce363a4e9f7",
-      "title": "The Oldest Person in the World – Oct. 21 & 24",
-      "venue": "The Little Theatre",
+      "id": "c0d2c82a67d8f949",
+      "title": "Fallen Angels – Oct. 22 & 25",
+      "venue": "Broadway",
       "address": "240 East Ave",
       "neighborhood": "East End",
-      "category": "Movies",
+      "category": "Comedy",
       "coordinates": {
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-21T23:00:00.000Z",
-      "endTime": "2026-10-22T01:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-22T23:00:00.000Z",
+      "endTime": "2026-10-23T01:00:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-oldest-person-in-the-world/",
-      "description": "ONE TAKE DOCUMENTARY SERIES | Wednesday, October 21 and Saturday, October 24 | A ten-year worldwide exploration tracks successive holders of the oldest living person title. A study of longevity transforms into reflection on time's flow, fate's unpredictability, and the joy of human existence."
+      "link": "https://thelittle.org/fallen-angels-broadway/",
+      "description": "FILMED LIVE ON STAGE | Thursday, October 22 and Sunday, October 25 | This Tony Award-winning champagne-fresh comedy of bad manners and ‘pure escapist fun’ was filmed live on stage at Broadway, and stars Golden Globe-winner Rose Byrne and Tony Award winner Kelli O’Hara. o upper-class wives, their husbands away for the day, share a few toasts to their pre-marital dalliances—with the same man, who just may be en route from France to visit."
     },
     {
-      "id": "cf72f8d1585735f7",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "976797b42d8dbdf9",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.16135,
+        "lng": -77.61052
       },
-      "startTime": "2026-10-22T01:00:00.000Z",
-      "endTime": "2026-10-22T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-23T02:00:00.000Z",
+      "endTime": "2026-10-23T06:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
