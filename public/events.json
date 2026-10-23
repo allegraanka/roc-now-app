@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T10:17:37.893Z",
+  "generatedAt": "2026-10-23T15:15:32.735Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-10-23",
-  "count": 8,
+  "count": 16,
   "events": [
     {
       "id": "b05cbf3f26ec247e",
@@ -24,6 +24,60 @@
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
+      "id": "d21847d32ed8bfbd",
+      "title": "Possible Love",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T18:45:00.000Z",
+      "endTime": "2026-10-23T21:29:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/possible-love/",
+      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+    },
+    {
+      "id": "a4ecdf1296122e75",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T19:00:00.000Z",
+      "endTime": "2026-10-23T21:12:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "a6cd24be424946c5",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T19:15:00.000Z",
+      "endTime": "2026-10-23T21:00:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
       "id": "6fa07ac20b984876",
       "title": "Happy Hour Cans",
       "venue": "Lux Lounge",
@@ -40,6 +94,24 @@
       "source": "recurring",
       "link": "",
       "description": "South Ave patio cans before the weekend crush."
+    },
+    {
+      "id": "ef20af75060210e1",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T22:00:00.000Z",
+      "endTime": "2026-10-24T00:12:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
     },
     {
       "id": "0167beb33f04a1e4",
@@ -60,6 +132,42 @@
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
+      "id": "71c04cf02db80e5a",
+      "title": "Possible Love",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T22:30:00.000Z",
+      "endTime": "2026-10-24T01:14:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/possible-love/",
+      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+    },
+    {
+      "id": "2090c6a5097976ad",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-23T22:45:00.000Z",
+      "endTime": "2026-10-24T00:30:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
       "id": "9d6e61b85831f29f",
       "title": "Hocus Pocus – Oct. 23 & 25",
       "venue": "The Little Theatre",
@@ -78,6 +186,24 @@
       "description": "LITTLE CRAFT NIGHT: Friday, October 23 | TRADITIONAL SCREENING: Sunday, October 25 | A teenage boy and his sister unsuspectingly conjure a tricky trio of 300-year-old witches in Salem, who set out to cast a spell on the town and reclaim their youth."
     },
     {
+      "id": "3f2b6d6ef5a1292b",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T00:50:00.000Z",
+      "endTime": "2026-10-24T03:02:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
       "id": "b5852dd98afc812a",
       "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
@@ -94,6 +220,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
+    },
+    {
+      "id": "ed0bbbe723840ccf",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T01:20:00.000Z",
+      "endTime": "2026-10-24T03:05:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
       "id": "5b35cdf76d627773",
