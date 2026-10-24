@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-10-24T00:53:12.514Z",
+  "generatedAt": "2026-10-24T05:13:28.352Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-10-23",
-  "count": 16,
+  "day": "Saturday",
+  "date": "2026-10-24",
+  "count": 23,
   "events": [
     {
-      "id": "b05cbf3f26ec247e",
+      "id": "e7f7fb1e5c25524c",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-10-24T15:00:00.000Z",
+      "endTime": "2026-10-24T19:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "Lanes, coffee, and a bloody mary."
+    },
+    {
+      "id": "65581c149799d4c0",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -16,16 +34,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-23T18:30:00.000Z",
-      "endTime": "2026-10-23T21:24:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T15:30:00.000Z",
+      "endTime": "2026-10-24T18:24:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "d21847d32ed8bfbd",
-      "title": "Possible Love",
+      "id": "29cfed909f066412",
+      "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -34,33 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-23T18:45:00.000Z",
-      "endTime": "2026-10-23T21:29:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T15:45:00.000Z",
+      "endTime": "2026-10-24T17:56:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/possible-love/",
-      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+      "link": "https://thelittle.org/sense-and-sensibility/",
+      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "a4ecdf1296122e75",
-      "title": "Wildwood",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-23T19:00:00.000Z",
-      "endTime": "2026-10-23T21:12:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildwood/",
-      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
-    },
-    {
-      "id": "a6cd24be424946c5",
+      "id": "20d8e2e0795d6873",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,69 +70,69 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-23T19:15:00.000Z",
-      "endTime": "2026-10-23T21:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T16:00:00.000Z",
+      "endTime": "2026-10-24T17:45:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "6fa07ac20b984876",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "e60f99279a7d7cb3",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T16:15:00.000Z",
+      "endTime": "2026-10-24T18:27:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "9f65b898be317a53",
+      "title": "House on Haunted Hill – Oct. 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T17:15:00.000Z",
+      "endTime": "2026-10-24T19:15:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/house-on-haunted-hill/",
+      "description": "Spooky Season x House of Silent Shadows Horror Marathon | Saturday, Oct. 24 at 1:15pm | Frederick Loren invites five strangers to the party of a lifetime and offers each of them $10,000 if they can stay the night in the reportedly haunted house. Armed with a gun for protection, each guest arrives in a hearse and will either leave in it much richer…Or dead."
+    },
+    {
+      "id": "02900fb733efc056",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14682,
+        "lng": -77.60347
       },
-      "startTime": "2026-10-23T20:00:00.000Z",
-      "endTime": "2026-10-23T23:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T18:00:00.000Z",
+      "endTime": "2026-10-25T02:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "South Ave patio cans before the weekend crush."
+      "description": "One-off casks and a packed Gregory St bar."
     },
     {
-      "id": "ef20af75060210e1",
-      "title": "Wildwood",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-23T22:00:00.000Z",
-      "endTime": "2026-10-24T00:12:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildwood/",
-      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
-    },
-    {
-      "id": "0167beb33f04a1e4",
-      "title": "Sense and Sensibility",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-23T22:15:00.000Z",
-      "endTime": "2026-10-24T00:26:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/sense-and-sensibility/",
-      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
-    },
-    {
-      "id": "71c04cf02db80e5a",
+      "id": "a4666c07dab92a78",
       "title": "Possible Love",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,69 +142,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-23T22:30:00.000Z",
-      "endTime": "2026-10-24T01:14:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T18:30:00.000Z",
+      "endTime": "2026-10-24T21:14:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/possible-love/",
       "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
     },
     {
-      "id": "2090c6a5097976ad",
-      "title": "Wicker",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-23T22:45:00.000Z",
-      "endTime": "2026-10-24T00:30:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wicker/",
-      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-    },
-    {
-      "id": "9d6e61b85831f29f",
-      "title": "Hocus Pocus – Oct. 23 & 25",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-23T23:00:00.000Z",
-      "endTime": "2026-10-24T01:00:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/hocus-pocus-craftnight/",
-      "description": "LITTLE CRAFT NIGHT: Friday, October 23 | TRADITIONAL SCREENING: Sunday, October 25 | A teenage boy and his sister unsuspectingly conjure a tricky trio of 300-year-old witches in Salem, who set out to cast a spell on the town and reclaim their youth."
-    },
-    {
-      "id": "3f2b6d6ef5a1292b",
-      "title": "Wildwood",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-24T00:50:00.000Z",
-      "endTime": "2026-10-24T03:02:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildwood/",
-      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
-    },
-    {
-      "id": "b5852dd98afc812a",
+      "id": "7a746721b1730165",
       "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +160,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-24T01:00:00.000Z",
-      "endTime": "2026-10-24T03:11:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T19:10:00.000Z",
+      "endTime": "2026-10-24T21:21:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/sense-and-sensibility/",
       "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "ed0bbbe723840ccf",
+      "id": "3340395dcad27d7e",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,15 +178,213 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-24T01:20:00.000Z",
-      "endTime": "2026-10-24T03:05:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-24T19:15:00.000Z",
+      "endTime": "2026-10-24T21:00:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "5b5a9de57c8d2aac",
+      "id": "fe1ceb89c0a302e5",
+      "title": "Idle Hands – Oct. 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T19:30:00.000Z",
+      "endTime": "2026-10-24T21:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/idle-hands-oct-24/",
+      "description": "Spooky Season x House of Silent Shadows Horror Marathon | Saturday, Oct. 24 at 3:30pm | A teenage slacker's (Devon Sawa) right hand becomes possessed with murderous intent. Jessica Alba and Seth Green also star."
+    },
+    {
+      "id": "2e14aab6f3d32da6",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T22:00:00.000Z",
+      "endTime": "2026-10-25T00:12:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "0d35c66113c40c27",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T22:15:00.000Z",
+      "endTime": "2026-10-25T01:09:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "e5c4e919825a321d",
+      "title": "Possible Love",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T22:30:00.000Z",
+      "endTime": "2026-10-25T01:14:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/possible-love/",
+      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+    },
+    {
+      "id": "92925a50126a2b4d",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T22:45:00.000Z",
+      "endTime": "2026-10-25T00:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "eabc4933ef7421c2",
+      "title": "The Oldest Person in the World – Oct. 21 & 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T23:00:00.000Z",
+      "endTime": "2026-10-25T01:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-oldest-person-in-the-world/",
+      "description": "ONE TAKE DOCUMENTARY SERIES | Wednesday, October 21 and Saturday, October 24 | A ten-year worldwide exploration tracks successive holders of the oldest living person title. A study of longevity transforms into reflection on time's flow, fate's unpredictability, and the joy of human existence."
+    },
+    {
+      "id": "137e914d7a7f08ce",
+      "title": "House of Silent Shadows Horror Marathon – Oct. 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T23:00:00.000Z",
+      "endTime": "2026-10-25T01:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/silentshadowsmarathon2026/",
+      "description": "SPOOKY SEASON | Saturday, October 24 | Lock yourself into movie madness and spend the day with us for four screenings of classic and cult horror favorites: “House on Haunted Hill\" (35mm film), \"Idle Hands”, \"Hellraiser”, and \"House”. Individual tickets and all-day passes available!"
+    },
+    {
+      "id": "279844455a6511a4",
+      "title": "Hellraiser (1987) – Oct. 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-24T23:00:00.000Z",
+      "endTime": "2026-10-25T01:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hellraiser-oct-24/",
+      "description": "Spooky Season x House of Silent Shadows Horror Marathon | Saturday, Oct. 24 at 7:00pm | A woman discovers the newly resurrected, partially formed, body of her brother-in-law and lover. She starts killing for him to revitalize his body and escape the demonic beings that are pursuing him after he escaped their underworld. Written and directed by Clive Barker."
+    },
+    {
+      "id": "ca6e53e021f9ae17",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-25T00:50:00.000Z",
+      "endTime": "2026-10-25T03:02:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "f7c1d775d9d2bb1e",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-25T01:20:00.000Z",
+      "endTime": "2026-10-25T03:05:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "cc8af853df93a6d5",
+      "title": "House (1977) – Oct. 24",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-25T01:30:00.000Z",
+      "endTime": "2026-10-25T03:30:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/house-1977-oct-24/",
+      "description": "Spooky Season x House of Silent Shadows Horror Marathon | Saturday, Oct. 24 at 9:30pm | Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt’s ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
+    },
+    {
+      "id": "d3de73105e1c24ad",
       "title": "The Devils (1971) – Oct. 16-25",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -250,16 +394,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-24T01:45:00.000Z",
-      "endTime": "2026-10-24T03:36:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-25T01:45:00.000Z",
+      "endTime": "2026-10-25T03:36:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-devils-1971/",
       "description": "OPENS OCTOBER 16 | ONE WEEK ONLY! | 4K restoration of the Director's Cut. One of cinema’s most transgressive and incendiary provocations, Ken Russell’s feverish account of the Loudun possessions witchcraft trial in 17th-century France stars Oliver Reed and Vanessa Redgrave. Alternately hailed as a masterpiece and derided as pornography, its anti-authoritarian outrage and critique of institutional hypocrisy feel more urgent than ever. Rated NC-17."
     },
     {
-      "id": "8bec86f95e380d94",
-      "title": "Darkwave Dance Night",
+      "id": "f6e48f1daf136d77",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -268,30 +412,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-10-24T02:00:00.000Z",
-      "endTime": "2026-10-24T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-25T02:00:00.000Z",
+      "endTime": "2026-10-25T06:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "93f4502dc661f69e",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-10-24T02:00:00.000Z",
-      "endTime": "2026-10-24T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
