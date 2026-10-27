@@ -1,84 +1,30 @@
 {
-  "generatedAt": "2026-10-27T01:32:58.141Z",
+  "generatedAt": "2026-10-27T07:03:00.168Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-10-26",
-  "count": 7,
+  "day": "Tuesday",
+  "date": "2026-10-27",
+  "count": 4,
   "events": [
     {
-      "id": "2e439331dafa5f1e",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "78914338575eba8c",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-10-26T21:00:00.000Z",
-      "endTime": "2026-10-27T03:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-10-27T20:00:00.000Z",
+      "endTime": "2026-10-28T03:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "a47c552f369e9bc0",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-26T22:00:00.000Z",
-      "endTime": "2026-10-27T00:54:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "c78a706cfdfd02d1",
-      "title": "Possible Love",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-26T22:15:00.000Z",
-      "endTime": "2026-10-27T00:59:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/possible-love/",
-      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
-    },
-    {
-      "id": "63b841a979fb34d8",
-      "title": "Wildwood",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-26T22:30:00.000Z",
-      "endTime": "2026-10-27T00:42:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildwood/",
-      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
-    },
-    {
-      "id": "2a47147ae3dee5a4",
+      "id": "3f75a3529a715766",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,16 +34,34 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-26T22:45:00.000Z",
-      "endTime": "2026-10-27T00:30:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-10-27T22:45:00.000Z",
+      "endTime": "2026-10-28T00:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "597ec4df4b4d1203",
-      "title": "Sense and Sensibility",
+      "id": "a719094d34435620",
+      "title": "Trivia Tuesday",
+      "venue": "The Old Toad",
+      "address": "277 Alexander St",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.15155,
+        "lng": -77.59548
+      },
+      "startTime": "2026-10-27T23:00:00.000Z",
+      "endTime": "2026-10-28T01:30:00.000Z",
+      "weekday": "Tuesday",
+      "source": "recurring",
+      "link": "",
+      "description": "Pub quiz in the front room. Teams of six."
+    },
+    {
+      "id": "e019dea1da8f2c1f",
+      "title": "Town Crier – Oct. 27",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,30 +70,12 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-26T23:00:00.000Z",
-      "endTime": "2026-10-27T01:11:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-10-27T23:00:00.000Z",
+      "endTime": "2026-10-28T01:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/sense-and-sensibility/",
-      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
-    },
-    {
-      "id": "27af5d93537bc127",
-      "title": "Industry Night",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-10-27T01:00:00.000Z",
-      "endTime": "2026-10-27T04:00:00.000Z",
-      "weekday": "Monday",
-      "source": "recurring",
-      "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "link": "https://thelittle.org/town-crier-oct-27/",
+      "description": "Tuesday, Oct. 27 at 7pm | The film explores artist Mark Thomas Gibson’s response to the daily onslaught of news through his TOWN CRIER series, sounding the alarm on our fraying democracy and using art as an urgent call to citizen action. The short film will be followed by a discussion."
     }
   ]
 }
