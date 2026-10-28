@@ -1,30 +1,84 @@
 {
-  "generatedAt": "2026-10-28T01:55:26.188Z",
+  "generatedAt": "2026-10-28T07:44:45.705Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-10-27",
-  "count": 4,
+  "day": "Wednesday",
+  "date": "2026-10-28",
+  "count": 7,
   "events": [
     {
-      "id": "78914338575eba8c",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "53c0c399b21e4c8d",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-10-27T20:00:00.000Z",
-      "endTime": "2026-10-28T03:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-28T20:00:00.000Z",
+      "endTime": "2026-10-29T02:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "3f75a3529a715766",
+      "id": "18a348ab69982ae1",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-28T22:00:00.000Z",
+      "endTime": "2026-10-29T00:54:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "6af4eeb12187260e",
+      "title": "Possible Love",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-28T22:15:00.000Z",
+      "endTime": "2026-10-29T00:59:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/possible-love/",
+      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+    },
+    {
+      "id": "6acc0f2cfdfbb205",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-28T22:30:00.000Z",
+      "endTime": "2026-10-29T00:42:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "94b2c8d16a0915de",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,34 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-27T22:45:00.000Z",
-      "endTime": "2026-10-28T00:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-28T22:45:00.000Z",
+      "endTime": "2026-10-29T00:30:00.000Z",
+      "weekday": "Wednesday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "a719094d34435620",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
-      "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
-      },
-      "startTime": "2026-10-27T23:00:00.000Z",
-      "endTime": "2026-10-28T01:30:00.000Z",
-      "weekday": "Tuesday",
-      "source": "recurring",
-      "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
-    },
-    {
-      "id": "e019dea1da8f2c1f",
-      "title": "Town Crier – Oct. 27",
+      "id": "bb450183c651af49",
+      "title": "Bea Arthur: The Documentary – Oct. 28",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -70,12 +106,30 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-27T23:00:00.000Z",
-      "endTime": "2026-10-28T01:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-10-28T23:00:00.000Z",
+      "endTime": "2026-10-29T01:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/town-crier-oct-27/",
-      "description": "Tuesday, Oct. 27 at 7pm | The film explores artist Mark Thomas Gibson’s response to the daily onslaught of news through his TOWN CRIER series, sounding the alarm on our fraying democracy and using art as an urgent call to citizen action. The short film will be followed by a discussion."
+      "link": "https://thelittle.org/beadoc/",
+      "description": "SPECIAL SCREENING | Wednesday, October 28 at 7:00pm | Examining the life, career and private character of one of American entertainment’s most distinctive performers: Bea Arthur. Reflecting on the performances that brought her international recognition, while recalling the less familiar experiences that shaped her long before television audiences knew her as Dorothy Zbornak or Maude Findlay, this new film features archival footage and materials, interviews with family, friends, colleagues, and Bea herself. PLUS A Q&A WITH DIRECTOR DAN WATT, LIVE AND IN PERSON!"
+    },
+    {
+      "id": "938dba76d8499735",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-29T01:00:00.000Z",
+      "endTime": "2026-10-29T04:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "recurring",
+      "link": "",
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
