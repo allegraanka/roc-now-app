@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-29T03:32:42.485Z",
+  "generatedAt": "2026-10-29T10:34:34.774Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-10-28",
+  "day": "Thursday",
+  "date": "2026-10-29",
   "count": 7,
   "events": [
     {
-      "id": "53c0c399b21e4c8d",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "acb3430e4b7ea24e",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-10-28T20:00:00.000Z",
-      "endTime": "2026-10-29T02:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-29T22:00:00.000Z",
+      "endTime": "2026-10-30T02:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "18a348ab69982ae1",
+      "id": "e080fab64c720691",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,16 +34,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-28T22:00:00.000Z",
-      "endTime": "2026-10-29T00:54:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-29T22:00:00.000Z",
+      "endTime": "2026-10-30T00:54:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "6af4eeb12187260e",
-      "title": "Possible Love",
+      "id": "ac5f3a8d8b1ca76c",
+      "title": "Sense and Sensibility",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -52,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-28T22:15:00.000Z",
-      "endTime": "2026-10-29T00:59:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-29T22:15:00.000Z",
+      "endTime": "2026-10-30T00:26:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/possible-love/",
-      "description": "OPENS OCTOBER 23 | Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment. From director Lee Chang-dong (\"Burning\")"
+      "link": "https://thelittle.org/sense-and-sensibility/",
+      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
     },
     {
-      "id": "6acc0f2cfdfbb205",
+      "id": "537c78b64d502d24",
       "title": "Wildwood",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,66 +70,66 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-28T22:30:00.000Z",
-      "endTime": "2026-10-29T00:42:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-29T22:30:00.000Z",
+      "endTime": "2026-10-30T00:42:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildwood/",
       "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
     },
     {
-      "id": "94b2c8d16a0915de",
-      "title": "Wicker",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-28T22:45:00.000Z",
-      "endTime": "2026-10-29T00:30:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wicker/",
-      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-    },
-    {
-      "id": "bb450183c651af49",
-      "title": "Bea Arthur: The Documentary – Oct. 28",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-28T23:00:00.000Z",
-      "endTime": "2026-10-29T01:00:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/beadoc/",
-      "description": "SPECIAL SCREENING | Wednesday, October 28 at 7:00pm | Examining the life, career and private character of one of American entertainment’s most distinctive performers: Bea Arthur. Reflecting on the performances that brought her international recognition, while recalling the less familiar experiences that shaped her long before television audiences knew her as Dorothy Zbornak or Maude Findlay, this new film features archival footage and materials, interviews with family, friends, colleagues, and Bea herself. PLUS A Q&A WITH DIRECTOR DAN WATT, LIVE AND IN PERSON!"
-    },
-    {
-      "id": "938dba76d8499735",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "3a7ab75c7225b70c",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "trivia",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-10-29T01:00:00.000Z",
-      "endTime": "2026-10-29T04:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-10-29T23:00:00.000Z",
+      "endTime": "2026-10-30T01:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "e8eaa0070e56e4a7",
+      "title": "Once Upon a Time in Harlem (w/ Discussion) – Oct. 29",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-29T23:00:00.000Z",
+      "endTime": "2026-10-30T01:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/once-upon-a-time-in-harlem-bcs/",
+      "description": "BLACK CINEMA SERIES | Thursday, October 29 at 7:00pm | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "3ee5793874867d2f",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-10-30T02:00:00.000Z",
+      "endTime": "2026-10-30T06:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
