@@ -1,30 +1,48 @@
 {
-  "generatedAt": "2026-10-30T01:26:19.481Z",
+  "generatedAt": "2026-10-30T07:26:38.214Z",
   "timezone": "America/New_York",
-  "day": "Thursday",
-  "date": "2026-10-29",
-  "count": 7,
+  "day": "Friday",
+  "date": "2026-10-30",
+  "count": 12,
   "events": [
     {
-      "id": "acb3430e4b7ea24e",
-      "title": "League Night Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
+      "id": "f34618abbc400156",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-10-29T22:00:00.000Z",
-      "endTime": "2026-10-30T02:00:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Walk-up lanes and pinsetter racket."
+      "startTime": "2026-10-30T18:30:00.000Z",
+      "endTime": "2026-10-30T20:15:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "e080fab64c720691",
+      "id": "8c94356cc7cbdd96",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-30T19:00:00.000Z",
+      "endTime": "2026-10-30T20:40:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "19d69dccf65595e1",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,33 +52,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-29T22:00:00.000Z",
-      "endTime": "2026-10-30T00:54:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-10-30T19:30:00.000Z",
+      "endTime": "2026-10-30T22:24:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "ac5f3a8d8b1ca76c",
-      "title": "Sense and Sensibility",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
+      "id": "77c8edd799b6a61c",
+      "title": "Happy Hour Cans",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
+        "lat": 43.14624,
+        "lng": -77.60555
       },
-      "startTime": "2026-10-29T22:15:00.000Z",
-      "endTime": "2026-10-30T00:26:00.000Z",
-      "weekday": "Thursday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/sense-and-sensibility/",
-      "description": "OPENS THURSDAY, OCTOBER 15 | A story of love, family, and sisterhood based on Jane Austen’s Sense and Sensibility. Starring Daisy Edgar-Jones and Esmé Creed-Miles."
+      "startTime": "2026-10-30T20:00:00.000Z",
+      "endTime": "2026-10-30T23:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "South Ave patio cans before the weekend crush."
     },
     {
-      "id": "537c78b64d502d24",
+      "id": "56a455c5e6a37839",
       "title": "Wildwood",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,34 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-29T22:30:00.000Z",
-      "endTime": "2026-10-30T00:42:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-10-30T22:00:00.000Z",
+      "endTime": "2026-10-31T00:12:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildwood/",
       "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
     },
     {
-      "id": "3a7ab75c7225b70c",
-      "title": "Trash Plate Trivia at Dragonfly",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
-      "neighborhood": "",
-      "category": "trivia",
-      "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
-      },
-      "startTime": "2026-10-29T23:00:00.000Z",
-      "endTime": "2026-10-30T01:30:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
-    },
-    {
-      "id": "e8eaa0070e56e4a7",
-      "title": "Once Upon a Time in Harlem (w/ Discussion) – Oct. 29",
+      "id": "a072e02bdfe812a3",
+      "title": "Once Upon a Time in Harlem",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,30 +106,120 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-29T23:00:00.000Z",
-      "endTime": "2026-10-30T01:00:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-10-30T22:15:00.000Z",
+      "endTime": "2026-10-30T23:55:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/once-upon-a-time-in-harlem-bcs/",
-      "description": "BLACK CINEMA SERIES | Thursday, October 29 at 7:00pm | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
     },
     {
-      "id": "3ee5793874867d2f",
-      "title": "AngstLAB, $3 cover, drink specials all night",
+      "id": "a59f2d215616d162",
+      "title": "Clue (1985) – Oct. 30",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Food & Drink",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-30T22:30:00.000Z",
+      "endTime": "2026-10-31T00:30:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clue-spooky/",
+      "description": "SPOOKY SEASON | Friday, October 30 at 6:30pm & 9:15pm | Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up."
+    },
+    {
+      "id": "c481f47f1ccf3e7f",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-30T23:30:00.000Z",
+      "endTime": "2026-10-31T02:24:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "ab157d03b3d14d6b",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T00:40:00.000Z",
+      "endTime": "2026-10-31T02:20:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "4d6036c2aad77750",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T00:50:00.000Z",
+      "endTime": "2026-10-31T02:35:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "5f50369f26c1e182",
+      "title": "Darkwave Dance Night",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "live-music",
       "coordinates": {
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-10-30T02:00:00.000Z",
-      "endTime": "2026-10-30T06:00:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-10-31T02:00:00.000Z",
+      "endTime": "2026-10-31T06:00:00.000Z",
+      "weekday": "Friday",
       "source": "recurring",
       "link": "",
-      "description": "Goth/industrial night. Cheap wells until last call."
+      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
+    },
+    {
+      "id": "7d4c4198e83bada1",
+      "title": "Friday Night DJ",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-10-31T02:00:00.000Z",
+      "endTime": "2026-10-31T06:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "Sweaty floor, cheap covers, last call late."
     }
   ]
 }
