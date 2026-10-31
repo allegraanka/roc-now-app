@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-10-31T02:34:37.300Z",
+  "generatedAt": "2026-10-31T09:05:13.022Z",
   "timezone": "America/New_York",
-  "day": "Friday",
-  "date": "2026-10-30",
-  "count": 15,
+  "day": "Saturday",
+  "date": "2026-10-31",
+  "count": 19,
   "events": [
     {
-      "id": "f34618abbc400156",
+      "id": "92842174c575a869",
+      "title": "Saturday Brunch Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-10-31T15:00:00.000Z",
+      "endTime": "2026-10-31T19:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "Lanes, coffee, and a bloody mary."
+    },
+    {
+      "id": "028ee9c013832440",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -16,87 +34,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-30T18:30:00.000Z",
-      "endTime": "2026-10-30T20:15:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T15:30:00.000Z",
+      "endTime": "2026-10-31T17:15:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "a066dcc638f1b300",
-      "title": "The Only Living Pickpocket in New York",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-30T18:45:00.000Z",
-      "endTime": "2026-10-30T20:13:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
-      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
-    },
-    {
-      "id": "8c94356cc7cbdd96",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-30T19:00:00.000Z",
-      "endTime": "2026-10-30T20:40:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "19d69dccf65595e1",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-30T19:30:00.000Z",
-      "endTime": "2026-10-30T22:24:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "77c8edd799b6a61c",
-      "title": "Happy Hour Cans",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
-      "neighborhood": "",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
-      },
-      "startTime": "2026-10-30T20:00:00.000Z",
-      "endTime": "2026-10-30T23:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "South Ave patio cans before the weekend crush."
-    },
-    {
-      "id": "56a455c5e6a37839",
+      "id": "d4555ec3a8d21b1b",
       "title": "Wildwood",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-30T22:00:00.000Z",
-      "endTime": "2026-10-31T00:12:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T15:45:00.000Z",
+      "endTime": "2026-10-31T17:57:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildwood/",
       "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
     },
     {
-      "id": "a072e02bdfe812a3",
+      "id": "65e43c42aeadd2d7",
       "title": "Once Upon a Time in Harlem",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -124,33 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-30T22:15:00.000Z",
-      "endTime": "2026-10-30T23:55:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T16:00:00.000Z",
+      "endTime": "2026-10-31T17:40:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/onceuponharlem/",
       "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
     },
     {
-      "id": "a59f2d215616d162",
-      "title": "Clue (1985) – Oct. 30",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Food & Drink",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-30T22:30:00.000Z",
-      "endTime": "2026-10-31T00:30:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/clue-spooky/",
-      "description": "SPOOKY SEASON | Friday, October 30 at 6:30pm & 9:15pm | Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up."
-    },
-    {
-      "id": "7a005c10676cd693",
+      "id": "b6a6961e9eedb037",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,15 +88,87 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-30T22:45:00.000Z",
-      "endTime": "2026-10-31T00:13:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T16:15:00.000Z",
+      "endTime": "2026-10-31T17:43:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "c481f47f1ccf3e7f",
+      "id": "4bc0bb08a3cdf657",
+      "title": "South Wedge Cask Night",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14682,
+        "lng": -77.60347
+      },
+      "startTime": "2026-10-31T18:00:00.000Z",
+      "endTime": "2026-11-01T02:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "recurring",
+      "link": "",
+      "description": "One-off casks and a packed Gregory St bar."
+    },
+    {
+      "id": "474745e1a5c45f04",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T18:30:00.000Z",
+      "endTime": "2026-10-31T20:42:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "97875570f7d8067a",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T18:45:00.000Z",
+      "endTime": "2026-10-31T20:25:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "c5e21ff924507e65",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T19:00:00.000Z",
+      "endTime": "2026-10-31T20:28:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "89d902e818444e4a",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -178,33 +178,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-30T23:30:00.000Z",
-      "endTime": "2026-10-31T02:24:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T19:30:00.000Z",
+      "endTime": "2026-10-31T22:24:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "ab157d03b3d14d6b",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-10-31T00:40:00.000Z",
-      "endTime": "2026-10-31T02:20:00.000Z",
-      "weekday": "Friday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "4d6036c2aad77750",
+      "id": "75c702fe865eb8d6",
       "title": "Wicker",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,15 +196,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-31T00:50:00.000Z",
-      "endTime": "2026-10-31T02:35:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T22:00:00.000Z",
+      "endTime": "2026-10-31T23:45:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wicker/",
       "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
     },
     {
-      "id": "a606692cc5f1f1ae",
+      "id": "8094161a25c652b0",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T22:15:00.000Z",
+      "endTime": "2026-10-31T23:55:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "18158d2251e33ea5",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -232,16 +232,106 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-10-31T01:00:00.000Z",
-      "endTime": "2026-10-31T02:28:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-10-31T22:45:00.000Z",
+      "endTime": "2026-11-01T00:13:00.000Z",
+      "weekday": "Saturday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "5f50369f26c1e182",
-      "title": "Darkwave Dance Night",
+      "id": "d6e48d260802d335",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-10-31T23:30:00.000Z",
+      "endTime": "2026-11-01T02:24:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "0b705cc50f9ef773",
+      "title": "The Sixth Sense (35mm) – Oct. 31",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-01T00:00:00.000Z",
+      "endTime": "2026-11-01T02:00:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-sixth-sense/",
+      "description": "SPOOKY SEASON x M. NIGHT SHYAMALAN | 35MM FILM | Saturday, October 31 at 8:00pm | A young boy (Haley Joel Osment) is haunted by a dark secret: he is visited by ghosts. Afraid to tell anyone, except child psychologist Dr. Malcolm Crowe (Bruce Willis), the truth about the boy’s supernatural abilities hold consequences for both client and therapist. M. Night Shyamalan’s breakthrough hit, on Halloween night. FREE FOR LITTLE MEMBERS."
+    },
+    {
+      "id": "dbb5168d374b9fb9",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-01T00:30:00.000Z",
+      "endTime": "2026-11-01T02:15:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "73f659d11553e8db",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-01T00:40:00.000Z",
+      "endTime": "2026-11-01T02:20:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "98ae6ceb78340a8d",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-01T01:00:00.000Z",
+      "endTime": "2026-11-01T02:28:00.000Z",
+      "weekday": "Saturday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "c35b428a98fba9b9",
+      "title": "Industrial Saturday",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
@@ -250,30 +340,12 @@
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-10-31T02:00:00.000Z",
-      "endTime": "2026-10-31T06:00:00.000Z",
-      "weekday": "Friday",
+      "startTime": "2026-11-01T02:00:00.000Z",
+      "endTime": "2026-11-01T07:00:00.000Z",
+      "weekday": "Saturday",
       "source": "recurring",
       "link": "",
-      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
-    },
-    {
-      "id": "7d4c4198e83bada1",
-      "title": "Friday Night DJ",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
-      },
-      "startTime": "2026-10-31T02:00:00.000Z",
-      "endTime": "2026-10-31T06:00:00.000Z",
-      "weekday": "Friday",
-      "source": "recurring",
-      "link": "",
-      "description": "Sweaty floor, cheap covers, last call late."
+      "description": "Vertex late-night industrial set. Cover stays cheap."
     }
   ]
 }
