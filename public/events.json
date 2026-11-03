@@ -1,117 +1,45 @@
 {
-  "generatedAt": "2026-11-03T02:30:09.899Z",
+  "generatedAt": "2026-11-03T09:54:37.523Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-11-02",
-  "count": 6,
+  "day": "Tuesday",
+  "date": "2026-11-03",
+  "count": 2,
   "events": [
     {
-      "id": "eaae0bc5c10e99d2",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "2ea813a721cfe1a4",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-11-02T22:00:00.000Z",
-      "endTime": "2026-11-03T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-11-03T21:00:00.000Z",
+      "endTime": "2026-11-04T04:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "dc126a3e06e120d6",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-02T23:00:00.000Z",
-      "endTime": "2026-11-03T01:54:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "0a8876cabae5859d",
-      "title": "Wicker",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-02T23:15:00.000Z",
-      "endTime": "2026-11-03T01:00:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wicker/",
-      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-    },
-    {
-      "id": "5005b5f1afad6e19",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-02T23:30:00.000Z",
-      "endTime": "2026-11-03T01:10:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "518b36d4fa893cea",
-      "title": "The Only Living Pickpocket in New York",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-02T23:45:00.000Z",
-      "endTime": "2026-11-03T01:13:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
-      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
-    },
-    {
-      "id": "3ba6be8df9052800",
-      "title": "Industry Night",
+      "id": "e7f9f970e097b5d4",
+      "title": "Trivia Tuesday",
       "venue": "The Old Toad",
       "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.15155,
         "lng": -77.59548
       },
-      "startTime": "2026-11-03T02:00:00.000Z",
-      "endTime": "2026-11-03T05:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-11-04T00:00:00.000Z",
+      "endTime": "2026-11-04T02:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "description": "Pub quiz in the front room. Teams of six."
     }
   ]
 }
