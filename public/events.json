@@ -1,45 +1,135 @@
 {
-  "generatedAt": "2026-11-04T02:30:15.896Z",
+  "generatedAt": "2026-11-04T09:42:36.274Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-11-03",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-11-04",
+  "count": 7,
   "events": [
     {
-      "id": "2ea813a721cfe1a4",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "a0e2b83d1388e571",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-11-03T21:00:00.000Z",
-      "endTime": "2026-11-04T04:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-04T21:00:00.000Z",
+      "endTime": "2026-11-05T03:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "e7f9f970e097b5d4",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "ad5b82a4c825fe61",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-04T00:00:00.000Z",
-      "endTime": "2026-11-04T02:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-04T23:00:00.000Z",
+      "endTime": "2026-11-05T01:54:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "570adc514dd479ce",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-04T23:15:00.000Z",
+      "endTime": "2026-11-05T00:55:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "e2e03d14454d740b",
+      "title": "Wildwood",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-04T23:30:00.000Z",
+      "endTime": "2026-11-05T01:42:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildwood/",
+      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
+    },
+    {
+      "id": "895239ffaf181d59",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-04T23:45:00.000Z",
+      "endTime": "2026-11-05T01:13:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "b2488d0c1a5c01fb",
+      "title": "Polish Film Festival 2026 – Nov. 4-8",
+      "venue": "The Little",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-05T00:00:00.000Z",
+      "endTime": "2026-11-05T02:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/polishfilmfestival2026/",
+      "description": "An event taking place at The Little. | Ticketing not run by The Little, so Little discounts / member benefits do not apply to this event."
+    },
+    {
+      "id": "357bc0c73edb9f25",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-11-05T02:00:00.000Z",
+      "endTime": "2026-11-05T05:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
