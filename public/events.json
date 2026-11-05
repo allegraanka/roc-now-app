@@ -1,30 +1,84 @@
 {
-  "generatedAt": "2026-11-05T03:18:22.602Z",
+  "generatedAt": "2026-11-05T11:17:16.984Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-11-04",
-  "count": 7,
+  "day": "Thursday",
+  "date": "2026-11-05",
+  "count": 10,
   "events": [
     {
-      "id": "a0e2b83d1388e571",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
-      "neighborhood": "",
-      "category": "food-special",
+      "id": "d328163a59481f8f",
+      "title": "Members Artwork Drop Off Final Day",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1551,
+        "lng": -77.5982
       },
-      "startTime": "2026-11-04T21:00:00.000Z",
-      "endTime": "2026-11-05T03:00:00.000Z",
-      "weekday": "Wednesday",
-      "source": "recurring",
-      "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "startTime": "2026-11-05T22:00:00.000Z",
+      "endTime": "2026-11-06T00:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-final-day/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Final Day appeared first on Rochester Contemporary Art Center (RoCo)."
     },
     {
-      "id": "ad5b82a4c825fe61",
+      "id": "c8c90ffa6d89ccd3",
+      "title": "Members Artwork Drop Off Day 2",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
+      "coordinates": {
+        "lat": 43.1551,
+        "lng": -77.5982
+      },
+      "startTime": "2026-11-05T22:00:00.000Z",
+      "endTime": "2026-11-06T00:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-day-2/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 2 appeared first on Rochester Contemporary Art Center (RoCo)."
+    },
+    {
+      "id": "6eb3f7df1c77df90",
+      "title": "Members Artwork Drop Off Day 1",
+      "venue": "Rochester Contemporary Art Center",
+      "address": "137 East Ave",
+      "neighborhood": "East End",
+      "category": "Arts",
+      "coordinates": {
+        "lat": 43.1551,
+        "lng": -77.5982
+      },
+      "startTime": "2026-11-05T22:00:00.000Z",
+      "endTime": "2026-11-06T00:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "Rochester Contemporary Art Center",
+      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off/",
+      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 1 appeared first on Rochester Contemporary Art Center (RoCo)."
+    },
+    {
+      "id": "d172c3d1ed08d359",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
+      "neighborhood": "",
+      "category": "bowling",
+      "coordinates": {
+        "lat": 43.1504626,
+        "lng": -77.5614512
+      },
+      "startTime": "2026-11-05T23:00:00.000Z",
+      "endTime": "2026-11-06T03:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Walk-up lanes and pinsetter racket."
+    },
+    {
+      "id": "1964a76be0767f40",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +88,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-04T23:00:00.000Z",
-      "endTime": "2026-11-05T01:54:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-05T23:00:00.000Z",
+      "endTime": "2026-11-06T01:54:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "570adc514dd479ce",
+      "id": "b79b90b1d8163dfa",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-05T23:15:00.000Z",
+      "endTime": "2026-11-06T01:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "54dc8747dac162f2",
       "title": "Once Upon a Time in Harlem",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,33 +124,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-04T23:15:00.000Z",
-      "endTime": "2026-11-05T00:55:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-05T23:30:00.000Z",
+      "endTime": "2026-11-06T01:10:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/onceuponharlem/",
       "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
     },
     {
-      "id": "e2e03d14454d740b",
-      "title": "Wildwood",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-04T23:30:00.000Z",
-      "endTime": "2026-11-05T01:42:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildwood/",
-      "description": "OPENS OCTOBER 23 | After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into an enchanted forest hidden just beyond Portland, Ore, inhabited by bandits, talking animals and powerful figures driven by grief and ambition. From Laika Studios (Coraline, Kubo and the Two Strings)."
-    },
-    {
-      "id": "895239ffaf181d59",
+      "id": "1d57442eaaf532d1",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,48 +142,48 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-04T23:45:00.000Z",
-      "endTime": "2026-11-05T01:13:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-05T23:45:00.000Z",
+      "endTime": "2026-11-06T01:13:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "b2488d0c1a5c01fb",
-      "title": "Polish Film Festival 2026 – Nov. 4-8",
-      "venue": "The Little",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-05T00:00:00.000Z",
-      "endTime": "2026-11-05T02:00:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/polishfilmfestival2026/",
-      "description": "An event taking place at The Little. | Ticketing not run by The Little, so Little discounts / member benefits do not apply to this event."
-    },
-    {
-      "id": "357bc0c73edb9f25",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "b8e0acb60eb72776",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "trivia",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-11-05T02:00:00.000Z",
-      "endTime": "2026-11-05T05:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-06T00:00:00.000Z",
+      "endTime": "2026-11-06T02:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "4d2f89879fbf824f",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-11-06T03:00:00.000Z",
+      "endTime": "2026-11-06T07:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
