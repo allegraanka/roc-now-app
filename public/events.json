@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-11-06T12:19:02.350Z",
+  "generatedAt": "2026-11-06T19:35:51.732Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-11-06",
-  "count": 14,
+  "count": 19,
   "events": [
+    {
+      "id": "d3136a43da06e4de",
+      "title": "La Bola Negra",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-06T19:30:00.000Z",
+      "endTime": "2026-11-06T21:56:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/la-bola-negra/",
+      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
+    },
     {
       "id": "f18182f6eef36f35",
       "title": "Wicker",
@@ -58,6 +76,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/onceuponharlem/",
       "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "e0ebd799853cc6fe",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-06T20:45:00.000Z",
+      "endTime": "2026-11-06T22:43:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
       "id": "2673e98d6d2e5213",
@@ -168,6 +204,24 @@
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
+      "id": "93faabb6f3cfa756",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-06T23:30:00.000Z",
+      "endTime": "2026-11-07T01:28:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
       "id": "40a6db67834f939e",
       "title": "Walk & Talk with the Curator",
       "venue": "RoCo on First Friday",
@@ -186,6 +240,24 @@
       "description": "Join Curator, Bleu Cease at RoCo on First Friday, November 6 at 7pm for casual walkthrough and tour of our current exhibition Sanctuary: Borders & Belonging in 2026. Admission $2 / free for RoCo members Tour begins at 7pm The post Walk & Talk with the Curator appeared first on Rochester Contemporary Art Center (RoCo)."
     },
     {
+      "id": "edd44dcf548c134c",
+      "title": "La Bola Negra",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-07T00:15:00.000Z",
+      "endTime": "2026-11-07T02:41:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/la-bola-negra/",
+      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
+    },
+    {
       "id": "ca7d6c55c9074813",
       "title": "Once Upon a Time in Harlem",
       "venue": "The Little Theatre",
@@ -202,6 +274,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/onceuponharlem/",
       "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "8182f61cf469c8ef",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-07T02:10:00.000Z",
+      "endTime": "2026-11-07T04:08:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
       "id": "9cf1fc1c1a9f232a",
