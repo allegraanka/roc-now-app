@@ -1,30 +1,12 @@
 {
-  "generatedAt": "2026-11-08T00:04:36.662Z",
+  "generatedAt": "2026-11-08T06:24:28.724Z",
   "timezone": "America/New_York",
-  "day": "Saturday",
-  "date": "2026-11-07",
-  "count": 23,
+  "day": "Sunday",
+  "date": "2026-11-08",
+  "count": 14,
   "events": [
     {
-      "id": "fbe11065af5c0840",
-      "title": "Saturday Brunch Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
-      "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
-      },
-      "startTime": "2026-11-07T16:00:00.000Z",
-      "endTime": "2026-11-07T20:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "Lanes, coffee, and a bloody mary."
-    },
-    {
-      "id": "147aed1e0754180c",
+      "id": "d270e3352ecebb47",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -34,15 +16,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T16:30:00.000Z",
-      "endTime": "2026-11-07T18:28:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T16:30:00.000Z",
+      "endTime": "2026-11-08T18:28:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildhorsenine/",
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "31158c37773352ee",
+      "id": "60292c3b8cf5ec7e",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +34,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T16:45:00.000Z",
-      "endTime": "2026-11-07T19:39:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T16:45:00.000Z",
+      "endTime": "2026-11-08T19:39:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "45e5438294748d3b",
+      "id": "c4936d2ffc219706",
+      "title": "Funday Funday",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-11-08T17:00:00.000Z",
+      "endTime": "2026-11-09T01:00:00.000Z",
+      "weekday": "Sunday",
+      "source": "recurring",
+      "link": "",
+      "description": "Day-drink cans and a lazy South Ave patio."
+    },
+    {
+      "id": "561008df8be36bb8",
       "title": "La Bola Negra",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,15 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T17:00:00.000Z",
-      "endTime": "2026-11-07T19:26:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T17:00:00.000Z",
+      "endTime": "2026-11-08T19:26:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/la-bola-negra/",
       "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
     },
     {
-      "id": "a688141e1d27b4ad",
+      "id": "dd9e1d2fbf51bef8",
       "title": "Once Upon a Time in Harlem",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,16 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T17:15:00.000Z",
-      "endTime": "2026-11-07T18:55:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T17:15:00.000Z",
+      "endTime": "2026-11-08T18:55:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/onceuponharlem/",
       "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
     },
     {
-      "id": "1a1198214849d951",
-      "title": "The Only Living Pickpocket in New York",
+      "id": "6a92acf60c9add32",
+      "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -106,33 +106,87 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T17:30:00.000Z",
-      "endTime": "2026-11-07T18:58:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T19:30:00.000Z",
+      "endTime": "2026-11-08T21:28:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
-      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "e5a5f5bef206bc2d",
-      "title": "South Wedge Cask Night",
+      "id": "fdd36317ad532e58",
+      "title": "Once Upon a Time in Harlem",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-08T19:45:00.000Z",
+      "endTime": "2026-11-08T21:25:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/onceuponharlem/",
+      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+    },
+    {
+      "id": "60947c477b22a492",
+      "title": "La Bola Negra",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-08T20:15:00.000Z",
+      "endTime": "2026-11-08T22:41:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/la-bola-negra/",
+      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
+    },
+    {
+      "id": "052de5014f6ece69",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-08T20:30:00.000Z",
+      "endTime": "2026-11-08T22:15:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "7c7be29e57d212f2",
+      "title": "Sunday Funday Trivia",
       "venue": "Tap & Mallet",
       "address": "381 Gregory St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.14682,
         "lng": -77.60347
       },
-      "startTime": "2026-11-07T19:00:00.000Z",
-      "endTime": "2026-11-08T03:00:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T21:00:00.000Z",
+      "endTime": "2026-11-08T23:30:00.000Z",
+      "weekday": "Sunday",
       "source": "recurring",
       "link": "",
-      "description": "One-off casks and a packed Gregory St bar."
+      "description": "Low-stakes quiz and pub pies."
     },
     {
-      "id": "0840b61d01612e6d",
+      "id": "37699d1afbeaf72f",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -142,51 +196,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T19:30:00.000Z",
-      "endTime": "2026-11-07T21:28:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T23:00:00.000Z",
+      "endTime": "2026-11-09T00:58:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildhorsenine/",
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "929d0abc18104b34",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T19:45:00.000Z",
-      "endTime": "2026-11-07T21:25:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "022a0c33a5a472c1",
-      "title": "The Only Living Pickpocket in New York",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T20:00:00.000Z",
-      "endTime": "2026-11-07T21:28:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
-      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
-    },
-    {
-      "id": "48b78de806f923f5",
+      "id": "57656d7280c6da2b",
       "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -196,177 +214,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-07T20:15:00.000Z",
-      "endTime": "2026-11-07T23:09:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T23:15:00.000Z",
+      "endTime": "2026-11-09T02:09:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "5a027feed7bd455e",
-      "title": "La Bola Negra",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T20:30:00.000Z",
-      "endTime": "2026-11-07T22:56:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/la-bola-negra/",
-      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
-    },
-    {
-      "id": "19d6c2a0fb2e7da7",
-      "title": "Members Artwork Drop Off Final Day",
-      "venue": "Rochester Contemporary Art Center",
-      "address": "137 East Ave",
-      "neighborhood": "East End",
-      "category": "Arts",
-      "coordinates": {
-        "lat": 43.1551,
-        "lng": -77.5982
-      },
-      "startTime": "2026-11-07T22:00:00.000Z",
-      "endTime": "2026-11-08T00:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "Rochester Contemporary Art Center",
-      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-final-day/",
-      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Final Day appeared first on Rochester Contemporary Art Center (RoCo)."
-    },
-    {
-      "id": "9681825661d9990b",
-      "title": "Members Artwork Drop Off Day 2",
-      "venue": "Rochester Contemporary Art Center",
-      "address": "137 East Ave",
-      "neighborhood": "East End",
-      "category": "Arts",
-      "coordinates": {
-        "lat": 43.1551,
-        "lng": -77.5982
-      },
-      "startTime": "2026-11-07T22:00:00.000Z",
-      "endTime": "2026-11-08T00:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "Rochester Contemporary Art Center",
-      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off-day-2/",
-      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 2 appeared first on Rochester Contemporary Art Center (RoCo)."
-    },
-    {
-      "id": "be0f315170952c2d",
-      "title": "Members Artwork Drop Off Day 1",
-      "venue": "Rochester Contemporary Art Center",
-      "address": "137 East Ave",
-      "neighborhood": "East End",
-      "category": "Arts",
-      "coordinates": {
-        "lat": 43.1551,
-        "lng": -77.5982
-      },
-      "startTime": "2026-11-07T22:00:00.000Z",
-      "endTime": "2026-11-08T00:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "Rochester Contemporary Art Center",
-      "link": "https://www.rochestercontemporary.org/events/members-artwork-drop-off/",
-      "description": "Calling all artists! You’re invited to enter RoCo’s Annual Members Exhibition. We invite artists from the Rochester region and beyond to enter one artwork and participate in this diverse and eclectic exhibition. All entries will be exhibited and eligible for numerous cash awards. Not a member yet? Join here. Artwork Drop off Days: Thursday November 5, 12-5pm Friday November 6, 12-9pm Saturday November 7, 12-5pm GUIDELINES • Each artist is limited to one piece maximum of 2D: 32” x 32” / 3D: 24” x 24” x 24\" • Artwork must be delivered ready to hang, framed and wired. • Please contact RoCo Staff by October 1 to make arrangements for video artworks. The post Members Artwork Drop Off Day 1 appeared first on Rochester Contemporary Art Center (RoCo)."
-    },
-    {
-      "id": "ed4cb28197ba0b7c",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T23:00:00.000Z",
-      "endTime": "2026-11-08T00:40:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "308b28e564c895d2",
-      "title": "Wild Horse Nine",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T23:15:00.000Z",
-      "endTime": "2026-11-08T01:13:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
-    },
-    {
-      "id": "4a75fcaa328a7b6a",
-      "title": "Wicker",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-07T23:45:00.000Z",
-      "endTime": "2026-11-08T01:30:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wicker/",
-      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-    },
-    {
-      "id": "867e27c5ba4af2b6",
-      "title": "La Bola Negra",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-08T00:30:00.000Z",
-      "endTime": "2026-11-08T02:56:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/la-bola-negra/",
-      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
-    },
-    {
-      "id": "e8123ac52e40419f",
-      "title": "Wild Horse Nine",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-08T01:50:00.000Z",
-      "endTime": "2026-11-08T03:48:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
-    },
-    {
-      "id": "d5953a5833f7bd70",
+      "id": "280467f663caa264",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -376,16 +232,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-08T02:00:00.000Z",
-      "endTime": "2026-11-08T03:28:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-08T23:30:00.000Z",
+      "endTime": "2026-11-09T00:58:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "346ab3e60f3c1d99",
-      "title": "Wicker",
+      "id": "12f546e6cee63a24",
+      "title": "La Bola Negra",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -394,30 +250,12 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-08T02:10:00.000Z",
-      "endTime": "2026-11-08T03:55:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-09T00:15:00.000Z",
+      "endTime": "2026-11-09T02:41:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/wicker/",
-      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-    },
-    {
-      "id": "89daa47edf4b7532",
-      "title": "Industrial Saturday",
-      "venue": "Vertex",
-      "address": "169 N Chestnut St",
-      "neighborhood": "",
-      "category": "live-music",
-      "coordinates": {
-        "lat": 43.16135,
-        "lng": -77.61052
-      },
-      "startTime": "2026-11-08T03:00:00.000Z",
-      "endTime": "2026-11-08T07:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "Vertex late-night industrial set. Cover stays cheap."
+      "link": "https://thelittle.org/la-bola-negra/",
+      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
     }
   ]
 }
