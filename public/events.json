@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:59:08.364Z",
+  "generatedAt": "2026-11-09T20:29:13.825Z",
   "timezone": "America/New_York",
   "day": "Monday",
   "date": "2026-11-09",
@@ -60,8 +60,8 @@
       "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
     },
     {
-      "id": "5172847eda4b31fe",
-      "title": "Wild Horse Nine",
+      "id": "ac22592d1a555599",
+      "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -71,11 +71,11 @@
         "lng": -77.5959
       },
       "startTime": "2026-11-09T23:30:00.000Z",
-      "endTime": "2026-11-10T01:28:00.000Z",
+      "endTime": "2026-11-10T00:58:00.000Z",
       "weekday": "Monday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
       "id": "20c634701adc9822",
