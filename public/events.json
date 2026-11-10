@@ -1,117 +1,45 @@
 {
-  "generatedAt": "2026-11-10T02:51:01.209Z",
+  "generatedAt": "2026-11-10T10:37:14.608Z",
   "timezone": "America/New_York",
-  "day": "Monday",
-  "date": "2026-11-09",
-  "count": 6,
+  "day": "Tuesday",
+  "date": "2026-11-10",
+  "count": 2,
   "events": [
     {
-      "id": "241393a90dcbdba2",
-      "title": "$3 Cans at Lux",
-      "venue": "Lux Lounge",
-      "address": "666 South Ave",
+      "id": "f72beecb0e1be197",
+      "title": "$2 Tuesdays",
+      "venue": "Monty's Krown",
+      "address": "875 Monroe Ave",
       "neighborhood": "",
       "category": "drink-special",
       "coordinates": {
-        "lat": 43.14624,
-        "lng": -77.60555
+        "lat": 43.14092,
+        "lng": -77.58471
       },
-      "startTime": "2026-11-09T22:00:00.000Z",
-      "endTime": "2026-11-10T04:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-11-10T21:00:00.000Z",
+      "endTime": "2026-11-11T04:00:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Tallboys three bucks all night in the South Wedge."
+      "description": "Two-dollar drafts until they kick you out."
     },
     {
-      "id": "99b24c32cb39c556",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-09T23:00:00.000Z",
-      "endTime": "2026-11-10T01:54:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "cc142429e30ea50f",
-      "title": "La Bola Negra",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-09T23:15:00.000Z",
-      "endTime": "2026-11-10T01:41:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/la-bola-negra/",
-      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
-    },
-    {
-      "id": "ac22592d1a555599",
-      "title": "The Only Living Pickpocket in New York",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-09T23:30:00.000Z",
-      "endTime": "2026-11-10T00:58:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
-      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
-    },
-    {
-      "id": "20c634701adc9822",
-      "title": "Once Upon a Time in Harlem",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-09T23:45:00.000Z",
-      "endTime": "2026-11-10T01:25:00.000Z",
-      "weekday": "Monday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
-    },
-    {
-      "id": "5a998d0d01ab8bc1",
-      "title": "Industry Night",
+      "id": "039d4b898557d6ff",
+      "title": "Trivia Tuesday",
       "venue": "The Old Toad",
       "address": "277 Alexander St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "trivia",
       "coordinates": {
         "lat": 43.15155,
         "lng": -77.59548
       },
-      "startTime": "2026-11-10T02:00:00.000Z",
-      "endTime": "2026-11-10T05:00:00.000Z",
-      "weekday": "Monday",
+      "startTime": "2026-11-11T00:00:00.000Z",
+      "endTime": "2026-11-11T02:30:00.000Z",
+      "weekday": "Tuesday",
       "source": "recurring",
       "link": "",
-      "description": "Service-industry pours and a late jukebox."
+      "description": "Pub quiz in the front room. Teams of six."
     }
   ]
 }
