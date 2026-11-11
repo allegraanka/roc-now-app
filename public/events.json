@@ -1,45 +1,135 @@
 {
-  "generatedAt": "2026-11-11T03:48:59.159Z",
+  "generatedAt": "2026-11-11T11:34:56.151Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-11-10",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-11-11",
+  "count": 7,
   "events": [
     {
-      "id": "f72beecb0e1be197",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "50a7dc2db335f774",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-11-10T21:00:00.000Z",
-      "endTime": "2026-11-11T04:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-11T21:00:00.000Z",
+      "endTime": "2026-11-12T03:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "039d4b898557d6ff",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "b064a5c5d895c20a",
+      "title": "Wicker",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-11T00:00:00.000Z",
-      "endTime": "2026-11-11T02:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-11T23:00:00.000Z",
+      "endTime": "2026-11-12T00:45:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wicker/",
+      "description": "OPENS OCTOBER 23 | An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+    },
+    {
+      "id": "7586f9fe490ffc20",
+      "title": "La Bola Negra",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-11T23:15:00.000Z",
+      "endTime": "2026-11-12T01:41:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/la-bola-negra/",
+      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
+    },
+    {
+      "id": "71e9578085f3d719",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-11T23:30:00.000Z",
+      "endTime": "2026-11-12T01:28:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
+      "id": "4523516a1dffa4b7",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-11T23:45:00.000Z",
+      "endTime": "2026-11-12T01:13:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "be43bfb0f4a3ee48",
+      "title": "Anomaly Film Festival 2026 – Nov. 11-15",
+      "venue": "The Little",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-12T00:00:00.000Z",
+      "endTime": "2026-11-12T02:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/anomaly2026/",
+      "description": "An event taking place at The Little. | Ticketing not run by The Little, so Little discounts / member benefits do not apply to this event."
+    },
+    {
+      "id": "124bc529583f4982",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-11-12T02:00:00.000Z",
+      "endTime": "2026-11-12T05:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
