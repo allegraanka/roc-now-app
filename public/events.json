@@ -1,48 +1,12 @@
 {
-  "generatedAt": "2026-11-13T03:02:20.257Z",
+  "generatedAt": "2026-11-13T11:19:48.854Z",
   "timezone": "America/New_York",
-  "day": "Thursday",
-  "date": "2026-11-12",
-  "count": 7,
+  "day": "Friday",
+  "date": "2026-11-13",
+  "count": 9,
   "events": [
     {
-      "id": "cc49da666b405467",
-      "title": "League Night Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
-      "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
-      },
-      "startTime": "2026-11-12T23:00:00.000Z",
-      "endTime": "2026-11-13T03:00:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Walk-up lanes and pinsetter racket."
-    },
-    {
-      "id": "264c332d5f8d698d",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-12T23:00:00.000Z",
-      "endTime": "2026-11-13T01:54:00.000Z",
-      "weekday": "Thursday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "53afd65f7f6f0cd3",
+      "id": "16e2845785e74874",
       "title": "La Bola Negra",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,15 +16,69 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-12T23:15:00.000Z",
-      "endTime": "2026-11-13T01:41:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-11-13T19:45:00.000Z",
+      "endTime": "2026-11-13T22:11:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/la-bola-negra/",
       "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
     },
     {
-      "id": "67b34144939800c3",
+      "id": "e537eed7b2cf1e2b",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T20:00:00.000Z",
+      "endTime": "2026-11-13T22:54:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "f868c5ee9f86037b",
+      "title": "Happy Hour Cans",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-11-13T21:00:00.000Z",
+      "endTime": "2026-11-14T00:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "South Ave patio cans before the weekend crush."
+    },
+    {
+      "id": "a341e3652162daab",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T23:00:00.000Z",
+      "endTime": "2026-11-14T00:28:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "79a6d6eb90ad6ebd",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -70,16 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-12T23:30:00.000Z",
-      "endTime": "2026-11-13T01:28:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-11-13T23:30:00.000Z",
+      "endTime": "2026-11-14T01:28:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildhorsenine/",
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "75ef9682564b89ea",
-      "title": "Once Upon a Time in Harlem",
+      "id": "cdec37e66203515f",
+      "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -88,48 +106,66 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-12T23:45:00.000Z",
-      "endTime": "2026-11-13T01:25:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-11-14T01:20:00.000Z",
+      "endTime": "2026-11-14T02:48:00.000Z",
+      "weekday": "Friday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/onceuponharlem/",
-      "description": "OPENS THURSDAY, OCTOBER 29 | A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance."
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "a41a1353aa18a9fd",
-      "title": "Trash Plate Trivia at Dragonfly",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "7f26411014118cf8",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-13T00:00:00.000Z",
-      "endTime": "2026-11-13T02:30:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+      "startTime": "2026-11-14T02:10:00.000Z",
+      "endTime": "2026-11-14T04:08:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "f1f519d7ed035678",
-      "title": "AngstLAB, $3 cover, drink specials all night",
+      "id": "0c9f293af02b2d00",
+      "title": "Darkwave Dance Night",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "live-music",
       "coordinates": {
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-11-13T03:00:00.000Z",
-      "endTime": "2026-11-13T07:00:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-11-14T03:00:00.000Z",
+      "endTime": "2026-11-14T07:00:00.000Z",
+      "weekday": "Friday",
       "source": "recurring",
       "link": "",
-      "description": "Goth/industrial night. Cheap wells until last call."
+      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
+    },
+    {
+      "id": "65b81684b6c2caf8",
+      "title": "Friday Night DJ",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-11-14T03:00:00.000Z",
+      "endTime": "2026-11-14T07:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "Sweaty floor, cheap covers, last call late."
     }
   ]
 }
