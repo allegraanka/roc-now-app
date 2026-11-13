@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-11-13T11:19:48.854Z",
+  "generatedAt": "2026-11-13T18:37:48.463Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-11-13",
-  "count": 9,
+  "count": 14,
   "events": [
+    {
+      "id": "82459f2485213dd6",
+      "title": "Being Heumann",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T19:30:00.000Z",
+      "endTime": "2026-11-13T21:37:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/being-heumann/",
+      "description": "OPENS NOVEMBER 13 | Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us."
+    },
     {
       "id": "16e2845785e74874",
       "title": "La Bola Negra",
@@ -40,6 +58,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/you-can-see-everything/",
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "a03defbc347bb950",
+      "title": "Fjord",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T20:15:00.000Z",
+      "endTime": "2026-11-13T22:41:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fjord/",
+      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
     },
     {
       "id": "f868c5ee9f86037b",
@@ -78,6 +114,24 @@
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
+      "id": "ac9e935f1d573828",
+      "title": "Being Heumann",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T23:15:00.000Z",
+      "endTime": "2026-11-14T01:22:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/being-heumann/",
+      "description": "OPENS NOVEMBER 13 | Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us."
+    },
+    {
       "id": "79a6d6eb90ad6ebd",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
@@ -96,6 +150,24 @@
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
+      "id": "dc8cfb8f8cb93ffc",
+      "title": "Fjord",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-13T23:45:00.000Z",
+      "endTime": "2026-11-14T02:11:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fjord/",
+      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
+    },
+    {
       "id": "cdec37e66203515f",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
@@ -112,6 +184,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "cb57934df4b62f99",
+      "title": "Being Heumann",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-14T02:00:00.000Z",
+      "endTime": "2026-11-14T04:07:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/being-heumann/",
+      "description": "OPENS NOVEMBER 13 | Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us."
     },
     {
       "id": "7f26411014118cf8",
