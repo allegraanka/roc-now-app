@@ -1,48 +1,30 @@
 {
-  "generatedAt": "2026-11-19T00:36:21.301Z",
+  "generatedAt": "2026-11-19T08:10:22.703Z",
   "timezone": "America/New_York",
-  "day": "Wednesday",
-  "date": "2026-11-18",
-  "count": 6,
+  "day": "Thursday",
+  "date": "2026-11-19",
+  "count": 8,
   "events": [
     {
-      "id": "e99d39ce4993a533",
-      "title": "Wing Wednesday",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
+      "id": "2f1c277c23267b7c",
+      "title": "League Night Bowling",
+      "venue": "Radio Social",
+      "address": "20 Carlson Rd",
       "neighborhood": "",
-      "category": "food-special",
+      "category": "bowling",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1504626,
+        "lng": -77.5614512
       },
-      "startTime": "2026-11-18T21:00:00.000Z",
-      "endTime": "2026-11-19T03:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-19T23:00:00.000Z",
+      "endTime": "2026-11-20T03:00:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Park Ave wings and pitcher specials."
+      "description": "Walk-up lanes and pinsetter racket."
     },
     {
-      "id": "db69ea8c5f751372",
-      "title": "La Bola Negra",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-18T23:00:00.000Z",
-      "endTime": "2026-11-19T01:26:00.000Z",
-      "weekday": "Wednesday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/la-bola-negra/",
-      "description": "OPENS NOVEMBER 6 | Across three distinct eras, the intertwined lives of three men remain bound by a shared thread of desire, sexuality, enduring pain and the lasting weight of their complex legacies."
-    },
-    {
-      "id": "8020f3bf1b8dbd31",
+      "id": "5d6f6ed9e91ed9df",
       "title": "Being Heumann",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -52,16 +34,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-18T23:15:00.000Z",
-      "endTime": "2026-11-19T01:22:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-19T23:15:00.000Z",
+      "endTime": "2026-11-20T01:22:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/being-heumann/",
       "description": "OPENS NOVEMBER 13 | Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us."
     },
     {
-      "id": "8a426e992241cd63",
-      "title": "Wild Horse Nine",
+      "id": "93b8db471d9a84e7",
+      "title": "You Can See Everything",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -70,15 +52,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-18T23:30:00.000Z",
-      "endTime": "2026-11-19T01:28:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-19T23:30:00.000Z",
+      "endTime": "2026-11-20T02:24:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
-      "id": "12cc8963afc7b5cf",
+      "id": "c023b1bf716810e2",
       "title": "Fjord",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -88,30 +70,84 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-18T23:45:00.000Z",
-      "endTime": "2026-11-19T02:11:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-19T23:45:00.000Z",
+      "endTime": "2026-11-20T02:11:00.000Z",
+      "weekday": "Thursday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/fjord/",
       "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
     },
     {
-      "id": "6d47f53bbb72f5ec",
-      "title": "Vinyl Night",
-      "venue": "Bug Jar",
-      "address": "219 Monroe Ave",
+      "id": "53008102e0167b9d",
+      "title": "Trash Plate Trivia at Dragonfly",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "live-music",
+      "category": "trivia",
       "coordinates": {
-        "lat": 43.1500857,
-        "lng": -77.6001883
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-11-19T02:00:00.000Z",
-      "endTime": "2026-11-19T05:00:00.000Z",
-      "weekday": "Wednesday",
+      "startTime": "2026-11-20T00:00:00.000Z",
+      "endTime": "2026-11-20T02:30:00.000Z",
+      "weekday": "Thursday",
       "source": "recurring",
       "link": "",
-      "description": "Local selectors on the Monroe Ave system."
+      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+    },
+    {
+      "id": "09516f1bcba1bd3e",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T00:00:00.000Z",
+      "endTime": "2026-11-20T01:28:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "6c0f98402de7fb33",
+      "title": "Musk – Nov. 19 & 21",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T00:00:00.000Z",
+      "endTime": "2026-11-20T02:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/musk-2026/",
+      "description": "ONE TAKE DOCUMENTARY SERIES | Thursday, November 19 and Saturday, November 21 | A thorough and unvarnished analysis of Elon Musk, a technology billionaire who serves as the CEO of Tesla, SpaceX, and Twitter."
+    },
+    {
+      "id": "6a91c1f48590fff9",
+      "title": "AngstLAB, $3 cover, drink specials all night",
+      "venue": "Vertex",
+      "address": "169 N Chestnut St",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.16135,
+        "lng": -77.61052
+      },
+      "startTime": "2026-11-20T03:00:00.000Z",
+      "endTime": "2026-11-20T07:00:00.000Z",
+      "weekday": "Thursday",
+      "source": "recurring",
+      "link": "",
+      "description": "Goth/industrial night. Cheap wells until last call."
     }
   ]
 }
