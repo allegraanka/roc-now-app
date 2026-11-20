@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T13:44:04.440Z",
+  "generatedAt": "2026-11-20T21:37:48.761Z",
   "timezone": "America/New_York",
   "day": "Friday",
   "date": "2026-11-20",
-  "count": 9,
+  "count": 14,
   "events": [
     {
       "id": "a2a8c71d875f1c58",
@@ -24,6 +24,24 @@
       "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
     },
     {
+      "id": "8ccd223c47e71d97",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T19:45:00.000Z",
+      "endTime": "2026-11-20T21:07:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
+    },
+    {
       "id": "30fe88a81a6fa699",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
@@ -42,6 +60,24 @@
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
+      "id": "3b9dab1b938dfbb1",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T20:15:00.000Z",
+      "endTime": "2026-11-20T22:17:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
       "id": "99d0d82cf4653cff",
       "title": "Happy Hour Cans",
       "venue": "Lux Lounge",
@@ -58,6 +94,42 @@
       "source": "recurring",
       "link": "",
       "description": "South Ave patio cans before the weekend crush."
+    },
+    {
+      "id": "4be94511fafbb935",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T23:00:00.000Z",
+      "endTime": "2026-11-21T00:22:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
+    },
+    {
+      "id": "e34d612b46c06df2",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-20T23:15:00.000Z",
+      "endTime": "2026-11-21T01:17:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
     },
     {
       "id": "665104dbb39d121d",
@@ -112,6 +184,24 @@
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildhorsenine/",
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
+      "id": "5ca15bbcbdbd72d7",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-21T01:50:00.000Z",
+      "endTime": "2026-11-21T03:52:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
     },
     {
       "id": "bcb0bba140b6cfed",
