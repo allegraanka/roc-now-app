@@ -1,102 +1,12 @@
 {
-  "generatedAt": "2026-11-22T02:44:39.424Z",
+  "generatedAt": "2026-11-22T10:30:36.581Z",
   "timezone": "America/New_York",
-  "day": "Saturday",
-  "date": "2026-11-21",
-  "count": 18,
+  "day": "Sunday",
+  "date": "2026-11-22",
+  "count": 14,
   "events": [
     {
-      "id": "9ee09fc96b48e4c1",
-      "title": "Saturday Brunch Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
-      "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
-      },
-      "startTime": "2026-11-21T16:00:00.000Z",
-      "endTime": "2026-11-21T20:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "Lanes, coffee, and a bloody mary."
-    },
-    {
-      "id": "e7a7a16a27dfc136",
-      "title": "Fjord",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T16:15:00.000Z",
-      "endTime": "2026-11-21T18:41:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/fjord/",
-      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
-    },
-    {
-      "id": "8b222da11c8d0464",
-      "title": "Fatherland",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T16:30:00.000Z",
-      "endTime": "2026-11-21T17:52:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/fatherland/",
-      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
-    },
-    {
-      "id": "4339fee4358d90ab",
-      "title": "Club Kid",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T16:45:00.000Z",
-      "endTime": "2026-11-21T18:47:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/clubkid/",
-      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
-    },
-    {
-      "id": "f78a6744ddfbb41f",
-      "title": "South Wedge Cask Night",
-      "venue": "Tap & Mallet",
-      "address": "381 Gregory St",
-      "neighborhood": "",
-      "category": "drink-special",
-      "coordinates": {
-        "lat": 43.14682,
-        "lng": -77.60347
-      },
-      "startTime": "2026-11-21T19:00:00.000Z",
-      "endTime": "2026-11-22T03:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "recurring",
-      "link": "",
-      "description": "One-off casks and a packed Gregory St bar."
-    },
-    {
-      "id": "63aa1aa472379849",
+      "id": "01f30dc875a6a2fa",
       "title": "Wild Horse Nine",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -106,51 +16,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-21T19:30:00.000Z",
-      "endTime": "2026-11-21T21:28:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T16:30:00.000Z",
+      "endTime": "2026-11-22T18:28:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/wildhorsenine/",
       "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
     },
     {
-      "id": "95328b1c6ae367ab",
-      "title": "Fatherland",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T19:45:00.000Z",
-      "endTime": "2026-11-21T21:07:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/fatherland/",
-      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
-    },
-    {
-      "id": "83f665c23193bb32",
-      "title": "Club Kid",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T20:00:00.000Z",
-      "endTime": "2026-11-21T22:02:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/clubkid/",
-      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
-    },
-    {
-      "id": "d6b8406a960bc541",
+      "id": "6e95c6212b030ac8",
       "title": "The Only Living Pickpocket in New York",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -160,51 +34,33 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-21T20:30:00.000Z",
-      "endTime": "2026-11-21T21:58:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T16:45:00.000Z",
+      "endTime": "2026-11-22T18:13:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
       "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
     },
     {
-      "id": "4c6d4a04cf68c008",
-      "title": "Club Kid",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
+      "id": "1d6c2666a08735ba",
+      "title": "Funday Funday",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
       "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
+        "lat": 43.14624,
+        "lng": -77.60555
       },
-      "startTime": "2026-11-21T23:00:00.000Z",
-      "endTime": "2026-11-22T01:02:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/clubkid/",
-      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+      "startTime": "2026-11-22T17:00:00.000Z",
+      "endTime": "2026-11-23T01:00:00.000Z",
+      "weekday": "Sunday",
+      "source": "recurring",
+      "link": "",
+      "description": "Day-drink cans and a lazy South Ave patio."
     },
     {
-      "id": "e9ed9b155b767234",
-      "title": "Wild Horse Nine",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-21T23:15:00.000Z",
-      "endTime": "2026-11-22T01:13:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
-    },
-    {
-      "id": "e31eec7109f6d968",
+      "id": "3d755a70857c7cfe",
       "title": "Fatherland",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -214,69 +70,15 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-21T23:30:00.000Z",
-      "endTime": "2026-11-22T00:52:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T17:00:00.000Z",
+      "endTime": "2026-11-22T18:22:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/fatherland/",
       "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
     },
     {
-      "id": "6d7411d286982493",
-      "title": "You Can See Everything",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-22T00:00:00.000Z",
-      "endTime": "2026-11-22T02:54:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/you-can-see-everything/",
-      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
-    },
-    {
-      "id": "839248ee9e133c9b",
-      "title": "Musk – Nov. 19 & 21",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-22T00:00:00.000Z",
-      "endTime": "2026-11-22T02:00:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/musk-2026/",
-      "description": "ONE TAKE DOCUMENTARY SERIES | Thursday, November 19 and Saturday, November 21 | A thorough and unvarnished analysis of Elon Musk, a technology billionaire who serves as the CEO of Tesla, SpaceX, and Twitter."
-    },
-    {
-      "id": "aaf6f7b4d96c3f42",
-      "title": "Fjord",
-      "venue": "The Little Theatre",
-      "address": "240 East Ave",
-      "neighborhood": "East End",
-      "category": "Movies",
-      "coordinates": {
-        "lat": 43.1544,
-        "lng": -77.5959
-      },
-      "startTime": "2026-11-22T01:30:00.000Z",
-      "endTime": "2026-11-22T03:56:00.000Z",
-      "weekday": "Saturday",
-      "source": "The Little Theatre",
-      "link": "https://thelittle.org/fjord/",
-      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
-    },
-    {
-      "id": "838d43faa31796be",
+      "id": "85f6bef7fe931bd5",
       "title": "Club Kid",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
@@ -286,16 +88,16 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-22T01:50:00.000Z",
-      "endTime": "2026-11-22T03:52:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T17:15:00.000Z",
+      "endTime": "2026-11-22T19:17:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
       "link": "https://thelittle.org/clubkid/",
       "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
     },
     {
-      "id": "6784ca4ebf5dbc1c",
-      "title": "Wild Horse Nine",
+      "id": "9a4b280d5208b83c",
+      "title": "Fatherland",
       "venue": "The Little Theatre",
       "address": "240 East Ave",
       "neighborhood": "East End",
@@ -304,30 +106,156 @@
         "lat": 43.1544,
         "lng": -77.5959
       },
-      "startTime": "2026-11-22T02:00:00.000Z",
-      "endTime": "2026-11-22T03:58:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T19:30:00.000Z",
+      "endTime": "2026-11-22T20:52:00.000Z",
+      "weekday": "Sunday",
       "source": "The Little Theatre",
-      "link": "https://thelittle.org/wildhorsenine/",
-      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
     },
     {
-      "id": "4b7de40a5cb87127",
-      "title": "Industrial Saturday",
-      "venue": "Vertex",
-      "address": "169 N Chestnut St",
-      "neighborhood": "",
-      "category": "live-music",
+      "id": "c55658b825f15df2",
+      "title": "You Can See Everything",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.16135,
-        "lng": -77.61052
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-22T03:00:00.000Z",
-      "endTime": "2026-11-22T07:00:00.000Z",
-      "weekday": "Saturday",
+      "startTime": "2026-11-22T19:45:00.000Z",
+      "endTime": "2026-11-22T22:39:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/you-can-see-everything/",
+      "description": "OPENS OCTOBER 16 | \"Why would I deceive you?\" Notorious Silicon Valley felon Elizabeth Holmes invites a film crew into her home in the final days before she heads to prison. Directed by Nathan Fielder & Lance Oppenheim."
+    },
+    {
+      "id": "c15f3a9743be6163",
+      "title": "Fjord",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T20:00:00.000Z",
+      "endTime": "2026-11-22T22:26:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fjord/",
+      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
+    },
+    {
+      "id": "112a35b892c6ab3b",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T20:15:00.000Z",
+      "endTime": "2026-11-22T22:17:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
+      "id": "ba55e66fafda05a1",
+      "title": "Sunday Funday Trivia",
+      "venue": "Tap & Mallet",
+      "address": "381 Gregory St",
+      "neighborhood": "",
+      "category": "trivia",
+      "coordinates": {
+        "lat": 43.14682,
+        "lng": -77.60347
+      },
+      "startTime": "2026-11-22T21:00:00.000Z",
+      "endTime": "2026-11-22T23:30:00.000Z",
+      "weekday": "Sunday",
       "source": "recurring",
       "link": "",
-      "description": "Vertex late-night industrial set. Cover stays cheap."
+      "description": "Low-stakes quiz and pub pies."
+    },
+    {
+      "id": "a50f1c326c1014f4",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T23:00:00.000Z",
+      "endTime": "2026-11-23T00:22:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
+    },
+    {
+      "id": "d40cf5df97c69583",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T23:15:00.000Z",
+      "endTime": "2026-11-23T00:43:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "0a5555f292e81a2b",
+      "title": "Fjord",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T23:30:00.000Z",
+      "endTime": "2026-11-23T01:56:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fjord/",
+      "description": "OPENS NOVEMBER 13 | From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Starring Sebastian Stan and Renate Reinsve."
+    },
+    {
+      "id": "79409e614d34d021",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-22T23:45:00.000Z",
+      "endTime": "2026-11-23T01:47:00.000Z",
+      "weekday": "Sunday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
     }
   ]
 }
