@@ -1,45 +1,135 @@
 {
-  "generatedAt": "2026-11-24T23:09:07.553Z",
+  "generatedAt": "2026-11-25T05:32:38.691Z",
   "timezone": "America/New_York",
-  "day": "Tuesday",
-  "date": "2026-11-24",
-  "count": 2,
+  "day": "Wednesday",
+  "date": "2026-11-25",
+  "count": 7,
   "events": [
     {
-      "id": "196ca20ffb16ebfc",
-      "title": "$2 Tuesdays",
-      "venue": "Monty's Krown",
-      "address": "875 Monroe Ave",
+      "id": "329ac8f085a8b4bf",
+      "title": "Wing Wednesday",
+      "venue": "Dragonfly Tavern",
+      "address": "725 Park Ave",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "food-special",
       "coordinates": {
-        "lat": 43.14092,
-        "lng": -77.58471
+        "lat": 43.1475546,
+        "lng": -77.5764396
       },
-      "startTime": "2026-11-24T21:00:00.000Z",
-      "endTime": "2026-11-25T04:00:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-25T21:00:00.000Z",
+      "endTime": "2026-11-26T03:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Two-dollar drafts until they kick you out."
+      "description": "Park Ave wings and pitcher specials."
     },
     {
-      "id": "867d6d9d5f4bd272",
-      "title": "Trivia Tuesday",
-      "venue": "The Old Toad",
-      "address": "277 Alexander St",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "05811bfbacd9329f",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.15155,
-        "lng": -77.59548
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-25T00:00:00.000Z",
-      "endTime": "2026-11-25T02:30:00.000Z",
-      "weekday": "Tuesday",
+      "startTime": "2026-11-25T23:00:00.000Z",
+      "endTime": "2026-11-26T00:58:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
+      "id": "8fdc70513e88c195",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-25T23:15:00.000Z",
+      "endTime": "2026-11-26T00:37:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
+    },
+    {
+      "id": "0350c5251efdb4cd",
+      "title": "Paper Tiger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-25T23:30:00.000Z",
+      "endTime": "2026-11-26T01:25:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/paper-tiger-2026/",
+      "description": "OPENS WEDNESDAY, NOVEMBER 25 | Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences. Starring Adam Driver, Miles Teller, and Scarlett Johansson"
+    },
+    {
+      "id": "d0ffe4aac5e4d5cf",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-25T23:45:00.000Z",
+      "endTime": "2026-11-26T01:47:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
+      "id": "2eeb084b010c8593",
+      "title": "Hook (1991) – Nov. 25 & 29",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-26T00:00:00.000Z",
+      "endTime": "2026-11-26T02:00:00.000Z",
+      "weekday": "Wednesday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/hook-merrylittle/",
+      "description": "MERRY LITTLE | Wednesday, November 25 and Sunday, November 29 | The beloved 1991 Peter Pan sequel, directed by Steven Spielberg, starring Dustin Hoffman and Robin Williams. Celebrating 35 years of \"Bangarang!\""
+    },
+    {
+      "id": "6061f745d6e8587c",
+      "title": "Vinyl Night",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-11-26T02:00:00.000Z",
+      "endTime": "2026-11-26T05:00:00.000Z",
+      "weekday": "Wednesday",
       "source": "recurring",
       "link": "",
-      "description": "Pub quiz in the front room. Teams of six."
+      "description": "Local selectors on the Monroe Ave system."
     }
   ]
 }
