@@ -1,63 +1,279 @@
 {
-  "generatedAt": "2026-11-27T02:19:31.721Z",
+  "generatedAt": "2026-11-27T11:04:45.903Z",
   "timezone": "America/New_York",
-  "day": "Thursday",
-  "date": "2026-11-26",
-  "count": 3,
+  "day": "Friday",
+  "date": "2026-11-27",
+  "count": 15,
   "events": [
     {
-      "id": "334e1eeab14c0312",
-      "title": "League Night Bowling",
-      "venue": "Radio Social",
-      "address": "20 Carlson Rd",
-      "neighborhood": "",
-      "category": "bowling",
+      "id": "21da1d1df72d7b43",
+      "title": "Paper Tiger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1504626,
-        "lng": -77.5614512
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-26T23:00:00.000Z",
-      "endTime": "2026-11-27T03:00:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Walk-up lanes and pinsetter racket."
+      "startTime": "2026-11-27T19:30:00.000Z",
+      "endTime": "2026-11-27T21:25:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/paper-tiger-2026/",
+      "description": "OPENS WEDNESDAY, NOVEMBER 25 | Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences. Starring Adam Driver, Miles Teller, and Scarlett Johansson"
     },
     {
-      "id": "007e59be89ba60c5",
-      "title": "Trash Plate Trivia at Dragonfly",
-      "venue": "Dragonfly Tavern",
-      "address": "725 Park Ave",
-      "neighborhood": "",
-      "category": "trivia",
+      "id": "1cb62b90247e85be",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
       "coordinates": {
-        "lat": 43.1475546,
-        "lng": -77.5764396
+        "lat": 43.1544,
+        "lng": -77.5959
       },
-      "startTime": "2026-11-27T00:00:00.000Z",
-      "endTime": "2026-11-27T02:30:00.000Z",
-      "weekday": "Thursday",
-      "source": "recurring",
-      "link": "",
-      "description": "Garbage-plate rounds, cheap pitchers, bragging rights."
+      "startTime": "2026-11-27T19:45:00.000Z",
+      "endTime": "2026-11-27T21:07:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
     },
     {
-      "id": "c112099bfe04f0e5",
-      "title": "AngstLAB, $3 cover, drink specials all night",
+      "id": "8f87a7a97ec94b8c",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T20:00:00.000Z",
+      "endTime": "2026-11-27T21:58:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
+      "id": "98774d20ebe54d70",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T20:15:00.000Z",
+      "endTime": "2026-11-27T22:17:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
+      "id": "f3f8eb465544a8aa",
+      "title": "Happy Hour Cans",
+      "venue": "Lux Lounge",
+      "address": "666 South Ave",
+      "neighborhood": "",
+      "category": "drink-special",
+      "coordinates": {
+        "lat": 43.14624,
+        "lng": -77.60555
+      },
+      "startTime": "2026-11-27T21:00:00.000Z",
+      "endTime": "2026-11-28T00:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "South Ave patio cans before the weekend crush."
+    },
+    {
+      "id": "fbe90f78390c54a1",
+      "title": "Paper Tiger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T23:00:00.000Z",
+      "endTime": "2026-11-28T00:55:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/paper-tiger-2026/",
+      "description": "OPENS WEDNESDAY, NOVEMBER 25 | Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences. Starring Adam Driver, Miles Teller, and Scarlett Johansson"
+    },
+    {
+      "id": "a0372c4332151d0e",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T23:15:00.000Z",
+      "endTime": "2026-11-28T00:43:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "306c54c9c64b2f4f",
+      "title": "Fatherland",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T23:30:00.000Z",
+      "endTime": "2026-11-28T00:52:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/fatherland/",
+      "description": "OPENS NOVEMBER 20 | In 1949, the writer Thomas Mann (Hanns Zischler), returning from sixteen years of exile in the US, and his daughter Erika (Sandra Hüller) drive across a divided Germany, from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar."
+    },
+    {
+      "id": "b2896ef15d32d8dc",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-27T23:45:00.000Z",
+      "endTime": "2026-11-28T01:47:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
+      "id": "6bae8f7d8edeca6a",
+      "title": "The Only Living Pickpocket in New York",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-28T01:30:00.000Z",
+      "endTime": "2026-11-28T02:58:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/the-only-living-pickpocket-in-new-york/",
+      "description": "OPENS OCTOBER 30 | When a theft goes awry, a veteran pickpocket is sent on a mission through New York to reclaim it."
+    },
+    {
+      "id": "89e5532b247cf4a8",
+      "title": "Wild Horse Nine",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-28T01:40:00.000Z",
+      "endTime": "2026-11-28T03:38:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/wildhorsenine/",
+      "description": "OPENS NOVEMBER 6 | Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Spy shenanigans ensue. Written and directed by Martin McDonagh (In Bruges, The Banshees of Inisherin)."
+    },
+    {
+      "id": "3529cca3e4140033",
+      "title": "Paper Tiger",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-28T01:50:00.000Z",
+      "endTime": "2026-11-28T03:45:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/paper-tiger-2026/",
+      "description": "OPENS WEDNESDAY, NOVEMBER 25 | Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences. Starring Adam Driver, Miles Teller, and Scarlett Johansson"
+    },
+    {
+      "id": "ca09a447b8d55b8d",
+      "title": "Club Kid",
+      "venue": "The Little Theatre",
+      "address": "240 East Ave",
+      "neighborhood": "East End",
+      "category": "Movies",
+      "coordinates": {
+        "lat": 43.1544,
+        "lng": -77.5959
+      },
+      "startTime": "2026-11-28T02:20:00.000Z",
+      "endTime": "2026-11-28T04:22:00.000Z",
+      "weekday": "Friday",
+      "source": "The Little Theatre",
+      "link": "https://thelittle.org/clubkid/",
+      "description": "OPENS FRIDAY NOVEMBER 20 | A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had. Written, directed by, and starring Jordan Firstman."
+    },
+    {
+      "id": "245fee0ebfab414b",
+      "title": "Darkwave Dance Night",
       "venue": "Vertex",
       "address": "169 N Chestnut St",
       "neighborhood": "",
-      "category": "drink-special",
+      "category": "live-music",
       "coordinates": {
         "lat": 43.16135,
         "lng": -77.61052
       },
-      "startTime": "2026-11-27T03:00:00.000Z",
-      "endTime": "2026-11-27T07:00:00.000Z",
-      "weekday": "Thursday",
+      "startTime": "2026-11-28T03:00:00.000Z",
+      "endTime": "2026-11-28T07:00:00.000Z",
+      "weekday": "Friday",
       "source": "recurring",
       "link": "",
-      "description": "Goth/industrial night. Cheap wells until last call."
+      "description": "Fog, mirrors, and $3 wells on the Chestnut St floor."
+    },
+    {
+      "id": "6df43967c2ae0b75",
+      "title": "Friday Night DJ",
+      "venue": "Bug Jar",
+      "address": "219 Monroe Ave",
+      "neighborhood": "",
+      "category": "live-music",
+      "coordinates": {
+        "lat": 43.1500857,
+        "lng": -77.6001883
+      },
+      "startTime": "2026-11-28T03:00:00.000Z",
+      "endTime": "2026-11-28T07:00:00.000Z",
+      "weekday": "Friday",
+      "source": "recurring",
+      "link": "",
+      "description": "Sweaty floor, cheap covers, last call late."
     }
   ]
 }
